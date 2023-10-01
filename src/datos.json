@@ -1,8 +1,1583 @@
 [
     {
+        "id": 384,
+        "palabra": "a'ajaa",
+        "definicion": "quemar."
+    },
+    {
+        "id": 385,
+        "palabra": "a'aka",
+        "definicion": "1. entre. 2. en (mezclado), en medio de."
+    },
+    {
+        "id": 386,
+        "palabra": "a'alain",
+        "definicion": "mentira. V. alawaa"
+    },
+    {
+        "id": 387,
+        "palabra": "a'alijawaa",
+        "definicion": "estar de parto"
+    },
+    {
+        "id": 388,
+        "palabra": "a'anaa",
+        "definicion": "1. armar. 2. tejer (en un telar). V. anülü, e'inaa"
+    },
+    {
+        "id": 389,
+        "palabra": "a'anapaa",
+        "definicion": "pedir prestado."
+    },
+    {
+        "id": 390,
+        "palabra": "a'anawaa",
+        "definicion": "vestir, vestirse."
+    },
+    {
+        "id": 391,
+        "palabra": "a'apüla",
+        "definicion": "arma."
+    },
+    {
+        "id": 392,
+        "palabra": "a'ata",
+        "definicion": "1. parte, pedazo, porción. 2. lado. 3. compañero, -ra; socio, -cia."
+    },
+    {
+        "id": 393,
+        "palabra": "a'ataa",
+        "definicion": "ponerle a uno (vestido, prenda); ponerse (vestido, prenda)"
+    },
+    {
+        "id": 394,
+        "palabra": "a'atapajaa",
+        "definicion": "esperar."
+    },
+    {
+        "id": 395,
+        "palabra": "a'ato'u",
+        "definicion": "al lado de."
+    },
+    {
+        "id": 396,
+        "palabra": "a'chaataa",
+        "definicion": "a'yaataa."
+    },
+    {
+        "id": 397,
+        "palabra": "a'chükütaa, achükütaa, a'tkütaa",
+        "definicion": "pisar."
+    },
+    {
+        "id": 398,
+        "palabra": "a'ikaa",
+        "definicion": "e'ikaa."
+    },
+    {
+        "id": 399,
+        "palabra": "a'itaa",
+        "definicion": "pegar (con un proyectil)."
+    },
+    {
+        "id": 400,
+        "palabra": "a'itaa juya",
+        "definicion": "llover."
+    },
+    {
+        "id": 401,
+        "palabra": "a'ktütajawaa",
+        "definicion": "sufrir un ataque"
+    },
+    {
+        "id": 402,
+        "palabra": "a'lakajawaa",
+        "definicion": "cocinar."
+    },
+    {
+        "id": 403,
+        "palabra": "a'lapüjaa",
+        "definicion": "soñar con"
+    },
+    {
+        "id": 404,
+        "palabra": "a'luwajaa, a'uwajaa, o'uwajaa",
+        "definicion": "robar."
+    },
+    {
+        "id": 405,
+        "palabra": "a'luwatawaa, o'uwatawaa",
+        "definicion": "huir, escapar"
+    },
+    {
+        "id": 406,
+        "palabra": "a'tkütaa",
+        "definicion": "a'chükütaa."
+    },
+    {
+        "id": 407,
+        "palabra": "a'ttia",
+        "definicion": "cosecha, cultivo. abs. a'ttiee. V. pünajüt"
+    },
+    {
+        "id": 409,
+        "palabra": "a'ü",
+        "definicion": "1. semilla. 2. bala"
+    },
+    {
+        "id": 410,
+        "palabra": "a'üi",
+        "definicion": "1. suegro (de mujer). 2. nuera (de varón)."
+    },
+    {
+        "id": 411,
+        "palabra": "a'ülü",
+        "definicion": "1. suegra (de mujer). 2. nuera (de mujer)."
+    },
+    {
+        "id": 412,
+        "palabra": "a'ülüjaa",
+        "definicion": "regañar."
+    },
+    {
+        "id": 413,
+        "palabra": "a'ülüjirawaa",
+        "definicion": "discutir."
+    },
+    {
+        "id": 414,
+        "palabra": "a'ünüü",
+        "definicion": "enemigo,"
+    },
+    {
+        "id": 415,
+        "palabra": "a'ürülawaa",
+        "definicion": "odiar."
+    },
+    {
+        "id": 416,
+        "palabra": "a'ütpa'a",
+        "definicion": "al lado de, junto a"
+    },
+    {
+        "id": 408,
+        "palabra": "a'uwajaa",
+        "definicion": "a'luwajaa."
+    },
+    {
+        "id": 417,
+        "palabra": "a'waajaa",
+        "definicion": "alabar."
+    },
+    {
+        "id": 420,
+        "palabra": "a'waataa",
+        "definicion": "gritar."
+    },
+    {
+        "id": 421,
+        "palabra": "a'waatawaa",
+        "definicion": "jactarse."
+    },
+    {
+        "id": 422,
+        "palabra": "a'wala",
+        "definicion": "cabello. V. walashi"
+    },
+    {
+        "id": 423,
+        "palabra": "a'walakajaa",
+        "definicion": "dispersar, esparcir"
+    },
+    {
+        "id": 424,
+        "palabra": "a'wanajawaa",
+        "definicion": "cambiar."
+    },
+    {
+        "id": 425,
+        "palabra": "a'wayuuse",
+        "definicion": "esposo, -a. V. wayuu."
+    },
+    {
+        "id": 426,
+        "palabra": "a'wiira, a'wüira",
+        "definicion": "1. lágrima. 2. manantial."
+    },
+    {
+        "id": 427,
+        "palabra": "a'yaataa, a'chaataa",
+        "definicion": "pegar, golpear, azotar"
+    },
+    {
+        "id": 428,
+        "palabra": "a'yalajaa",
+        "definicion": "llorar."
+    },
+    {
+        "id": 429,
+        "palabra": "a'yalajiraa",
+        "definicion": "1. tocar (música o instrumento). 2. tener velorio"
+    },
+    {
+        "id": 132,
+        "palabra": "a'yalajüsü",
+        "definicion": "llorar"
+    },
+    {
+        "id": 430,
+        "palabra": "a'yapüjaa, a'yapajaa",
+        "definicion": "coser."
+    },
+    {
+        "id": 431,
+        "palabra": "a'yataai, -taalü",
+        "definicion": "trabajador, -dora"
+    },
+    {
+        "id": 432,
+        "palabra": "a'yatawaa",
+        "definicion": "trabajar. — n. trabajo"
+    },
+    {
+        "id": 234,
+        "palabra": "aa",
+        "definicion": "sí."
+    },
+    {
+        "id": 240,
+        "palabra": "aa'ayajirawaa",
+        "definicion": "discutir."
+    },
+    {
+        "id": 241,
+        "palabra": "aa'ayula",
+        "definicion": "calor, temperatura"
+    },
+    {
+        "id": 242,
+        "palabra": "aa'in",
+        "definicion": "corazón, alma, espíritu, mente, voluntad."
+    },
+    {
+        "id": 243,
+        "palabra": "aa'inmajaa",
+        "definicion": "cuidar."
+    },
+    {
+        "id": 244,
+        "palabra": "aa'inraa",
+        "definicion": "hacer."
+    },
+    {
+        "id": 1592,
+        "palabra": "aa'inrushi",
+        "definicion": "hacer"
+    },
+    {
+        "id": 245,
+        "palabra": "aa'inyajaa",
+        "definicion": "colgar una hamaca, amarrar el cinturón"
+    },
+    {
+        "id": 246,
+        "palabra": "aa'irü",
+        "definicion": "tía (materna)."
+    },
+    {
+        "id": 247,
+        "palabra": "aa'u",
+        "definicion": "posp. 1. en. 2. encima de. 3. sobre. 4. por (precio). 5. por causa de. — conj.rel. como, puesto que"
+    },
+    {
+        "id": 235,
+        "palabra": "aainjaa",
+        "definicion": "1. hacer. 2. elaborar"
+    },
+    {
+        "id": 236,
+        "palabra": "aainjala",
+        "definicion": "acción mala, pecado. 2. hecho."
+    },
+    {
+        "id": 418,
+        "palabra": "aaipa",
+        "definicion": "buenas noches"
+    },
+    {
+        "id": 238,
+        "palabra": "aajüin",
+        "definicion": "V. aashin."
+    },
+    {
+        "id": 237,
+        "palabra": "aajuna",
+        "definicion": "cubierta, techo. V. aa'u"
+    },
+    {
+        "id": 239,
+        "palabra": "aakataa",
+        "definicion": "quitar."
+    },
+    {
+        "id": 248,
+        "palabra": "aalin, aalii",
+        "definicion": "posp. por causa de. — n.pos. dolor."
+    },
+    {
+        "id": 249,
+        "palabra": "aaluwain",
+        "definicion": "tobillo."
+    },
+    {
+        "id": 250,
+        "palabra": "aamaka",
+        "definicion": "1. cementerio. 2. difunto, -ta."
+    },
+    {
+        "id": 251,
+        "palabra": "aamüjaa, aamajaa",
+        "definicion": "ayunar."
+    },
+    {
+        "id": 252,
+        "palabra": "aanala",
+        "definicion": "cobija."
+    },
+    {
+        "id": 253,
+        "palabra": "aanekaa",
+        "definicion": "V. eenakaa"
+    },
+    {
+        "id": 254,
+        "palabra": "aanükü",
+        "definicion": "boca."
+    },
+    {
+        "id": 255,
+        "palabra": "aapaa1",
+        "definicion": "dar."
+    },
+    {
+        "id": 256,
+        "palabra": "aapaa2",
+        "definicion": "oír."
+    },
+    {
+        "id": 257,
+        "palabra": "aapajaa",
+        "definicion": "escuchar."
+    },
+    {
+        "id": 258,
+        "palabra": "aapawaa",
+        "definicion": "1. tomar, coger. 2. aceptar."
+    },
+    {
+        "id": 259,
+        "palabra": "aapiee",
+        "definicion": "mensajero, -ra."
+    },
+    {
+        "id": 74,
+        "palabra": "aapiee",
+        "definicion": "angel"
+    },
+    {
+        "id": 260,
+        "palabra": "aapiraa",
+        "definicion": "avisar."
+    },
+    {
+        "id": 261,
+        "palabra": "aapuwaa",
+        "definicion": "v.e. estar enfermo, -ma. — v.i. enfermarse."
+    },
+    {
+        "id": 262,
+        "palabra": "aashajawaa",
+        "definicion": "v.i. hablar. — v.t. criticar."
+    },
+    {
+        "id": 263,
+        "palabra": "aashaje'eraa",
+        "definicion": "leer."
+    },
+    {
+        "id": 264,
+        "palabra": "aashichijaa",
+        "definicion": "enojar, provocar. V. jashichii."
+    },
+    {
+        "id": 265,
+        "palabra": "aashichijawaa",
+        "definicion": "enojarse."
+    },
+    {
+        "id": 266,
+        "palabra": "aashin,aajüin",
+        "definicion": "según."
+    },
+    {
+        "id": 267,
+        "palabra": "aataa eejuu",
+        "definicion": "oler."
+    },
+    {
+        "id": 268,
+        "palabra": "aawain",
+        "definicion": "1. peso. 2. influencia."
+    },
+    {
+        "id": 269,
+        "palabra": "aawalaa",
+        "definicion": "1. aflojar. 2. soltar"
+    },
+    {
+        "id": 162,
+        "palabra": "aawalawaa",
+        "definicion": "mejorarse (recuperarse de una enfermedad o padecimiento, ponerse bien de salud)"
+    },
+    {
+        "id": 270,
+        "palabra": "aawalawaa",
+        "definicion": "aliviarse, mejorarse de una aflicción"
+    },
+    {
+        "id": 272,
+        "palabra": "acha'a",
+        "definicion": "1. excremento. 2. óxido."
+    },
+    {
+        "id": 271,
+        "palabra": "achajawaa",
+        "definicion": "buscar. V. mekeerüü."
+    },
+    {
+        "id": 276,
+        "palabra": "ache'e",
+        "definicion": "oreja, oído."
+    },
+    {
+        "id": 167,
+        "palabra": "ache'ese",
+        "definicion": "aro (arete, zarcillo, pendiente)"
+    },
+    {
+        "id": 273,
+        "palabra": "achecheraa",
+        "definicion": "1. apretar. 2. tensar. V. ichee."
+    },
+    {
+        "id": 274,
+        "palabra": "achekaa",
+        "definicion": "querer."
+    },
+    {
+        "id": 275,
+        "palabra": "achekajaa",
+        "definicion": "cobrar deuda, reclamar."
+    },
+    {
+        "id": 277,
+        "palabra": "achepchia",
+        "definicion": "1. sirviente, -ta. 2. esclavo"
+    },
+    {
+        "id": 278,
+        "palabra": "achepü",
+        "definicion": "pintura para la cara."
+    },
+    {
+        "id": 279,
+        "palabra": "achiawaa",
+        "definicion": "amonestar, aconsejar."
+    },
+    {
+        "id": 280,
+        "palabra": "achiirua",
+        "definicion": "detrás de."
+    },
+    {
+        "id": 281,
+        "palabra": "achijiraa",
+        "definicion": "despertar."
+    },
+    {
+        "id": 282,
+        "palabra": "achijirawaa",
+        "definicion": "despertarse."
+    },
+    {
+        "id": 283,
+        "palabra": "achikanain",
+        "definicion": "1. huella. 2. rastro."
+    },
+    {
+        "id": 284,
+        "palabra": "achiki, achikü",
+        "definicion": "relato, noticia. — posp. acerca de."
+    },
+    {
+        "id": 285,
+        "palabra": "achikijee",
+        "definicion": "1. después de. 2. más allá de. — conj.rel. después de que"
+    },
+    {
+        "id": 286,
+        "palabra": "achikiru'u",
+        "definicion": "después de la salida de, en ausencia de. V. ama'ichiki"
+    },
+    {
+        "id": 287,
+        "palabra": "achikua'a",
+        "definicion": "achukua'a."
+    },
+    {
+        "id": 202,
+        "palabra": "achintuin",
+        "definicion": "pedir"
+    },
+    {
+        "id": 288,
+        "palabra": "achira",
+        "definicion": "1. seno. 2. leche."
+    },
+    {
+        "id": 289,
+        "palabra": "achisa, achise, aise",
+        "definicion": "carga."
+    },
+    {
+        "id": 290,
+        "palabra": "achitaa",
+        "definicion": "1. martillar. 2. clavar."
+    },
+    {
+        "id": 291,
+        "palabra": "achon",
+        "definicion": "1. hijo, -ja. 2. cría. 3. fruto, fruta. pl. achonnii, achooin."
+    },
+    {
+        "id": 292,
+        "palabra": "achon'irü",
+        "definicion": "sobrino, -na (materno de hembra)."
+    },
+    {
+        "id": 293,
+        "palabra": "achonyaashi, -sü",
+        "definicion": "1. hijastro, -tra. 2. hijo adoptivo, hija adoptiva"
+    },
+    {
+        "id": 295,
+        "palabra": "achu'laa, atu'laa",
+        "definicion": "1. besar. 2. chupar. V. atujawaa."
+    },
+    {
+        "id": 302,
+        "palabra": "achü'ü",
+        "definicion": "riñón."
+    },
+    {
+        "id": 294,
+        "palabra": "achukua'a, achikua'a",
+        "definicion": "otra vez en cuanto a"
+    },
+    {
+        "id": 300,
+        "palabra": "achüküjaa",
+        "definicion": "1. hacerle cosquillas. 2. comprimir"
+    },
+    {
+        "id": 301,
+        "palabra": "achükütaa",
+        "definicion": "a'chükütaa."
+    },
+    {
+        "id": 296,
+        "palabra": "achumajaa, achunjaa",
+        "definicion": "estar celoso, -sa; estar envidioso, -sa."
+    },
+    {
+        "id": 297,
+        "palabra": "achuntaa",
+        "definicion": "pedir."
+    },
+    {
+        "id": 298,
+        "palabra": "achuwajawaa",
+        "definicion": "1. prender (fuego). 2. arrancar (un motor). — v.t. prender (fuego). V. chuwataa"
+    },
+    {
+        "id": 299,
+        "palabra": "achuwala",
+        "definicion": "llama."
+    },
+    {
+        "id": 303,
+        "palabra": "ai1",
+        "definicion": "diente. V. aliina."
+    },
+    {
+        "id": 304,
+        "palabra": "ai2",
+        "definicion": "noche"
+    },
+    {
+        "id": 305,
+        "palabra": "ai3",
+        "definicion": "yuca. pos. a'aise"
+    },
+    {
+        "id": 306,
+        "palabra": "aicha, aiche",
+        "definicion": "ropa interior"
+    },
+    {
+        "id": 188,
+        "palabra": "aijiraainjanain",
+        "definicion": "amor"
+    },
+    {
+        "id": 307,
+        "palabra": "aikeyuu",
+        "definicion": "nieto, -ta; descendiente"
+    },
+    {
+        "id": 308,
+        "palabra": "aikkaa",
+        "definicion": "oikkaa."
+    },
+    {
+        "id": 309,
+        "palabra": "aikkalawaa",
+        "definicion": "1. sentarse. 2. posesionarse."
+    },
+    {
+        "id": 310,
+        "palabra": "aikkale'eraa",
+        "definicion": "1. sentar. 2. establecer. 3. instalar"
+    },
+    {
+        "id": 311,
+        "palabra": "ainchi",
+        "definicion": "cuñado (de varón)."
+    },
+    {
+        "id": 312,
+        "palabra": "ainkaa",
+        "definicion": "poder, lograr"
+    },
+    {
+        "id": 314,
+        "palabra": "ainküin",
+        "definicion": "en, entre."
+    },
+    {
+        "id": 313,
+        "palabra": "ainkuwaa aa'in",
+        "definicion": "1. asustarse. 2. sorprenderse."
+    },
+    {
+        "id": 315,
+        "palabra": "aipa'a",
+        "definicion": "adv. de noche"
+    },
+    {
+        "id": 316,
+        "palabra": "aipa'inka",
+        "definicion": "adv. anoche"
+    },
+    {
+        "id": 317,
+        "palabra": "aippia",
+        "definicion": "n. árbol trupillo, cují. pos. a'aippiase."
+    },
+    {
+        "id": 318,
+        "palabra": "aippirua",
+        "definicion": "adj., pron. seis."
+    },
+    {
+        "id": 319,
+        "palabra": "airu'u",
+        "definicion": "posp. en la horqueta de, entre el diente de."
+    },
+    {
+        "id": 320,
+        "palabra": "aise",
+        "definicion": "V. achisa"
+    },
+    {
+        "id": 322,
+        "palabra": "aiwaa apüla, alii apüla",
+        "definicion": "v.i. ser amado por."
+    },
+    {
+        "id": 321,
+        "palabra": "aiwaa, alii",
+        "definicion": "v.i. doler"
+    },
+    {
+        "id": 323,
+        "palabra": "aja'apüin",
+        "definicion": "tamaño (por altura, longitud)."
+    },
+    {
+        "id": 324,
+        "palabra": "aja'itaa",
+        "definicion": "1. recoger agua. 2. sacar(un líquido)."
+    },
+    {
+        "id": 325,
+        "palabra": "aja'lajawaa",
+        "definicion": "terminarse, agotarse"
+    },
+    {
+        "id": 326,
+        "palabra": "aja'laje'eraa",
+        "definicion": "1. agotar. 2. destruir, exterminar."
+    },
+    {
+        "id": 327,
+        "palabra": "aja'ttaa",
+        "definicion": "terminarse, acabarse."
+    },
+    {
+        "id": 328,
+        "palabra": "ajapkii, ejepkii",
+        "definicion": "muñeca."
+    },
+    {
+        "id": 330,
+        "palabra": "ajapü",
+        "definicion": "mano."
+    },
+    {
+        "id": 329,
+        "palabra": "ajapulu'uwaa",
+        "definicion": "estar a cargo de."
+    },
+    {
+        "id": 331,
+        "palabra": "ajapüna",
+        "definicion": "pulsera."
+    },
+    {
+        "id": 332,
+        "palabra": "ajaraittaa",
+        "definicion": "1. halar. 2. arrastrar."
+    },
+    {
+        "id": 333,
+        "palabra": "ajataa",
+        "definicion": "golpear, pegar"
+    },
+    {
+        "id": 334,
+        "palabra": "ajayajaa",
+        "definicion": "espiar. — v.t. acechar."
+    },
+    {
+        "id": 352,
+        "palabra": "ajü",
+        "definicion": "1. savia, resina. 2. pus."
+    },
+    {
+        "id": 335,
+        "palabra": "ajuichajaa",
+        "definicion": "ojuichajaa."
+    },
+    {
+        "id": 336,
+        "palabra": "ajuittaa, ojuittaa",
+        "definicion": "salir."
+    },
+    {
+        "id": 337,
+        "palabra": "ajuittiraa, ojuittiraa",
+        "definicion": "1. sacar. 2. librar."
+    },
+    {
+        "id": 338,
+        "palabra": "ajujawaa, ojujawaa",
+        "definicion": "bostezar."
+    },
+    {
+        "id": 339,
+        "palabra": "ajulijaa, ojulejaa",
+        "definicion": "mendigar."
+    },
+    {
+        "id": 340,
+        "palabra": "ajuntaa",
+        "definicion": "ojuntaa."
+    },
+    {
+        "id": 341,
+        "palabra": "ajununtawaa",
+        "definicion": "ojununtawaa."
+    },
+    {
+        "id": 342,
+        "palabra": "ajurulajaa, ojurulajaa",
+        "definicion": "revolver."
+    },
+    {
+        "id": 159,
+        "palabra": "ajütaa",
+        "definicion": "tirar (enviar, botar)"
+    },
+    {
+        "id": 353,
+        "palabra": "ajütaa",
+        "definicion": "enviar, mandar"
+    },
+    {
+        "id": 354,
+        "palabra": "ajütaa achikü",
+        "definicion": "1. soltar. 2. empujar."
+    },
+    {
+        "id": 343,
+        "palabra": "ajutaa, ojutaa",
+        "definicion": "1. tirar, lanzar. 2. botar."
+    },
+    {
+        "id": 344,
+        "palabra": "ajutalaa, ojutalaa",
+        "definicion": "abrir."
+    },
+    {
+        "id": 355,
+        "palabra": "ajütawaa achikü",
+        "definicion": "rechazar, rehusar."
+    },
+    {
+        "id": 345,
+        "palabra": "ajuttaa",
+        "definicion": "ojuttaa."
+    },
+    {
+        "id": 356,
+        "palabra": "ajüttawaa",
+        "definicion": "ejittawaa."
+    },
+    {
+        "id": 346,
+        "palabra": "ajuttiraa",
+        "definicion": "ojuttiraa."
+    },
+    {
+        "id": 347,
+        "palabra": "ajutu, ojutu",
+        "definicion": "valor."
+    },
+    {
+        "id": 348,
+        "palabra": "ajutuwaa, ojutuwaa",
+        "definicion": "caerse."
+    },
+    {
+        "id": 349,
+        "palabra": "ajuuna",
+        "definicion": "ojuuna."
+    },
+    {
+        "id": 350,
+        "palabra": "ajuyaajaa, ojuyaajaa",
+        "definicion": "1.pedir prestado, tomar prestado. 2. deber."
+    },
+    {
+        "id": 351,
+        "palabra": "ajuyaala, ojuyaala",
+        "definicion": "deuda."
+    },
+    {
+        "id": 357,
+        "palabra": "aka",
+        "definicion": "posp. con (instrumento). — conj.rel. porque, como"
+    },
+    {
+        "id": 363,
+        "palabra": "aka'aya",
+        "definicion": "adv. asimismo"
+    },
+    {
+        "id": 358,
+        "palabra": "akaaliijaa, akaalinjaa",
+        "definicion": "ayudar."
+    },
+    {
+        "id": 359,
+        "palabra": "akacheraa",
+        "definicion": "colgar."
+    },
+    {
+        "id": 360,
+        "palabra": "akaijaa",
+        "definicion": "1. fumar. 2. ahumar"
+    },
+    {
+        "id": 20,
+        "palabra": "akaisa'a",
+        "definicion": "Pero él"
+    },
+    {
+        "id": 361,
+        "palabra": "akaisa'a, akatsa'a, akanasa'a",
+        "definicion": "conj. pero, sin embargo. gram. Son las formas masculina, no masculina, y plural. La conjunción concuerda con el complemento del verbo transitivo o con el sujeto si el verbo no es transitivo"
+    },
+    {
+        "id": 362,
+        "palabra": "akajee",
+        "definicion": "posp. por medio de. — conj.rel. porque"
+    },
+    {
+        "id": 364,
+        "palabra": "akalia, aka'iya",
+        "definicion": "fecha, día de, tiempo de. V. ka'i."
+    },
+    {
+        "id": 365,
+        "palabra": "akalu'ujaa",
+        "definicion": "llenar. V. alu'u"
+    },
+    {
+        "id": 118,
+        "palabra": "akamüjüsü",
+        "definicion": "fumar"
+    },
+    {
+        "id": 366,
+        "palabra": "akanain",
+        "definicion": "sueldo, ganancia"
+    },
+    {
+        "id": 367,
+        "palabra": "akanajaa",
+        "definicion": "1. ganar. 2. vencer."
+    },
+    {
+        "id": 157,
+        "palabra": "akanajaa",
+        "definicion": "vencer (adaptacion del castellano de ganar)"
+    },
+    {
+        "id": 368,
+        "palabra": "akanajuwaa",
+        "definicion": "ser vencido, -da."
+    },
+    {
+        "id": 22,
+        "palabra": "akanasa'a naya",
+        "definicion": "Pero ellos"
+    },
+    {
+        "id": 369,
+        "palabra": "akaratshi, akaraishi",
+        "definicion": "siete."
+    },
+    {
+        "id": 370,
+        "palabra": "akasalajaa",
+        "definicion": "asalajaa."
+    },
+    {
+        "id": 371,
+        "palabra": "akatalaa",
+        "definicion": "separar, apartar"
+    },
+    {
+        "id": 372,
+        "palabra": "akatalawaa",
+        "definicion": "apartarse."
+    },
+    {
+        "id": 19,
+        "palabra": "akatsa'a",
+        "definicion": "Pero"
+    },
+    {
+        "id": 21,
+        "palabra": "akatsa'a shia",
+        "definicion": "Pero ella"
+    },
+    {
+        "id": 158,
+        "palabra": "akorolo",
+        "definicion": "propiedad (pertencia, se refiere a posesiones pequeñas como artefactos del hogar, tazas etc. puede transmitir la idea de pieza o solo confirmar que me pertenece, incluso dependiendo del contenido puede describiri los miebros o fenitales)"
+    },
+    {
+        "id": 373,
+        "palabra": "akotchajaa, okotchojoo",
+        "definicion": "recoger, reunir"
+    },
+    {
+        "id": 374,
+        "palabra": "akotchajawaa, okotchojowaa",
+        "definicion": "reunirse, juntarse"
+    },
+    {
+        "id": 95,
+        "palabra": "akotchojirawaa aso'iraka waa'in nünain chi senyotkai",
+        "definicion": "conmemoracion"
+    },
+    {
+        "id": 375,
+        "palabra": "akua",
+        "definicion": "1. viaje. 2. curso. 3. paso, akuaippa velocidad"
+    },
+    {
+        "id": 376,
+        "palabra": "akuaippa",
+        "definicion": "1. forma, naturaleza. 2. manera. 3. conducta, costumbre. 4. vida."
+    },
+    {
+        "id": 381,
+        "palabra": "aküjaa",
+        "definicion": "1. contar. 2. confesar"
+    },
+    {
+        "id": 382,
+        "palabra": "aküjaa achikü",
+        "definicion": "acusar, denunciar"
+    },
+    {
+        "id": 221,
+        "palabra": "aküjaa putchi",
+        "definicion": "predicar"
+    },
+    {
+        "id": 377,
+        "palabra": "akulajawaa aa'in",
+        "definicion": "1. sentir pereza. 2. estar aburrido, -da"
+    },
+    {
+        "id": 378,
+        "palabra": "akumajaa, aku'ujaa, akunyajaa",
+        "definicion": "1. hacer, construir. 2. arreglar. 3. componer. 4. crear."
+    },
+    {
+        "id": 97,
+        "palabra": "akumajuushi",
+        "definicion": "creacion"
+    },
+    {
+        "id": 383,
+        "palabra": "akünülaa",
+        "definicion": "masticar."
+    },
+    {
+        "id": 379,
+        "palabra": "akurulaa",
+        "definicion": "tener frío"
+    },
+    {
+        "id": 233,
+        "palabra": "akurus",
+        "definicion": "frio"
+    },
+    {
+        "id": 380,
+        "palabra": "akutkujawaa",
+        "definicion": "temblar."
+    },
+    {
+        "id": 433,
+        "palabra": "alama",
+        "definicion": "pasto. pos. a'alamase, a'alamain."
+    },
+    {
+        "id": 434,
+        "palabra": "alapajaa",
+        "definicion": "llamentar la muerte de uno, asistir a un velorio"
+    },
+    {
+        "id": 435,
+        "palabra": "alataa",
+        "definicion": "pasar, suceder"
+    },
+    {
+        "id": 436,
+        "palabra": "alaüla",
+        "definicion": "tío (materno)."
+    },
+    {
+        "id": 437,
+        "palabra": "alaülashi,",
+        "definicion": "jefe, -fa; comandante; dueño, -ña. pl. alaülashii. V. laülaa"
+    },
+    {
+        "id": 438,
+        "palabra": "alawaa",
+        "definicion": "mentira. V. a'alain."
+    },
+    {
+        "id": 440,
+        "palabra": "ale'e",
+        "definicion": "estómago, vientre, abdomen, barriga."
+    },
+    {
+        "id": 441,
+        "palabra": "ale'ejaa",
+        "definicion": "volver, regresar"
+    },
+    {
+        "id": 442,
+        "palabra": "ale'eru'u",
+        "definicion": "en el vientre de, en el interior de."
+    },
+    {
+        "id": 439,
+        "palabra": "aleewaa",
+        "definicion": "tener amistad."
+    },
+    {
+        "id": 98,
+        "palabra": "alepia",
+        "definicion": "cuchara"
+    },
+    {
+        "id": 443,
+        "palabra": "alerajaa",
+        "definicion": "sentir asco por, aborrecer, desdeñar"
+    },
+    {
+        "id": 444,
+        "palabra": "aleshi",
+        "definicion": "cuñado (de mujer)."
+    },
+    {
+        "id": 445,
+        "palabra": "alia",
+        "definicion": "precio, valor"
+    },
+    {
+        "id": 153,
+        "palabra": "alia",
+        "definicion": "precio (costo, es netamente comercial a diferencia de ajutü Valor que puede aludir a precio, respeto o valia moral o sentimental)"
+    },
+    {
+        "id": 446,
+        "palabra": "alii",
+        "definicion": "aiwaa."
+    },
+    {
+        "id": 447,
+        "palabra": "aliichajaa",
+        "definicion": "1. ordeñar. 2. exprimir"
+    },
+    {
+        "id": 448,
+        "palabra": "aliika, aliuuka",
+        "definicion": "por la tarde."
+    },
+    {
+        "id": 449,
+        "palabra": "aliikainka",
+        "definicion": "ayer."
+    },
+    {
+        "id": 450,
+        "palabra": "aliikajawaa",
+        "definicion": "subir, subirse."
+    },
+    {
+        "id": 451,
+        "palabra": "aliima",
+        "definicion": "e'iima."
+    },
+    {
+        "id": 452,
+        "palabra": "aliina",
+        "definicion": "muela"
+    },
+    {
+        "id": 453,
+        "palabra": "aliita",
+        "definicion": "totuma (especie de calabaza). pos. a'aliitain V. iita."
+    },
+    {
+        "id": 155,
+        "palabra": "alijuna",
+        "definicion": "extranjero (Foraneo, extraño, forastero, ajeno, inmigrante, alguen que no pertenece a la etnia wayuu, naatajatü, waneejatü)"
+    },
+    {
+        "id": 454,
+        "palabra": "alijunaiki",
+        "definicion": "español (idioma)."
+    },
+    {
+        "id": 455,
+        "palabra": "alio'u",
+        "definicion": "herida."
+    },
+    {
+        "id": 456,
+        "palabra": "aliuuka",
+        "definicion": "aliika."
+    },
+    {
+        "id": 457,
+        "palabra": "alu'u",
+        "definicion": "dentro de, en."
+    },
+    {
+        "id": 466,
+        "palabra": "alü'üjaa",
+        "definicion": "llevar, cargar, traer"
+    },
+    {
+        "id": 458,
+        "palabra": "alu'ujasa'a",
+        "definicion": "pero."
+    },
+    {
+        "id": 467,
+        "palabra": "alü'ülaa",
+        "definicion": "acercarse (en el tiempo; a un meta). V. arütkawaa."
+    },
+    {
+        "id": 463,
+        "palabra": "alüin",
+        "definicion": "nieto, -ta"
+    },
+    {
+        "id": 464,
+        "palabra": "alüinyuu",
+        "definicion": "cuñada (de varón)."
+    },
+    {
+        "id": 465,
+        "palabra": "alüjaa",
+        "definicion": "rastrear."
+    },
+    {
+        "id": 459,
+        "palabra": "alumajaa",
+        "definicion": "amansar (caballo, mula, burro)."
+    },
+    {
+        "id": 208,
+        "palabra": "alutsu",
+        "definicion": "esperar"
+    },
+    {
+        "id": 460,
+        "palabra": "aluuwain",
+        "definicion": "pecho."
+    },
+    {
+        "id": 75,
+        "palabra": "aluwataaushi",
+        "definicion": "apostol"
+    },
+    {
+        "id": 461,
+        "palabra": "aluwatawaa",
+        "definicion": "gobernar, mandar. — v.t. enviar, mandar"
+    },
+    {
+        "id": 462,
+        "palabra": "aluwatawaa aa'u",
+        "definicion": "gobernar."
+    },
+    {
+        "id": 468,
+        "palabra": "ama",
+        "definicion": "caballo. pos. a'amain"
+    },
+    {
+        "id": 472,
+        "palabra": "ama'a",
+        "definicion": "duración."
+    },
+    {
+        "id": 473,
+        "palabra": "ama'ana",
+        "definicion": "donde, en posesión de."
+    },
+    {
+        "id": 474,
+        "palabra": "ama'ichiki, ama'ichikü",
+        "definicion": "antes de la salida de. V. achikiru'u."
+    },
+    {
+        "id": 475,
+        "palabra": "ama'inru'u",
+        "definicion": "mientras."
+    },
+    {
+        "id": 69,
+        "palabra": "ama'üjiraasü sukuwa'ipa",
+        "definicion": "adulterio"
+    },
+    {
+        "id": 469,
+        "palabra": "amaa",
+        "definicion": "con (acompañamiento). — conj.rel. y, que, siendo que."
+    },
+    {
+        "id": 470,
+        "palabra": "amaajachi, -tü",
+        "definicion": "pos.m., n.pos.no m. compañero, -ra. pl. amaajana. V. o'uyaajana."
+    },
+    {
+        "id": 471,
+        "palabra": "amaiwa",
+        "definicion": "en aquel tiempo de"
+    },
+    {
+        "id": 476,
+        "palabra": "amanee",
+        "definicion": "bondad, cariño."
+    },
+    {
+        "id": 477,
+        "palabra": "amaünajaa",
+        "definicion": "cobrar por daño a una persona."
+    },
+    {
+        "id": 478,
+        "palabra": "amaüsijaa",
+        "definicion": "domar, amansar."
+    },
+    {
+        "id": 479,
+        "palabra": "amojujaa",
+        "definicion": "dañar, perjudicar"
+    },
+    {
+        "id": 481,
+        "palabra": "amüchi",
+        "definicion": "múcura (vasija de barro cocido para agua). pos. amüche"
+    },
+    {
+        "id": 482,
+        "palabra": "amüin",
+        "definicion": "posp. a, para"
+    },
+    {
+        "id": 483,
+        "palabra": "amüiwa'a",
+        "definicion": "adj.rel. solo, -la; mismo, -ma; propio, -pia."
+    },
+    {
+        "id": 484,
+        "palabra": "amüla",
+        "definicion": "garganta."
+    },
+    {
+        "id": 485,
+        "palabra": "amülaa",
+        "definicion": "derramarse, gotear"
+    },
+    {
+        "id": 486,
+        "palabra": "amüliajaa",
+        "definicion": "compadecerse de, tener compasión de. 2. consolar. 3. ayudar."
+    },
+    {
+        "id": 156,
+        "palabra": "amüliajaa",
+        "definicion": "compadecer (condolerse, su raiz es müliaa, sufrir)"
+    },
+    {
+        "id": 487,
+        "palabra": "amüliala",
+        "definicion": "sufrimiento."
+    },
+    {
+        "id": 488,
+        "palabra": "amülira",
+        "definicion": "1. vello. 2. pluma"
+    },
+    {
+        "id": 489,
+        "palabra": "amüloulii",
+        "definicion": "1. perderse. 2. perecer"
+    },
+    {
+        "id": 490,
+        "palabra": "amüraajüin",
+        "definicion": "novio, -via."
+    },
+    {
+        "id": 491,
+        "palabra": "amüsain",
+        "definicion": "humo."
+    },
+    {
+        "id": 492,
+        "palabra": "amüschejaa, amüschijaa",
+        "definicion": "atragantarse."
+    },
+    {
+        "id": 480,
+        "palabra": "amuuyuu, amouyuu",
+        "definicion": "cementerio. pos. a'amuuyuuse"
+    },
+    {
+        "id": 493,
+        "palabra": "ana",
+        "definicion": "1. diseño. 2. color."
+    },
+    {
+        "id": 494,
+        "palabra": "anaa1",
+        "definicion": "ser bueno, -na; estar bien. — v.i. sanar. — n. salud"
+    },
+    {
+        "id": 495,
+        "palabra": "anaa2",
+        "definicion": "aquí están, estamos. V. anii, anuu."
+    },
+    {
+        "id": 496,
+        "palabra": "anaajawaa",
+        "definicion": "guardar."
+    },
+    {
+        "id": 497,
+        "palabra": "anaatawaa",
+        "definicion": "acomodarse."
+    },
+    {
+        "id": 498,
+        "palabra": "anachonwaa",
+        "definicion": "ser bonito, -ta."
+    },
+    {
+        "id": 194,
+        "palabra": "anain",
+        "definicion": "palabra que va combinada"
+    },
+    {
+        "id": 499,
+        "palabra": "anain",
+        "definicion": "en, a. — conj.rel. que, siendo que"
+    },
+    {
+        "id": 500,
+        "palabra": "anainjee",
+        "definicion": "de, por. — conj.rel. porque (como consecuencia de)."
+    },
+    {
+        "id": 501,
+        "palabra": "anainmüin",
+        "definicion": "a, hacia."
+    },
+    {
+        "id": 502,
+        "palabra": "anainmüinre'eya",
+        "definicion": "hasta. — conj.rel. hasta que."
+    },
+    {
+        "id": 503,
+        "palabra": "anajaa",
+        "definicion": "mirar, observar"
+    },
+    {
+        "id": 504,
+        "palabra": "anajaa aa'u",
+        "definicion": "1. vigilar. 2. cuidar."
+    },
+    {
+        "id": 505,
+        "palabra": "anakaa",
+        "definicion": "alumbrar."
+    },
+    {
+        "id": 506,
+        "palabra": "analawaa",
+        "definicion": "1. averiguar qué es, examinar. 2. averiguar cómo está"
+    },
+    {
         "id": 6,
         "palabra": "analut",
         "definicion": "gracias"
+    },
+    {
+        "id": 507,
+        "palabra": "analüü",
+        "definicion": "estar mejor de salud."
+    },
+    {
+        "id": 508,
+        "palabra": "anamiaa, anemiaa",
+        "definicion": "ser bueno, -na; ser justo, -ta; ser bondadoso, -sa"
+    },
+    {
+        "id": 1597,
+        "palabra": "anasü",
+        "definicion": "bien"
+    },
+    {
+        "id": 509,
+        "palabra": "aneekaa, aneukaa",
+        "definicion": "escoger, elegir."
+    },
+    {
+        "id": 230,
+        "palabra": "aneerü",
+        "definicion": "ovejo"
+    },
+    {
+        "id": 510,
+        "palabra": "anii",
+        "definicion": "aquí está, estoy (masculino). V. anuu, anaa2"
+    },
+    {
+        "id": 511,
+        "palabra": "anneerü",
+        "definicion": "oveja. pos. a'anneetse"
+    },
+    {
+        "id": 512,
+        "palabra": "ano'u",
+        "definicion": "diseño."
+    },
+    {
+        "id": 513,
+        "palabra": "anooi, anoui",
+        "definicion": "terreno despejado. pos. a'anooise"
+    },
+    {
+        "id": 514,
+        "palabra": "anooipa'a, anouipa'a",
+        "definicion": "afuera."
+    },
+    {
+        "id": 515,
+        "palabra": "anoujaa",
+        "definicion": "creer. — n. fe."
+    },
+    {
+        "id": 516,
+        "palabra": "anouktaa",
+        "definicion": "corregir, arreglar, poner en orden."
+    },
+    {
+        "id": 517,
+        "palabra": "anoula",
+        "definicion": "fe."
+    },
+    {
+        "id": 518,
+        "palabra": "antaa",
+        "definicion": "venir, llegar."
+    },
+    {
+        "id": 519,
+        "palabra": "antaa anain",
+        "definicion": "encontrar."
+    },
+    {
+        "id": 520,
+        "palabra": "antiraa",
+        "definicion": "traer."
     },
     {
         "id": 14,
@@ -10,9 +1585,4624 @@
         "definicion": "bienvenidos"
     },
     {
+        "id": 102,
+        "palabra": "anua",
+        "definicion": "barco"
+    },
+    {
+        "id": 521,
+        "palabra": "anua",
+        "definicion": "barco. pos. a'anuain"
+    },
+    {
+        "id": 526,
+        "palabra": "anüiki, anüikü",
+        "definicion": "1. voz, habla. 2. palabra, mensaje, opinión expresada. 3. idioma."
+    },
+    {
+        "id": 522,
+        "palabra": "anujulaa",
+        "definicion": "ounjulaa."
+    },
+    {
+        "id": 523,
+        "palabra": "anujulawaa",
+        "definicion": "ounjulawaa."
+    },
+    {
+        "id": 527,
+        "palabra": "anülia",
+        "definicion": "nombre."
+    },
+    {
+        "id": 528,
+        "palabra": "anüliee",
+        "definicion": "1. lista de nombres. 2. mensajero."
+    },
+    {
+        "id": 524,
+        "palabra": "anulu",
+        "definicion": "nuca, cuello."
+    },
+    {
+        "id": 529,
+        "palabra": "anülü",
+        "definicion": "telar. pos. a'anülüin. V. a'anaa."
+    },
+    {
+        "id": 525,
+        "palabra": "anuu",
+        "definicion": "aquí está, estoy (no masculino). V. anii, anaa2"
+    },
+    {
+        "id": 533,
+        "palabra": "apa'a",
+        "definicion": "superficie, piso. apa'laaalajaa — posp. en (el área de)."
+    },
+    {
+        "id": 530,
+        "palabra": "apaajirawaa",
+        "definicion": "separarse (cada uno a su propio camino)."
+    },
+    {
+        "id": 531,
+        "palabra": "apachera",
+        "definicion": "dedo (del pie). V. ejepira."
+    },
+    {
+        "id": 532,
+        "palabra": "apain",
+        "definicion": "huerta. pos. a'apainse. V. yüüja."
+    },
+    {
+        "id": 534,
+        "palabra": "apalaalajaa",
+        "definicion": "ir de compras."
+    },
+    {
+        "id": 535,
+        "palabra": "apalanajawaa",
+        "definicion": "fluir."
+    },
+    {
+        "id": 536,
+        "palabra": "apalapajaa",
+        "definicion": "hacer rodar"
+    },
+    {
+        "id": 537,
+        "palabra": "apalapajawaa",
+        "definicion": "rodar."
+    },
+    {
+        "id": 538,
+        "palabra": "apalirajaa",
+        "definicion": "mezclar."
+    },
+    {
+        "id": 539,
+        "palabra": "apana1",
+        "definicion": "hoja."
+    },
+    {
+        "id": 540,
+        "palabra": "apana2",
+        "definicion": "hígado."
+    },
+    {
+        "id": 541,
+        "palabra": "apanapajaa",
+        "definicion": "encontrarse con una persona en el camino."
+    },
+    {
+        "id": 542,
+        "palabra": "apantajawaa",
+        "definicion": "irse corriendo."
+    },
+    {
+        "id": 543,
+        "palabra": "apasiajawaa",
+        "definicion": "hacer una visita, pasear."
+    },
+    {
+        "id": 544,
+        "palabra": "apato'u",
+        "definicion": "uña, garra, pezuña."
+    },
+    {
+        "id": 545,
+        "palabra": "aponoo",
+        "definicion": "oponoo."
+    },
+    {
+        "id": 546,
+        "palabra": "apü",
+        "definicion": "atadura, cabestro, cuerda, sarta (de cuentas)."
+    },
+    {
+        "id": 548,
+        "palabra": "apü'ü",
+        "definicion": "muslo."
+    },
+    {
+        "id": 549,
+        "palabra": "apü'üya",
+        "definicion": "pastor, -tora; guardián, -diana; cuidador, -dora."
+    },
+    {
+        "id": 547,
+        "palabra": "apücho'u",
+        "definicion": "detrás de."
+    },
+    {
+        "id": 550,
+        "palabra": "apüla",
+        "definicion": "para, por. — conj.rel. para que."
+    },
+    {
+        "id": 551,
+        "palabra": "apülain",
+        "definicion": "poder."
+    },
+    {
+        "id": 552,
+        "palabra": "apülajaa",
+        "definicion": "prohibir."
+    },
+    {
+        "id": 553,
+        "palabra": "apülapünaa",
+        "definicion": "antes de. — conj.rel. antes de que."
+    },
+    {
+        "id": 554,
+        "palabra": "apülee",
+        "definicion": "lugar, sitio, puesto"
+    },
+    {
+        "id": 555,
+        "palabra": "apüleerua",
+        "definicion": "delante de."
+    },
+    {
+        "id": 556,
+        "palabra": "apüna",
+        "definicion": "camino, sendero. V. wopu."
+    },
+    {
+        "id": 557,
+        "palabra": "apünajaa",
+        "definicion": "sembrar."
+    },
+    {
+        "id": 558,
+        "palabra": "apünüin",
+        "definicion": "tres."
+    },
+    {
+        "id": 559,
+        "palabra": "apüshi",
+        "definicion": "1. familia, pariente. 2. compañero, -ra. 3. parte"
+    },
+    {
+        "id": 163,
+        "palabra": "apüshi",
+        "definicion": "Pariente (familiar)"
+    },
+    {
+        "id": 560,
+        "palabra": "apüshua'a",
+        "definicion": "adj.rel., pron.rel. todo, -da"
+    },
+    {
+        "id": 561,
+        "palabra": "apütaa",
+        "definicion": "dejar."
+    },
+    {
+        "id": 562,
+        "palabra": "apütawaa",
+        "definicion": "ser dejado, -da; quedar."
+    },
+    {
+        "id": 563,
+        "palabra": "apütawaa apüla",
+        "definicion": "1. dejar sobras a. 2. despedirse de."
+    },
+    {
+        "id": 564,
+        "palabra": "apüttaa",
+        "definicion": "romperse (algo como cuerda, bolsa)."
+    },
+    {
+        "id": 565,
+        "palabra": "apüya",
+        "definicion": "epia."
+    },
+    {
+        "id": 566,
+        "palabra": "aralajaa",
+        "definicion": "dejar en remojo"
+    },
+    {
+        "id": 567,
+        "palabra": "aralo'u",
+        "definicion": "coronilla. — posp. encima de, sobre la cabeza de."
+    },
+    {
+        "id": 568,
+        "palabra": "arülaa",
+        "definicion": "ser delgado, -da (de objetos planos)."
+    },
+    {
+        "id": 569,
+        "palabra": "arüleejaa",
+        "definicion": "pastorear."
+    },
+    {
+        "id": 570,
+        "palabra": "arütkawaa",
+        "definicion": "acercarse a. V. alü'ülaa"
+    },
+    {
+        "id": 571,
+        "palabra": "asa",
+        "definicion": "filo."
+    },
+    {
+        "id": 577,
+        "palabra": "asa'a",
+        "definicion": "1. pierna, pata. 2. horcón (de la casa), columna"
+    },
+    {
+        "id": 578,
+        "palabra": "asa'wajaa",
+        "definicion": "alcanzar."
+    },
+    {
+        "id": 572,
+        "palabra": "asaa",
+        "definicion": "beber."
+    },
+    {
+        "id": 573,
+        "palabra": "asaajaa",
+        "definicion": "traer, ir a buscar"
+    },
+    {
+        "id": 574,
+        "palabra": "asachiralü",
+        "definicion": "vaca. V. paa'a"
+    },
+    {
+        "id": 575,
+        "palabra": "asakaa",
+        "definicion": "saludar."
+    },
+    {
+        "id": 201,
+        "palabra": "asakira",
+        "definicion": "pregunta"
+    },
+    {
+        "id": 576,
+        "palabra": "asakiraa",
+        "definicion": "preguntar."
+    },
+    {
+        "id": 579,
+        "palabra": "asala",
+        "definicion": "a causa de, por"
+    },
+    {
+        "id": 580,
+        "palabra": "asalaa",
+        "definicion": "carne."
+    },
+    {
+        "id": 581,
+        "palabra": "asalajaa, akasalajaa",
+        "definicion": "afilar."
+    },
+    {
+        "id": 582,
+        "palabra": "asanalaa aa'in",
+        "definicion": "respirar, suspirar"
+    },
+    {
+        "id": 164,
+        "palabra": "asanalaa aaín",
+        "definicion": "Respirar (inhalar, aliento)"
+    },
+    {
+        "id": 583,
+        "palabra": "asapain",
+        "definicion": "rodilla."
+    },
+    {
+        "id": 584,
+        "palabra": "asapia",
+        "definicion": "pasaje."
+    },
+    {
+        "id": 585,
+        "palabra": "asapü",
+        "definicion": "espalda, columna vertebral"
+    },
+    {
+        "id": 586,
+        "palabra": "asatala",
+        "definicion": "codo."
+    },
+    {
+        "id": 587,
+        "palabra": "asawaa",
+        "definicion": "beber (bebida alcohólica)."
+    },
+    {
+        "id": 588,
+        "palabra": "ase",
+        "definicion": "fibra, pulpa, borra"
+    },
+    {
+        "id": 589,
+        "palabra": "ase'eru'u",
+        "definicion": "mitad, cintura"
+    },
+    {
+        "id": 590,
+        "palabra": "ase'ewain",
+        "definicion": "cadera."
+    },
+    {
+        "id": 591,
+        "palabra": "asema",
+        "definicion": "1. leña. 2. fuego. V. siki."
+    },
+    {
+        "id": 592,
+        "palabra": "asepü",
+        "definicion": "pared."
+    },
+    {
+        "id": 593,
+        "palabra": "aseyuu",
+        "definicion": "espíritu de la piache"
+    },
+    {
+        "id": 621,
+        "palabra": "asha",
+        "definicion": "sangre. V. isha."
+    },
+    {
+        "id": 622,
+        "palabra": "asha",
+        "definicion": "sangre. V. isha."
+    },
+    {
+        "id": 627,
+        "palabra": "asha'walawaa",
+        "definicion": "1. ponerse de pie. 2. pararse. V. sha'wataa."
+    },
+    {
+        "id": 623,
+        "palabra": "ashaittaa",
+        "definicion": "jugar."
+    },
+    {
+        "id": 624,
+        "palabra": "ashajaa",
+        "definicion": "escribir."
+    },
+    {
+        "id": 625,
+        "palabra": "ashajawaa",
+        "definicion": "pintarse la cara."
+    },
+    {
+        "id": 212,
+        "palabra": "ashajera",
+        "definicion": "leer"
+    },
+    {
+        "id": 626,
+        "palabra": "ashakataa",
+        "definicion": "bajar, descender"
+    },
+    {
+        "id": 628,
+        "palabra": "ashantajaa",
+        "definicion": "adivinar (por suposiciones)"
+    },
+    {
+        "id": 629,
+        "palabra": "ashapajawaa",
+        "definicion": "darse prisa, tener prisa."
+    },
+    {
+        "id": 630,
+        "palabra": "ashapatawaa",
+        "definicion": "preocuparse."
+    },
+    {
+        "id": 631,
+        "palabra": "ashataa1",
+        "definicion": "sanar (una herida)."
+    },
+    {
+        "id": 632,
+        "palabra": "ashataa2",
+        "definicion": "copiar, imitar, aprender imitando"
+    },
+    {
+        "id": 633,
+        "palabra": "ashatawaa",
+        "definicion": "partirse. — v.t. partir."
+    },
+    {
+        "id": 634,
+        "palabra": "ashe'ejirawaa",
+        "definicion": "pelear con puños"
+    },
+    {
+        "id": 635,
+        "palabra": "ashe'etaa",
+        "definicion": "golpear, patear"
+    },
+    {
+        "id": 636,
+        "palabra": "ashe'etuwaa oo'ui",
+        "definicion": "tropezar."
+    },
+    {
+        "id": 637,
+        "palabra": "ashe'in",
+        "definicion": "ropa. abs. she'in"
+    },
+    {
+        "id": 638,
+        "palabra": "ashi",
+        "definicion": "1. padre. 2. tío (paterno). abs. ashüü"
+    },
+    {
+        "id": 639,
+        "palabra": "ashiitaa",
+        "definicion": "orinar."
+    },
+    {
+        "id": 640,
+        "palabra": "ashijawaa",
+        "definicion": "lavar (ropa)."
+    },
+    {
+        "id": 641,
+        "palabra": "ashimia",
+        "definicion": "1. suegro (de varón). 2. yerno (de varón)."
+    },
+    {
+        "id": 642,
+        "palabra": "ashiyaashi",
+        "definicion": "padrastro."
+    },
+    {
+        "id": 643,
+        "palabra": "ashottaa, oshottoo",
+        "definicion": "cortar (con hacha, machete)."
+    },
+    {
+        "id": 644,
+        "palabra": "ashoujaa",
+        "definicion": "estornudar."
+    },
+    {
+        "id": 109,
+        "palabra": "ashoujüshi",
+        "definicion": "estornudar"
+    },
+    {
+        "id": 645,
+        "palabra": "ashuku",
+        "definicion": "huevo."
+    },
+    {
+        "id": 646,
+        "palabra": "ashunuu",
+        "definicion": "hermana menor (de varón)."
+    },
+    {
+        "id": 647,
+        "palabra": "ashutaa",
+        "definicion": "meterse, entrar a la fuerza"
+    },
+    {
+        "id": 648,
+        "palabra": "ashutaa aa'u",
+        "definicion": "invadir, atacar."
+    },
+    {
+        "id": 649,
+        "palabra": "ashuunajaa",
+        "definicion": "nadar."
+    },
+    {
+        "id": 149,
+        "palabra": "ashuunajüsü",
+        "definicion": "bañarse"
+    },
+    {
+        "id": 594,
+        "palabra": "asi",
+        "definicion": "cola."
+    },
+    {
+        "id": 595,
+        "palabra": "asii",
+        "definicion": "flor."
+    },
+    {
+        "id": 596,
+        "palabra": "asiipü",
+        "definicion": "sobrino, -na (materno de varón). pl. asiipünuu."
+    },
+    {
+        "id": 597,
+        "palabra": "asiiyajawaa",
+        "definicion": "ensillar."
+    },
+    {
+        "id": 598,
+        "palabra": "asijaa",
+        "definicion": "1. asar. 2. quemar. 3. marcar."
+    },
+    {
+        "id": 599,
+        "palabra": "asipala1",
+        "definicion": "cicatriz."
+    },
+    {
+        "id": 600,
+        "palabra": "asipala2",
+        "definicion": "viga lateral."
+    },
+    {
+        "id": 601,
+        "palabra": "asira",
+        "definicion": "risa."
+    },
+    {
+        "id": 602,
+        "palabra": "asiraa",
+        "definicion": "dar de beber."
+    },
+    {
+        "id": 603,
+        "palabra": "asirajaa",
+        "definicion": "reirse."
+    },
+    {
+        "id": 604,
+        "palabra": "asiranajawaa",
+        "definicion": "resbalarse."
+    },
+    {
+        "id": 605,
+        "palabra": "asirü",
+        "definicion": "1. presa. 2. culpa."
+    },
+    {
+        "id": 606,
+        "palabra": "asiwataa",
+        "definicion": "desatar."
+    },
+    {
+        "id": 607,
+        "palabra": "aso'iraa aa'in",
+        "definicion": "oso'iraa aa'in"
+    },
+    {
+        "id": 608,
+        "palabra": "aso'irawaa aa'in",
+        "definicion": "oso'irawaa aa'in."
+    },
+    {
+        "id": 609,
+        "palabra": "asotaa, osotaa",
+        "definicion": "apuñalar, pinchar. — v.i. brotar, retoñar."
+    },
+    {
+        "id": 160,
+        "palabra": "asotowaa",
+        "definicion": "explotar (reventar, estallar)"
+    },
+    {
+        "id": 610,
+        "palabra": "asottaa, osottaa",
+        "definicion": "quebrarse. — v.t. quebrar."
+    },
+    {
+        "id": 611,
+        "palabra": "asouktaa",
+        "definicion": "responder."
+    },
+    {
+        "id": 615,
+        "palabra": "asü'ütaa",
+        "definicion": "arrancar. — v.i. salir, desprenderse"
+    },
+    {
+        "id": 612,
+        "palabra": "asukaa",
+        "definicion": "recoger leña."
+    },
+    {
+        "id": 613,
+        "palabra": "asukawaa apüla",
+        "definicion": "1. esperar (con preocupación). 2. echar de menos"
+    },
+    {
+        "id": 614,
+        "palabra": "asüküitaa",
+        "definicion": "rasgarse. — v.t. rasgar"
+    },
+    {
+        "id": 616,
+        "palabra": "asüla",
+        "definicion": "1. arteria, vena. 2. tendón."
+    },
+    {
+        "id": 617,
+        "palabra": "asülajaa",
+        "definicion": "regalar."
+    },
+    {
+        "id": 618,
+        "palabra": "asürülaa",
+        "definicion": "1. cerrar. 2. encerrar. V. süttaa."
+    },
+    {
+        "id": 619,
+        "palabra": "asüsiinajaa",
+        "definicion": "acecinar (salar la carne y secarla al aire)."
+    },
+    {
+        "id": 620,
+        "palabra": "asütaa",
+        "definicion": "quitar."
+    },
+    {
+        "id": 650,
+        "palabra": "ata",
+        "definicion": "1. piel, cuero. 2. cáscara, corteza. 3. cubierta, envoltura, vaina."
+    },
+    {
+        "id": 653,
+        "palabra": "ata'ülaa",
+        "definicion": "coger, agarrar"
+    },
+    {
+        "id": 651,
+        "palabra": "ataa",
+        "definicion": "atragantarse."
+    },
+    {
+        "id": 652,
+        "palabra": "atak, atek",
+        "definicion": "caramba!"
+    },
+    {
+        "id": 654,
+        "palabra": "atalejaa",
+        "definicion": "tocar (tambor, puerta)."
+    },
+    {
+        "id": 655,
+        "palabra": "atamawaa",
+        "definicion": "1. levantarse. 2. incorporarse."
+    },
+    {
+        "id": 656,
+        "palabra": "ataralawaa amaa",
+        "definicion": "confiar en, contar con"
+    },
+    {
+        "id": 657,
+        "palabra": "ataralüichi, -rü",
+        "definicion": "adulto, -ta."
+    },
+    {
+        "id": 658,
+        "palabra": "ataüjawaa",
+        "definicion": "violar (a una mujer)."
+    },
+    {
+        "id": 659,
+        "palabra": "atchin",
+        "definicion": "atsüin."
+    },
+    {
+        "id": 660,
+        "palabra": "atek",
+        "definicion": "atak."
+    },
+    {
+        "id": 661,
+        "palabra": "atkaa",
+        "definicion": "flechar, punzar. — v.i. retoñar."
+    },
+    {
+        "id": 123,
+        "palabra": "atkawaa",
+        "definicion": "guerra"
+    },
+    {
+        "id": 662,
+        "palabra": "atkawaa",
+        "definicion": "pelear."
+    },
+    {
+        "id": 663,
+        "palabra": "atouta",
+        "definicion": "piel entera, superficie entera."
+    },
+    {
+        "id": 664,
+        "palabra": "atpajaa",
+        "definicion": "recolectar (alimento)."
+    },
+    {
+        "id": 665,
+        "palabra": "atpanaa",
+        "definicion": "conejo, -ja. pos. a'atpanaase."
+    },
+    {
+        "id": 93,
+        "palabra": "atpanaa",
+        "definicion": "conejo"
+    },
+    {
+        "id": 666,
+        "palabra": "atsüin, atsin, atchin",
+        "definicion": "fuerza, fortaleza."
+    },
+    {
+        "id": 670,
+        "palabra": "atu'laa",
+        "definicion": "achu'laa."
+    },
+    {
+        "id": 671,
+        "palabra": "atu'u",
+        "definicion": "superficie interior, superficie inferior, parte superior de las piernas"
+    },
+    {
+        "id": 675,
+        "palabra": "atüjaa",
+        "definicion": "saber."
+    },
+    {
+        "id": 667,
+        "palabra": "atujawaa",
+        "definicion": "mamar. V. achu'laa"
+    },
+    {
+        "id": 676,
+        "palabra": "atüjawaa aa'u",
+        "definicion": "saber de."
+    },
+    {
+        "id": 668,
+        "palabra": "atujeejachi, -tü",
+        "definicion": "n.pos.m., n.pos.no m. subordinado, -da. pl. atujeejana."
+    },
+    {
+        "id": 669,
+        "palabra": "atujuna",
+        "definicion": "viga."
+    },
+    {
+        "id": 677,
+        "palabra": "atükaa",
+        "definicion": "formar, moldear."
+    },
+    {
+        "id": 678,
+        "palabra": "atükaa pootshi",
+        "definicion": "embarrar."
+    },
+    {
+        "id": 679,
+        "palabra": "atükawaa",
+        "definicion": "atascarse."
+    },
+    {
+        "id": 672,
+        "palabra": "atulaa",
+        "definicion": "entretejer, tejer, trenzar"
+    },
+    {
+        "id": 680,
+        "palabra": "atüma",
+        "definicion": "por."
+    },
+    {
+        "id": 681,
+        "palabra": "atüna",
+        "definicion": "1. brazo, ala. 2. rama. 3. pluma."
+    },
+    {
+        "id": 682,
+        "palabra": "atünajutü",
+        "definicion": "amigo, -ga"
+    },
+    {
+        "id": 673,
+        "palabra": "atunkaa",
+        "definicion": "dormir."
+    },
+    {
+        "id": 683,
+        "palabra": "atürüla",
+        "definicion": "trueno, paso estruendoso de animales"
+    },
+    {
+        "id": 684,
+        "palabra": "atütüjaa, atütajaa",
+        "definicion": "animar, alentar"
+    },
+    {
+        "id": 674,
+        "palabra": "atuushi",
+        "definicion": "1. abuelo. 2. antepasado. pl. atuushinuu"
+    },
+    {
+        "id": 685,
+        "palabra": "aüjaa",
+        "definicion": "cortar (el pelo), afeitar, trasquilar."
+    },
+    {
+        "id": 686,
+        "palabra": "aüjawaa",
+        "definicion": "1. matar (ganado). 2. desollar."
+    },
+    {
+        "id": 687,
+        "palabra": "aüliijana",
+        "definicion": "collar."
+    },
+    {
+        "id": 688,
+        "palabra": "aürülaa",
+        "definicion": "estar flaco, -ca"
+    },
+    {
+        "id": 115,
+        "palabra": "aürütsü",
+        "definicion": "flaca"
+    },
+    {
+        "id": 689,
+        "palabra": "aüttawaa",
+        "definicion": "ejittawaa."
+    },
+    {
+        "id": 690,
+        "palabra": "awaa",
+        "definicion": "saliva."
+    },
+    {
+        "id": 691,
+        "palabra": "awachira, awatira",
+        "definicion": "carrera."
+    },
+    {
+        "id": 692,
+        "palabra": "awajawaa",
+        "definicion": "rajarse, partirse"
+    },
+    {
+        "id": 693,
+        "palabra": "awala",
+        "definicion": "hermano, -na. pl. awalayuu."
+    },
+    {
+        "id": 696,
+        "palabra": "awala'ata",
+        "definicion": "compañero, -ra; pareja"
+    },
+    {
+        "id": 694,
+        "palabra": "awalaajaa",
+        "definicion": "pagar. V. walawaa"
+    },
+    {
+        "id": 695,
+        "palabra": "awalainse",
+        "definicion": "mandíbula, quijada"
+    },
+    {
+        "id": 697,
+        "palabra": "awalapa'a",
+        "definicion": "mejilla."
+    },
+    {
+        "id": 698,
+        "palabra": "awarala",
+        "definicion": "luz. V. waratshii"
+    },
+    {
+        "id": 699,
+        "palabra": "awareejaa",
+        "definicion": "barrer."
+    },
+    {
+        "id": 700,
+        "palabra": "awashirüin",
+        "definicion": "riqueza."
+    },
+    {
+        "id": 701,
+        "palabra": "awataa",
+        "definicion": "1. volar, despegar. 2. saltar, brincar. — v.t. saltar."
+    },
+    {
+        "id": 702,
+        "palabra": "awatawaa",
+        "definicion": "1. correr. 2. soplar (el viento). 3. volar (por el viento"
+    },
+    {
+        "id": 703,
+        "palabra": "awatira",
+        "definicion": "awachira."
+    },
+    {
+        "id": 704,
+        "palabra": "awatse",
+        "definicion": "costilla."
+    },
+    {
+        "id": 705,
+        "palabra": "awaüya, awaüye",
+        "definicion": "semillas (para la siembra). abs. waüyee"
+    },
+    {
+        "id": 706,
+        "palabra": "awoutisaajaa",
+        "definicion": "owoutisaajaa."
+    },
+    {
+        "id": 707,
+        "palabra": "ayaa",
+        "definicion": "relámpago."
+    },
+    {
+        "id": 708,
+        "palabra": "ayaakua, o'uyaakua",
+        "definicion": "1. imagen, fotografía. 2. ejemplo"
+    },
+    {
+        "id": 709,
+        "palabra": "ayaawajaa",
+        "definicion": "contar, medir"
+    },
+    {
+        "id": 78,
+        "palabra": "ayaawajaashi suulia naainjaia",
+        "definicion": "arrepentimiento"
+    },
+    {
+        "id": 710,
+        "palabra": "ayaawase",
+        "definicion": "señal, símbolo"
+    },
+    {
+        "id": 711,
+        "palabra": "ayaawataa",
+        "definicion": "1. reconocer, distinguir. 2. medir"
+    },
+    {
+        "id": 712,
+        "palabra": "ayaawataa aa'u",
+        "definicion": "entender."
+    },
+    {
+        "id": 713,
+        "palabra": "ayalajaa",
+        "definicion": "comprar."
+    },
+    {
+        "id": 714,
+        "palabra": "ayaleraa",
+        "definicion": "levantar, alzar"
+    },
+    {
+        "id": 715,
+        "palabra": "ayaluju",
+        "definicion": "ayolojo."
+    },
+    {
+        "id": 716,
+        "palabra": "ayamüjaa",
+        "definicion": "ayounjaa."
+    },
+    {
+        "id": 717,
+        "palabra": "ayataa",
+        "definicion": "seguir."
+    },
+    {
+        "id": 197,
+        "palabra": "ayatüinjatü",
+        "definicion": "trabajando"
+    },
+    {
+        "id": 187,
+        "palabra": "ayatüshia",
+        "definicion": "seguir"
+    },
+    {
+        "id": 718,
+        "palabra": "ayee",
+        "definicion": "lengua."
+    },
+    {
+        "id": 719,
+        "palabra": "ayolojo, ayaluju",
+        "definicion": "1. sombra. 2. apariencia. 3. espíritu, fantasma."
+    },
+    {
+        "id": 81,
+        "palabra": "ayonnajashi",
+        "definicion": "bailar"
+    },
+    {
+        "id": 720,
+        "palabra": "ayoujaa",
+        "definicion": "criticar."
+    },
+    {
+        "id": 721,
+        "palabra": "ayoujirawaa",
+        "definicion": "competir."
+    },
+    {
+        "id": 722,
+        "palabra": "ayouktaa",
+        "definicion": "rechazar."
+    },
+    {
+        "id": 723,
+        "palabra": "ayounjaa, ayamüjaa",
+        "definicion": "azotar severamente."
+    },
+    {
+        "id": 724,
+        "palabra": "ayu'laa",
+        "definicion": "1. sacar. 2. retirar. 3. restar"
+    },
+    {
+        "id": 726,
+        "palabra": "ayülain",
+        "definicion": "intestino, tripa."
+    },
+    {
+        "id": 727,
+        "palabra": "ayüüjawaa",
+        "definicion": "moler."
+    },
+    {
+        "id": 725,
+        "palabra": "ayuulii",
+        "definicion": "estar enfermo, -ma. — n. enfermedad. V. mayeinwaa."
+    },
+    {
+        "id": 729,
+        "palabra": "cha'aya",
+        "definicion": "allá (lejos)."
+    },
+    {
+        "id": 728,
+        "palabra": "chajaruuta",
+        "definicion": "machete."
+    },
+    {
+        "id": 730,
+        "palabra": "che'esaa",
+        "definicion": "arete. pos. ache'ese."
+    },
+    {
+        "id": 731,
+        "palabra": "che'ojawaa",
+        "definicion": "cho'ujawaa."
+    },
+    {
+        "id": 732,
+        "palabra": "chi",
+        "definicion": "este."
+    },
+    {
+        "id": 191,
+        "palabra": "chi",
+        "definicion": "(el: artículo)"
+    },
+    {
+        "id": 108,
+        "palabra": "chi pulainkai",
+        "definicion": "espiritu santo"
+    },
+    {
+        "id": 206,
+        "palabra": "chi yolujakai",
+        "definicion": "el maligno"
+    },
+    {
+        "id": 733,
+        "palabra": "chii",
+        "definicion": "pron. éste. — adj. este. gram. Esta forma del adjetivo se usa después del nombre"
+    },
+    {
+        "id": 734,
+        "palabra": "chiiruajachi, -tü",
+        "definicion": "adj. posterior; último, -ma. — n.m., n. no m. posterior; último, -ma."
+    },
+    {
+        "id": 735,
+        "palabra": "chira",
+        "definicion": "adj. ese. chirianchi — pron. ése"
+    },
+    {
+        "id": 736,
+        "palabra": "chirinchi",
+        "definicion": "aguardiente."
+    },
+    {
+        "id": 737,
+        "palabra": "chisa",
+        "definicion": "aquel."
+    },
+    {
+        "id": 739,
+        "palabra": "cho'ujawaa, che'ojawaa, ja'ijawaa",
+        "definicion": "faltar."
+    },
+    {
+        "id": 738,
+        "palabra": "chocho",
+        "definicion": "trompo."
+    },
+    {
+        "id": 741,
+        "palabra": "chü'laa",
+        "definicion": "estar mojado, -da. — v.i. mojarse"
+    },
+    {
+        "id": 742,
+        "palabra": "chünü'ü",
+        "definicion": "colibrí."
+    },
+    {
+        "id": 740,
+        "palabra": "chuwataa",
+        "definicion": "estar encendido, -da; estar prendido; estar brillando. V. achuwajawaa."
+    },
+    {
+        "id": 805,
+        "palabra": "e'e",
+        "definicion": "plaga, parásito"
+    },
+    {
+        "id": 806,
+        "palabra": "e'ejena",
+        "definicion": "1. cabalgadura. 2. vehículo, carro."
+    },
+    {
+        "id": 807,
+        "palabra": "e'ejü",
+        "definicion": "sabor."
+    },
+    {
+        "id": 808,
+        "palabra": "e'erü",
+        "definicion": "cuñada (de mujer)."
+    },
+    {
+        "id": 809,
+        "palabra": "e'ichi",
+        "definicion": "1. nariz. 2. hocico. 3. pico (de un pájaro). 4. punta"
+    },
+    {
+        "id": 810,
+        "palabra": "e'iijaa",
+        "definicion": "tener diarrea"
+    },
+    {
+        "id": 811,
+        "palabra": "e'iima, aliima",
+        "definicion": "barba."
+    },
+    {
+        "id": 812,
+        "palabra": "e'iitaa",
+        "definicion": "defecar."
+    },
+    {
+        "id": 813,
+        "palabra": "e'ikaa, a'ikaa",
+        "definicion": "1. enseñar, instruir. 2. llevar"
+    },
+    {
+        "id": 814,
+        "palabra": "e'ikajawaa",
+        "definicion": "llevar y dejar"
+    },
+    {
+        "id": 815,
+        "palabra": "e'ikawaa",
+        "definicion": "estar herido, -da."
+    },
+    {
+        "id": 816,
+        "palabra": "e'inaa",
+        "definicion": "tejer con aguja. V. a'anaa"
+    },
+    {
+        "id": 817,
+        "palabra": "e'ipa",
+        "definicion": "pedazo, parte."
+    },
+    {
+        "id": 818,
+        "palabra": "e'ipajee",
+        "definicion": "en respuesta a."
+    },
+    {
+        "id": 819,
+        "palabra": "e'ipo'u",
+        "definicion": "frente."
+    },
+    {
+        "id": 820,
+        "palabra": "e'ipolo",
+        "definicion": "1. tapa. 2. rival."
+    },
+    {
+        "id": 821,
+        "palabra": "e'ipünawaa",
+        "definicion": "llevar y dejar de camino, dejar de paso."
+    },
+    {
+        "id": 822,
+        "palabra": "e'ira",
+        "definicion": "1. sonido, ruido. 2. llanto. 3. canto (de animal"
+    },
+    {
+        "id": 824,
+        "palabra": "e'iru'u",
+        "definicion": "punta. — posp. en la punta de."
+    },
+    {
+        "id": 823,
+        "palabra": "e'iruku, e'itku",
+        "definicion": "1. carne, cuerpo. 2. casta."
+    },
+    {
+        "id": 825,
+        "palabra": "e'iruma",
+        "definicion": "primogénito, -ta."
+    },
+    {
+        "id": 826,
+        "palabra": "e'itaa",
+        "definicion": "aportar."
+    },
+    {
+        "id": 827,
+        "palabra": "e'itawaa",
+        "definicion": "1. poner, meter. 2. proponer, suponer. 3. designar, asignar, establecer."
+    },
+    {
+        "id": 828,
+        "palabra": "e'itku",
+        "definicion": "e'iruku"
+    },
+    {
+        "id": 829,
+        "palabra": "e'iyeise, e'iyeinse",
+        "definicion": "barbilla, mentón."
+    },
+    {
+        "id": 830,
+        "palabra": "e'iyou",
+        "definicion": "visita; huésped, -da"
+    },
+    {
+        "id": 831,
+        "palabra": "e'raa",
+        "definicion": "1. ver. 2. experimentar"
+    },
+    {
+        "id": 832,
+        "palabra": "e'raajaa",
+        "definicion": "conocer."
+    },
+    {
+        "id": 833,
+        "palabra": "e'rajaa",
+        "definicion": "mirar."
+    },
+    {
+        "id": 834,
+        "palabra": "e'rajaa aa'u",
+        "definicion": "cuidar, vigilar"
+    },
+    {
+        "id": 835,
+        "palabra": "e'rajawaa",
+        "definicion": "mirar, observar, examinar."
+    },
+    {
+        "id": 746,
+        "palabra": "ee'irain",
+        "definicion": "canción. V. jayeechi"
+    },
+    {
+        "id": 747,
+        "palabra": "ee'irajaa",
+        "definicion": "cantar."
+    },
+    {
+        "id": 83,
+        "palabra": "ee'irajülee",
+        "definicion": "cancionero"
+    },
+    {
+        "id": 84,
+        "palabra": "ee'irajüshi",
+        "definicion": "cantar"
+    },
+    {
+        "id": 168,
+        "palabra": "ee'irakaa",
+        "definicion": "suplente (sustituto, reemplazo)"
+    },
+    {
+        "id": 748,
+        "palabra": "ee'iranajawaa",
+        "definicion": "cambiar, reemplazar. — v.i. transformarse."
+    },
+    {
+        "id": 749,
+        "palabra": "ee'irataa",
+        "definicion": "cambiar."
+    },
+    {
+        "id": 750,
+        "palabra": "ee'iratawaa",
+        "definicion": "cambiar de esposo, -sa."
+    },
+    {
+        "id": 751,
+        "palabra": "ee'iree",
+        "definicion": "por afán de. — conj.rel. para que"
+    },
+    {
+        "id": 752,
+        "palabra": "ee'iyalawaa",
+        "definicion": "1. aparecerse, asomar. 2. asomarse."
+    },
+    {
+        "id": 753,
+        "palabra": "ee'iyataa",
+        "definicion": "mostrar, señalar, revelar"
+    },
+    {
+        "id": 743,
+        "palabra": "eechin",
+        "definicion": "marido, esposo."
+    },
+    {
+        "id": 744,
+        "palabra": "eejirawaa",
+        "definicion": "luchar."
+    },
+    {
+        "id": 745,
+        "palabra": "eejuu",
+        "definicion": "olor."
+    },
+    {
+        "id": 754,
+        "palabra": "eema",
+        "definicion": "miedo a."
+    },
+    {
+        "id": 755,
+        "palabra": "eemerawaa",
+        "definicion": "descansar. — n. descanso"
+    },
+    {
+        "id": 756,
+        "palabra": "eemioushi",
+        "definicion": "sombra."
+    },
+    {
+        "id": 757,
+        "palabra": "eenakaa, aanekaa, ounekaa",
+        "definicion": "llamar."
+    },
+    {
+        "id": 224,
+        "palabra": "eeru",
+        "definicion": "perro"
+    },
+    {
+        "id": 758,
+        "palabra": "eerüin",
+        "definicion": "esposa."
+    },
+    {
+        "id": 58,
+        "palabra": "eesü süpüla",
+        "definicion": "Puede...."
+    },
+    {
+        "id": 54,
+        "palabra": "eesüjaʼa süpüla",
+        "definicion": "Puede ser/Puede que..."
+    },
+    {
+        "id": 759,
+        "palabra": "eetaa",
+        "definicion": "vomitar."
+    },
+    {
+        "id": 760,
+        "palabra": "eewaa",
+        "definicion": "haber, existir"
+    },
+    {
+        "id": 761,
+        "palabra": "eewaa ama'ana",
+        "definicion": "tener."
+    },
+    {
+        "id": 762,
+        "palabra": "eewain",
+        "definicion": "víctima."
+    },
+    {
+        "id": 763,
+        "palabra": "eewawaa",
+        "definicion": "accidentarse, lastimarse, dañarse"
+    },
+    {
+        "id": 764,
+        "palabra": "ei",
+        "definicion": "1. madre. 2. tía (paterna). abs. eyüü"
+    },
+    {
+        "id": 765,
+        "palabra": "eimalawaa, ejimalawaa",
+        "definicion": "calmarse, apaciguarse"
+    },
+    {
+        "id": 766,
+        "palabra": "eimata",
+        "definicion": "labio."
+    },
+    {
+        "id": 767,
+        "palabra": "eimüse",
+        "definicion": "eipüse."
+    },
+    {
+        "id": 768,
+        "palabra": "einalu'u",
+        "definicion": "en el fondo de, en el principio de. — n.pos. nalga"
+    },
+    {
+        "id": 769,
+        "palabra": "einase",
+        "definicion": "asiento."
+    },
+    {
+        "id": 770,
+        "palabra": "eipiraa",
+        "definicion": "perseguir."
+    },
+    {
+        "id": 771,
+        "palabra": "eipüse, eimüse",
+        "definicion": "1. hueso. 2. espina. V. jiipü."
+    },
+    {
+        "id": 772,
+        "palabra": "eirakawaa",
+        "definicion": "mirar."
+    },
+    {
+        "id": 773,
+        "palabra": "eisalajaa",
+        "definicion": "cuidar, asear"
+    },
+    {
+        "id": 774,
+        "palabra": "eisalawaa",
+        "definicion": "acostarse."
+    },
+    {
+        "id": 775,
+        "palabra": "eitajaa",
+        "definicion": "repartir."
+    },
+    {
+        "id": 776,
+        "palabra": "eitawaa",
+        "definicion": "volver, regresar"
+    },
+    {
+        "id": 777,
+        "palabra": "eite'eraa",
+        "definicion": "devolver."
+    },
+    {
+        "id": 778,
+        "palabra": "eiwa'ajaa aa'in",
+        "definicion": "perturbar, alborotar, incitar."
+    },
+    {
+        "id": 779,
+        "palabra": "eiyaasü",
+        "definicion": "madrastra."
+    },
+    {
+        "id": 780,
+        "palabra": "eiyajaa",
+        "definicion": "1. curar. 2. hechizar"
+    },
+    {
+        "id": 781,
+        "palabra": "ejeerüjaa",
+        "definicion": "marcar."
+    },
+    {
+        "id": 782,
+        "palabra": "ejejerawaa",
+        "definicion": "cuchichear, secretear"
+    },
+    {
+        "id": 783,
+        "palabra": "ejepira",
+        "definicion": "dedo (de la mano). V. apachera"
+    },
+    {
+        "id": 784,
+        "palabra": "ejepkii",
+        "definicion": "ajapkii."
+    },
+    {
+        "id": 785,
+        "palabra": "ejerü",
+        "definicion": "cuerda (para colgar la hamaca)."
+    },
+    {
+        "id": 786,
+        "palabra": "ejetaa",
+        "definicion": "escupir."
+    },
+    {
+        "id": 787,
+        "palabra": "ejimalawaa",
+        "definicion": "eimalawaa."
+    },
+    {
+        "id": 788,
+        "palabra": "ejitaa",
+        "definicion": "verter (polvos o granos), echar (polvos o granos)."
+    },
+    {
+        "id": 789,
+        "palabra": "ejittawaa, ajüttawaa, aüttawaa",
+        "definicion": "atar."
+    },
+    {
+        "id": 790,
+        "palabra": "ekaa",
+        "definicion": "1. comer. 2. picar."
+    },
+    {
+        "id": 791,
+        "palabra": "eke'ejaa aa'in",
+        "definicion": "molestar."
+    },
+    {
+        "id": 231,
+        "palabra": "ekeesü",
+        "definicion": "quiero comer"
+    },
+    {
+        "id": 792,
+        "palabra": "ekeraajaa",
+        "definicion": "terminar, cumplir. — v.i. cumplirse. V. kerawaa."
+    },
+    {
+        "id": 793,
+        "palabra": "ekerojiraa",
+        "definicion": "meter."
+    },
+    {
+        "id": 794,
+        "palabra": "ekerolaa",
+        "definicion": "entrar."
+    },
+    {
+        "id": 795,
+        "palabra": "ekia",
+        "definicion": "1. mano derecha. 2. utensilio para comer"
+    },
+    {
+        "id": 796,
+        "palabra": "ekii",
+        "definicion": "1. cabeza. 2. mente. 3. tocón. 4. fuente. 5. origen. 6. decena (para formar números). abs. ekiyüü."
+    },
+    {
+        "id": 797,
+        "palabra": "ekiipala",
+        "definicion": "1. almohada. 2. viga maestra, cumbrera"
+    },
+    {
+        "id": 798,
+        "palabra": "ekiipü'ü",
+        "definicion": "cabeza (de un grupo), guía, jefe."
+    },
+    {
+        "id": 799,
+        "palabra": "ekiisa, ekiise",
+        "definicion": "grito. abs. kiisa, kiise"
+    },
+    {
+        "id": 800,
+        "palabra": "ekiisholoin",
+        "definicion": "cerebro, seso."
+    },
+    {
+        "id": 801,
+        "palabra": "ekiraa",
+        "definicion": "dar de comer"
+    },
+    {
+        "id": 802,
+        "palabra": "ekirajaa",
+        "definicion": "enseñar."
+    },
+    {
+        "id": 803,
+        "palabra": "ekirajawaa",
+        "definicion": "estudiar, aprender."
+    },
+    {
+        "id": 111,
+        "palabra": "ekirajawaa sünain tü wiwüliakat",
+        "definicion": "estudio biblico"
+    },
+    {
+        "id": 217,
+        "palabra": "ekulu",
+        "definicion": "comida"
+    },
+    {
+        "id": 90,
+        "palabra": "eküshi",
+        "definicion": "comer"
+    },
+    {
+        "id": 804,
+        "palabra": "eküülü",
+        "definicion": "comida, alimento. pos. eküin"
+    },
+    {
+        "id": 91,
+        "palabra": "eküülü",
+        "definicion": "comida"
+    },
+    {
+        "id": 838,
+        "palabra": "eme'eraa aa'in",
+        "definicion": "1. convencer, persuadir. 2. atraer."
+    },
+    {
+        "id": 839,
+        "palabra": "eme'erainpala",
+        "definicion": "blanco de broma o burla"
+    },
+    {
+        "id": 840,
+        "palabra": "eme'erajawaa",
+        "definicion": "bromear."
+    },
+    {
+        "id": 836,
+        "palabra": "emechi",
+        "definicion": "brasa."
+    },
+    {
+        "id": 837,
+        "palabra": "emeejaa",
+        "definicion": "1. engañar. 2. defraudar."
+    },
+    {
+        "id": 841,
+        "palabra": "ememajaa, ememejaa",
+        "definicion": "lloviznar."
+    },
+    {
+        "id": 842,
+        "palabra": "emeriijaa",
+        "definicion": "emiriijaa."
+    },
+    {
+        "id": 843,
+        "palabra": "emeroloo",
+        "definicion": "hundirse."
+    },
+    {
+        "id": 844,
+        "palabra": "emeshi",
+        "definicion": "suegra (de varón)."
+    },
+    {
+        "id": 845,
+        "palabra": "emetulu",
+        "definicion": "en voz alta, fuertemente"
+    },
+    {
+        "id": 848,
+        "palabra": "emi'ijaa",
+        "definicion": "jugar."
+    },
+    {
+        "id": 849,
+        "palabra": "emi'ira",
+        "definicion": "juguete."
+    },
+    {
+        "id": 846,
+        "palabra": "emia",
+        "definicion": "comida para el viaje"
+    },
+    {
+        "id": 847,
+        "palabra": "emiirua",
+        "definicion": "hermana menor (de mujer)."
+    },
+    {
+        "id": 850,
+        "palabra": "emiraa",
+        "definicion": "estar harto, -ta."
+    },
+    {
+        "id": 851,
+        "palabra": "emiralaa",
+        "definicion": "tragar."
+    },
+    {
+        "id": 852,
+        "palabra": "emiriijaa, emeriijaa",
+        "definicion": "medir."
+    },
+    {
+        "id": 853,
+        "palabra": "emülia",
+        "definicion": "hermano menor. abs. emüliee."
+    },
+    {
+        "id": 854,
+        "palabra": "epaya",
+        "definicion": "hermano, -na mayor"
+    },
+    {
+        "id": 856,
+        "palabra": "epe'e",
+        "definicion": "mano izquierda"
+    },
+    {
+        "id": 855,
+        "palabra": "epejawaa",
+        "definicion": "prender, encender. — v.i., v.t. arrancar (un motor"
+    },
+    {
+        "id": 857,
+        "palabra": "eperaa",
+        "definicion": "estar borracho, -cha. — v.i. emborracharse"
+    },
+    {
+        "id": 859,
+        "palabra": "eperü'üi",
+        "definicion": "sapo."
+    },
+    {
+        "id": 858,
+        "palabra": "eperulajaa",
+        "definicion": "chismear."
+    },
+    {
+        "id": 860,
+        "palabra": "epesajaa",
+        "definicion": "pesar."
+    },
+    {
+        "id": 861,
+        "palabra": "epetaa",
+        "definicion": "ser poco profundo, -da"
+    },
+    {
+        "id": 862,
+        "palabra": "epettaa",
+        "definicion": "tocar."
+    },
+    {
+        "id": 166,
+        "palabra": "epi",
+        "definicion": "veneno (Pocion, pocima)"
+    },
+    {
+        "id": 863,
+        "palabra": "epi1",
+        "definicion": "medicina, remedio, veneno (para exterminar algo)."
+    },
+    {
+        "id": 864,
+        "palabra": "epi2",
+        "definicion": "cabo, mango (de un utensilio)."
+    },
+    {
+        "id": 865,
+        "palabra": "epia, apüya",
+        "definicion": "1. casa. 2. nido. V. miichi."
+    },
+    {
+        "id": 866,
+        "palabra": "epijaa",
+        "definicion": "1. criar. 2. sustentar."
+    },
+    {
+        "id": 867,
+        "palabra": "epijana, epishana",
+        "definicion": "ruido de objetos producido por golpes o fricción"
+    },
+    {
+        "id": 868,
+        "palabra": "epirajaa",
+        "definicion": "llenar, inflar"
+    },
+    {
+        "id": 869,
+        "palabra": "epishana",
+        "definicion": "epijana."
+    },
+    {
+        "id": 870,
+        "palabra": "epitanajaa",
+        "definicion": "barrer."
+    },
+    {
+        "id": 871,
+        "palabra": "era",
+        "definicion": "1. jugo, savia. 2. caldo. 3. sudor."
+    },
+    {
+        "id": 872,
+        "palabra": "eroku",
+        "definicion": "en (un líquido)."
+    },
+    {
+        "id": 873,
+        "palabra": "erouse",
+        "definicion": "tapa, tapón"
+    },
+    {
+        "id": 874,
+        "palabra": "erü",
+        "definicion": "perro, -rra. V. mürülü."
+    },
+    {
+        "id": 875,
+        "palabra": "eweetaa",
+        "definicion": "salir a la vista, aparecer"
+    },
+    {
+        "id": 876,
+        "palabra": "ewein",
+        "definicion": "lunar."
+    },
+    {
+        "id": 877,
+        "palabra": "ewiijaa",
+        "definicion": "silbar."
+    },
+    {
+        "id": 878,
+        "palabra": "ichee",
+        "definicion": "1. estar tenso, -sa. 2. estar apretado, -da. 3. estar, ser tieso, -sa; estar, ser firme; estar, ser fijo, -ja. 4. estar, ser duro, -ra. 5. ser icheiie resistente, ser inflexible."
+    },
+    {
+        "id": 879,
+        "palabra": "ichii",
+        "definicion": "1. sal. 2. árbol dividive. pos. e'ichiise."
+    },
+    {
+        "id": 880,
+        "palabra": "iipünaa",
+        "definicion": "arriba."
+    },
+    {
+        "id": 881,
+        "palabra": "iisho",
+        "definicion": "ave cardenal coriano."
+    },
+    {
+        "id": 882,
+        "palabra": "iita",
+        "definicion": "recipiente para comida o bebida. pos."
+    },
+    {
+        "id": 883,
+        "palabra": "iiwa",
+        "definicion": "primavera (tiempo de lluvias menores), Pléyades (constelación"
+    },
+    {
+        "id": 884,
+        "palabra": "ipa",
+        "definicion": "piedra. pos. eipain"
+    },
+    {
+        "id": 885,
+        "palabra": "ipooluu, ipuoluu",
+        "definicion": "estar encinta, estar embarazada"
+    },
+    {
+        "id": 227,
+        "palabra": "ipoulu",
+        "definicion": "embarazada"
+    },
+    {
+        "id": 886,
+        "palabra": "iraa",
+        "definicion": "ser insípido, -da; tener poco sabor."
+    },
+    {
+        "id": 887,
+        "palabra": "irama",
+        "definicion": "venado."
+    },
+    {
+        "id": 888,
+        "palabra": "irolu",
+        "definicion": "verde (no seco)."
+    },
+    {
+        "id": 889,
+        "palabra": "isaa achiki",
+        "definicion": "no poder. gram. El sujeto de isaa corresponde al complemento del verbo ‘poder’ y el complemento de achiki corresponde al sujeto de ‘poder’."
+    },
+    {
+        "id": 890,
+        "palabra": "isashii",
+        "definicion": "tierra virgen, desierto"
+    },
+    {
+        "id": 892,
+        "palabra": "isha",
+        "definicion": "sangre. V. asha"
+    },
+    {
+        "id": 893,
+        "palabra": "ishaa",
+        "definicion": "sufrir una quemadura, quemarse."
+    },
+    {
+        "id": 894,
+        "palabra": "ishi",
+        "definicion": "hueco, pozo. pos. eishin, eishia."
+    },
+    {
+        "id": 895,
+        "palabra": "ishii",
+        "definicion": "ser amargo, -ga."
+    },
+    {
+        "id": 896,
+        "palabra": "ishira",
+        "definicion": "isira."
+    },
+    {
+        "id": 897,
+        "palabra": "ishoo",
+        "definicion": "ser rojo, -ja."
+    },
+    {
+        "id": 891,
+        "palabra": "isira, ishira",
+        "definicion": "maraca. pos. eisira"
+    },
+    {
+        "id": 898,
+        "palabra": "itaa",
+        "definicion": "secarse."
+    },
+    {
+        "id": 899,
+        "palabra": "ittaa",
+        "definicion": "estar podrido, -da. — v.i. 1. pudrirse, descomponerse, deshacerse. 2. quemarse, sufrir una quemadura."
+    },
+    {
+        "id": 900,
+        "palabra": "iwaa",
+        "definicion": "ser prostituta"
+    },
+    {
+        "id": 901,
+        "palabra": "iwana",
+        "definicion": "iguana."
+    },
+    {
+        "id": 902,
+        "palabra": "iyaa",
+        "definicion": "estar crudo, -da."
+    },
+    {
+        "id": 904,
+        "palabra": "ja'apü, ka'apü",
+        "definicion": "mediano,"
+    },
+    {
+        "id": 905,
+        "palabra": "ja'ijawaa",
+        "definicion": "cho'ujawaa."
+    },
+    {
+        "id": 906,
+        "palabra": "ja'itaichi, -rü, -na",
+        "definicion": "aunque, no importa que. gram. Son las formas masculina, no masculina, y plural. La conjunción concuerda con el complemento del verbo transitivo o con el sujeto si el verbo no es transitivo"
+    },
+    {
+        "id": 195,
+        "palabra": "ja'itainna",
+        "definicion": "sin importar"
+    },
+    {
+        "id": 33,
+        "palabra": "ja'itainna",
+        "definicion": "Aunque (refiriéndose a varias personas)"
+    },
+    {
+        "id": 32,
+        "palabra": "ja'itairü",
+        "definicion": "Aunque"
+    },
+    {
+        "id": 34,
+        "palabra": "ja'itairü müin shia",
+        "definicion": "Aunque es así..."
+    },
+    {
+        "id": 907,
+        "palabra": "ja'iwaa",
+        "definicion": "estar caliente."
+    },
+    {
+        "id": 908,
+        "palabra": "ja'nyuulerü",
+        "definicion": "ja'yumulerü."
+    },
+    {
+        "id": 909,
+        "palabra": "ja'nyuwaa",
+        "definicion": "ja'yumuu."
+    },
+    {
+        "id": 910,
+        "palabra": "ja'rai",
+        "definicion": "cinco."
+    },
+    {
+        "id": 911,
+        "palabra": "ja'yaa",
+        "definicion": "aparecer. — v.e. ser visible, ser audible"
+    },
+    {
+        "id": 912,
+        "palabra": "ja'yulu",
+        "definicion": "je'yulu."
+    },
+    {
+        "id": 913,
+        "palabra": "ja'yumulerü, ja'nyuulerü",
+        "definicion": "mosca."
+    },
+    {
+        "id": 914,
+        "palabra": "ja'yumuu, ja'nyuwaa",
+        "definicion": "estar bien cocido, -da; estar maduro, -ra"
+    },
+    {
+        "id": 903,
+        "palabra": "jaarü",
+        "definicion": "pocillo, jarra, jarro. pos. -in"
+    },
+    {
+        "id": 915,
+        "palabra": "jalaa",
+        "definicion": "dónde estar."
+    },
+    {
+        "id": 916,
+        "palabra": "jalaichi, -rü; -na",
+        "definicion": "ven acá (masculino, no masculino); vengan acá."
+    },
+    {
+        "id": 917,
+        "palabra": "jalia",
+        "definicion": "cuidado!"
+    },
+    {
+        "id": 920,
+        "palabra": "jama'a",
+        "definicion": "hamaca. pos. -in."
+    },
+    {
+        "id": 918,
+        "palabra": "jamaa",
+        "definicion": "por qué ser, cómo ser."
+    },
+    {
+        "id": 919,
+        "palabra": "jamaamaa",
+        "definicion": "ser liviano, -na."
+    },
+    {
+        "id": 181,
+        "palabra": "jamaya",
+        "definicion": "hola"
+    },
+    {
+        "id": 183,
+        "palabra": "jamaya jiá",
+        "definicion": "como están?"
+    },
+    {
+        "id": 182,
+        "palabra": "jamaya piá",
+        "definicion": "como estas?"
+    },
+    {
+        "id": 921,
+        "palabra": "jamü",
+        "definicion": "hambre, escasez de alimento."
+    },
+    {
+        "id": 922,
+        "palabra": "jamüche'e",
+        "definicion": "tuna."
+    },
+    {
+        "id": 47,
+        "palabra": "jamüin",
+        "definicion": "Por qué"
+    },
+    {
+        "id": 50,
+        "palabra": "jamüshiija'a Waya",
+        "definicion": "En nuestro caso"
+    },
+    {
+        "id": 49,
+        "palabra": "jamüsü",
+        "definicion": "Por qué?"
+    },
+    {
+        "id": 51,
+        "palabra": "jamüsüja'a Shia",
+        "definicion": "en el caso de ella/ en su caso"
+    },
+    {
+        "id": 923,
+        "palabra": "japülii",
+        "definicion": "1. tener vergüenza. 2. ser tímido, -"
+    },
+    {
+        "id": 924,
+        "palabra": "jarai, jaralü, jaralii",
+        "definicion": "pron. quién, cuál. — adj. cuál. gram. Son las formas masculina, no masculina, y plural."
+    },
+    {
+        "id": 925,
+        "palabra": "jasai",
+        "definicion": "arena."
+    },
+    {
+        "id": 926,
+        "palabra": "jashichii",
+        "definicion": "estar enojado, -da; estar bravo, -va. V. aashichijaa."
+    },
+    {
+        "id": 927,
+        "palabra": "jashü'üwaa",
+        "definicion": "ser agrio, -a."
+    },
+    {
+        "id": 928,
+        "palabra": "jatü",
+        "definicion": "flecha. pos. ajatü"
+    },
+    {
+        "id": 929,
+        "palabra": "jawa'awaa",
+        "definicion": "1. estar flojo, -ja. 2. ser suave"
+    },
+    {
+        "id": 930,
+        "palabra": "jawataa",
+        "definicion": "ser pesado, -da."
+    },
+    {
+        "id": 931,
+        "palabra": "jayaa",
+        "definicion": "ser barato, -ta."
+    },
+    {
+        "id": 932,
+        "palabra": "jayapa",
+        "definicion": "pulga."
+    },
+    {
+        "id": 147,
+        "palabra": "jayeechi",
+        "definicion": "cantico"
+    },
+    {
+        "id": 933,
+        "palabra": "je",
+        "definicion": "1.y. 2. o."
+    },
+    {
+        "id": 936,
+        "palabra": "je'iyee",
+        "definicion": "ji'iyee."
+    },
+    {
+        "id": 937,
+        "palabra": "je'wee",
+        "definicion": "estar maduro, -ra."
+    },
+    {
+        "id": 938,
+        "palabra": "je'yulu, ja'yulu",
+        "definicion": "alacrán."
+    },
+    {
+        "id": 934,
+        "palabra": "jeerü",
+        "definicion": "1. hierro (de marcar). 2. marca (en el ganado). pos. ejeetse"
+    },
+    {
+        "id": 935,
+        "palabra": "jekechi, -tü",
+        "definicion": "nuevo, -va."
+    },
+    {
+        "id": 196,
+        "palabra": "jekenale waya",
+        "definicion": "seamos nuevos o recientes"
+    },
+    {
+        "id": 939,
+        "palabra": "jemeiwaa, jemelii",
+        "definicion": "nacer."
+    },
+    {
+        "id": 940,
+        "palabra": "jemetaa",
+        "definicion": "ser sabroso, -sa."
+    },
+    {
+        "id": 941,
+        "palabra": "jemetaa eejuu",
+        "definicion": "ser oloroso, -sa."
+    },
+    {
+        "id": 942,
+        "palabra": "jemeyuluu, jemeyulaa",
+        "definicion": "dar a luz, parir. — v.i. nacer."
+    },
+    {
+        "id": 943,
+        "palabra": "jemiai",
+        "definicion": "frío."
+    },
+    {
+        "id": 944,
+        "palabra": "jepirachi",
+        "definicion": "brisa distintiva del norte."
+    },
+    {
+        "id": 945,
+        "palabra": "jera",
+        "definicion": "cuánto ser."
+    },
+    {
+        "id": 946,
+        "palabra": "jerottaa",
+        "definicion": "ser brillante; ser claro, -ra."
+    },
+    {
+        "id": 947,
+        "palabra": "jerulaa",
+        "definicion": "ser ancho, -cha"
+    },
+    {
+        "id": 948,
+        "palabra": "jeyuu",
+        "definicion": "hormiga."
+    },
+    {
+        "id": 955,
+        "palabra": "ji'iyee, je'iyee",
+        "definicion": "negar. — v.e. ser tacaño, -ña."
+    },
+    {
+        "id": 956,
+        "palabra": "ji'rupu",
+        "definicion": "mosquito"
+    },
+    {
+        "id": 949,
+        "palabra": "jia",
+        "definicion": "ustedes; los, las. V. shia."
+    },
+    {
+        "id": 179,
+        "palabra": "jiá",
+        "definicion": "ustedes"
+    },
+    {
+        "id": 146,
+        "palabra": "jierü",
+        "definicion": "mujer"
+    },
+    {
+        "id": 950,
+        "palabra": "jierü",
+        "definicion": "1. mujer. 2. hembra. pl. jieyuu. V. eerüin."
+    },
+    {
+        "id": 951,
+        "palabra": "jiiku",
+        "definicion": "cuerda, soga. pos."
+    },
+    {
+        "id": 100,
+        "palabra": "jiikü",
+        "definicion": "cuerda"
+    },
+    {
+        "id": 952,
+        "palabra": "jiipü",
+        "definicion": "1. hueso. 2. restos mortales. V. eipüse."
+    },
+    {
+        "id": 953,
+        "palabra": "jiirü",
+        "definicion": "hilo"
+    },
+    {
+        "id": 954,
+        "palabra": "jiitpai",
+        "definicion": "hilaza."
+    },
+    {
+        "id": 957,
+        "palabra": "jima",
+        "definicion": "jime."
+    },
+    {
+        "id": 958,
+        "palabra": "jima'ai",
+        "definicion": "joven (varón). pl. jima'alii."
+    },
+    {
+        "id": 959,
+        "palabra": "jimataa",
+        "definicion": "estar quieto, -ta; estar tranquilo, -la."
+    },
+    {
+        "id": 960,
+        "palabra": "jime, jima",
+        "definicion": "pez, pescado"
+    },
+    {
+        "id": 961,
+        "palabra": "jimo'olu",
+        "definicion": "muchacha.pl. jimo'onnuu."
+    },
+    {
+        "id": 963,
+        "palabra": "jintüi",
+        "definicion": "niño, muchacho"
+    },
+    {
+        "id": 152,
+        "palabra": "jintüi",
+        "definicion": "niño"
+    },
+    {
+        "id": 962,
+        "palabra": "jintulu",
+        "definicion": "niña."
+    },
+    {
+        "id": 964,
+        "palabra": "jirijirü",
+        "definicion": "pirijirü."
+    },
+    {
+        "id": 966,
+        "palabra": "jo'uu",
+        "definicion": "nene, -na; bebé"
+    },
+    {
+        "id": 967,
+        "palabra": "jo'uuchon",
+        "definicion": "pequeño, -ña; corto, -ta."
+    },
+    {
+        "id": 965,
+        "palabra": "jokoma",
+        "definicion": "gusano."
+    },
+    {
+        "id": 968,
+        "palabra": "jolotoo",
+        "definicion": "tener ampolla."
+    },
+    {
+        "id": 969,
+        "palabra": "jolotsü",
+        "definicion": "estrella."
+    },
+    {
+        "id": 110,
+        "palabra": "jolotsü, shüliwala",
+        "definicion": "estrella"
+    },
+    {
+        "id": 971,
+        "palabra": "joo'uya",
+        "definicion": "vámonos."
+    },
+    {
+        "id": 970,
+        "palabra": "jooki",
+        "definicion": "linterna."
+    },
+    {
+        "id": 972,
+        "palabra": "joolu'u",
+        "definicion": "ahora, pronto."
+    },
+    {
+        "id": 973,
+        "palabra": "josoo",
+        "definicion": "estar seco, -ca. V. oosojowaa"
+    },
+    {
+        "id": 974,
+        "palabra": "jotaa",
+        "definicion": "1. arder. 2. quemarse. — v.e. 1. estar prendido. 2. estar quemado, -da"
+    },
+    {
+        "id": 975,
+        "palabra": "jouja",
+        "definicion": "cuándo."
+    },
+    {
+        "id": 976,
+        "palabra": "jouktai",
+        "definicion": "1. viento, brisa. 2. aire."
+    },
+    {
+        "id": 977,
+        "palabra": "joulaa",
+        "definicion": "ser mucho, -cha; ser jouyolataoo bastante"
+    },
+    {
+        "id": 978,
+        "palabra": "joyotoo",
+        "definicion": "estar sentado, -da"
+    },
+    {
+        "id": 979,
+        "palabra": "ju'i",
+        "definicion": "grillo."
+    },
+    {
+        "id": 980,
+        "palabra": "ju'letaa",
+        "definicion": "estar acostado, -da. — v.i. tropezar y caerse."
+    },
+    {
+        "id": 143,
+        "palabra": "juchi",
+        "definicion": "mono"
+    },
+    {
+        "id": 981,
+        "palabra": "juleena",
+        "definicion": "freno (de caballo). pos. -se"
+    },
+    {
+        "id": 982,
+        "palabra": "julirü",
+        "definicion": "mariposa."
+    },
+    {
+        "id": 989,
+        "palabra": "jülüjaa aa'in",
+        "definicion": "pensar. gram. El sujeto del verbo jülüjaa corresponde al complemento del verbo ‘pensar’ y el poseedor de aa'in, ‘corazón’ corresponde al sujeto de ‘pensar’. Por ejemplo, jülüjashii jia taa'in equivale a ‘pienso en ustedes"
+    },
+    {
+        "id": 42,
+        "palabra": "jülüjapa waaʼin",
+        "definicion": "Cuando pensamos"
+    },
+    {
+        "id": 56,
+        "palabra": "jülüjataa waaʼin",
+        "definicion": "Pensemos..."
+    },
+    {
+        "id": 983,
+        "palabra": "juluu",
+        "definicion": "estar seco, -ca; estar marchito, -ta"
+    },
+    {
+        "id": 984,
+        "palabra": "junaaya",
+        "definicion": "honda"
+    },
+    {
+        "id": 985,
+        "palabra": "juriicha, juriichi",
+        "definicion": "comida frita."
+    },
+    {
+        "id": 986,
+        "palabra": "jutataa",
+        "definicion": "estar abierto"
+    },
+    {
+        "id": 987,
+        "palabra": "jutkataa",
+        "definicion": "estar reunido, -da. — n. reunión. V. outkajawaa."
+    },
+    {
+        "id": 990,
+        "palabra": "jüüjüwaa",
+        "definicion": "ser obediente; ser sumiso, -sa."
+    },
+    {
+        "id": 988,
+        "palabra": "juya",
+        "definicion": "1. lluvia. 2. año. V. ouyase."
+    },
+    {
+        "id": 133,
+        "palabra": "juya",
+        "definicion": "lluvia"
+    },
+    {
+        "id": 1008,
+        "palabra": "ka'apü",
+        "definicion": "ja'apü."
+    },
+    {
+        "id": 77,
+        "palabra": "ka'apülashi",
+        "definicion": "Armado(pistola)"
+    },
+    {
+        "id": 1009,
+        "palabra": "ka'i",
+        "definicion": "1. sol. 2. día. 3. tiempo. V. akalia."
+    },
+    {
+        "id": 1010,
+        "palabra": "ka'lapücho'u",
+        "definicion": "ku'lupucho'u"
+    },
+    {
+        "id": 1011,
+        "palabra": "ka'lee",
+        "definicion": "ser grueso, -sa (de objetos planos)"
+    },
+    {
+        "id": 1012,
+        "palabra": "ka'ruwarai, -ralü",
+        "definicion": "ladrón, -drona. pl. ka'ruwaralii"
+    },
+    {
+        "id": 1013,
+        "palabra": "ka'wayuusee",
+        "definicion": "tener esposo, -sa. V. a'wayuuse."
+    },
+    {
+        "id": 139,
+        "palabra": "ka'wayuusee",
+        "definicion": "matrimonio"
+    },
+    {
+        "id": 1014,
+        "palabra": "ka'yataa",
+        "definicion": "estar un poco retirado, -da."
+    },
+    {
+        "id": 992,
+        "palabra": "kaa'inwaa",
+        "definicion": "1. ser arisco, -ca; ser brioso, -sa. 2. ser temeroso, -sa."
+    },
+    {
+        "id": 993,
+        "palabra": "kaa'ula",
+        "definicion": "cabra, chivo"
+    },
+    {
+        "id": 994,
+        "palabra": "kaa'ürüi, kaa'ürüla",
+        "definicion": "perla."
+    },
+    {
+        "id": 991,
+        "palabra": "kaainjalaa",
+        "definicion": "causar daño, pecar. kaai'innjwalaaaa V. aainjala"
+    },
+    {
+        "id": 995,
+        "palabra": "kaarai",
+        "definicion": "alcaraván"
+    },
+    {
+        "id": 997,
+        "palabra": "kaasha",
+        "definicion": "tambor."
+    },
+    {
+        "id": 998,
+        "palabra": "kaashapü, kaashapa",
+        "definicion": "langosta (insecto)."
+    },
+    {
+        "id": 996,
+        "palabra": "kaasü",
+        "definicion": "petróleo (para lámpara)"
+    },
+    {
+        "id": 999,
+        "palabra": "kaatei",
+        "definicion": "oiga!"
+    },
+    {
+        "id": 1000,
+        "palabra": "kaatset",
+        "definicion": "cárcel."
+    },
+    {
+        "id": 154,
+        "palabra": "kaatset",
+        "definicion": "carcel (adaptacion del español)"
+    },
+    {
+        "id": 1594,
+        "palabra": "kaaʼürüi",
+        "definicion": "perla"
+    },
+    {
+        "id": 1001,
+        "palabra": "kachetaa",
+        "definicion": "estar colgado"
+    },
+    {
+        "id": 1002,
+        "palabra": "kachonwaa",
+        "definicion": "1. tener hijo. 2. dar fruto. V. achon."
+    },
+    {
+        "id": 1003,
+        "palabra": "kachueera",
+        "definicion": "hierro, alambre. pos. akachueetse."
+    },
+    {
+        "id": 190,
+        "palabra": "kai",
+        "definicion": "(complemento para masculino)"
+    },
+    {
+        "id": 220,
+        "palabra": "kai",
+        "definicion": "día, sol"
+    },
+    {
+        "id": 1004,
+        "palabra": "kajaa",
+        "definicion": "ser lento, -ta de habilidad."
+    },
+    {
+        "id": 1005,
+        "palabra": "kakaliaa, kaka'iyaa",
+        "definicion": "llevar mucho tiempo, durar mucho tiempo. V. ka'i"
+    },
+    {
+        "id": 200,
+        "palabra": "kakaliannale waya",
+        "definicion": "si llevamos más tiempo"
+    },
+    {
+        "id": 1006,
+        "palabra": "kakuaa",
+        "definicion": "ser veloz (andando). V. akua"
+    },
+    {
+        "id": 1007,
+        "palabra": "kakuuna",
+        "definicion": "prenda (joya), collar. pos. -se, -in."
+    },
+    {
+        "id": 1015,
+        "palabra": "kalapaasü",
+        "definicion": "patilla (especie de fruta)."
+    },
+    {
+        "id": 1016,
+        "palabra": "kalapüi",
+        "definicion": "horcón principal de una casa."
+    },
+    {
+        "id": 1019,
+        "palabra": "kale'u",
+        "definicion": "mediodía."
+    },
+    {
+        "id": 1017,
+        "palabra": "kaleena",
+        "definicion": "cadena."
+    },
+    {
+        "id": 1018,
+        "palabra": "kalekale",
+        "definicion": "perico (cara sucia)."
+    },
+    {
+        "id": 1020,
+        "palabra": "kaliina",
+        "definicion": "gallina."
+    },
+    {
+        "id": 1021,
+        "palabra": "kalu'uwaa",
+        "definicion": "contener."
+    },
+    {
+        "id": 1022,
+        "palabra": "kamanewaa",
+        "definicion": "e. ser amable; ser bondadoso, -sa; ser compasivo, -va. V. amanee"
+    },
+    {
+        "id": 1023,
+        "palabra": "kane'ewa",
+        "definicion": "mamón (fruta)."
+    },
+    {
+        "id": 1024,
+        "palabra": "kanüliaa",
+        "definicion": "1. ser llamado, -da. 2. tener fama. V. anülia."
+    },
+    {
+        "id": 192,
+        "palabra": "kanüliakai",
+        "definicion": "el que se llama"
+    },
+    {
+        "id": 1025,
+        "palabra": "kapülewaa",
+        "definicion": "ser difícil. V. mapülewaa"
+    },
+    {
+        "id": 1026,
+        "palabra": "kapüü",
+        "definicion": "estar atado"
+    },
+    {
+        "id": 130,
+        "palabra": "karaloukta",
+        "definicion": "libro"
+    },
+    {
+        "id": 1027,
+        "palabra": "karaloukta",
+        "definicion": "1. papel. 2. libro"
+    },
+    {
+        "id": 86,
+        "palabra": "karaloukta",
+        "definicion": "carta"
+    },
+    {
+        "id": 131,
+        "palabra": "karalouktapülee",
+        "definicion": "biblioteca"
+    },
+    {
+        "id": 1028,
+        "palabra": "karateera",
+        "definicion": "carretera."
+    },
+    {
+        "id": 1029,
+        "palabra": "karatiiya",
+        "definicion": "carretilla."
+    },
+    {
+        "id": 207,
+        "palabra": "kasa",
+        "definicion": "cosa"
+    },
+    {
+        "id": 1030,
+        "palabra": "kasa",
+        "definicion": "pron. qué. — n. cosa."
+    },
+    {
+        "id": 1031,
+        "palabra": "kasaa1",
+        "definicion": "tener filo. V. asa."
+    },
+    {
+        "id": 1032,
+        "palabra": "kasaa2",
+        "definicion": "ser capaz de meter más."
+    },
+    {
+        "id": 1033,
+        "palabra": "kasachiki",
+        "definicion": "1. noticia. 2. desgracia. 3. guerra"
+    },
+    {
+        "id": 140,
+        "palabra": "kasatshi",
+        "definicion": "casarse"
+    },
+    {
+        "id": 1034,
+        "palabra": "kasewaa",
+        "definicion": "kasewaa"
+    },
+    {
+        "id": 1038,
+        "palabra": "kashi",
+        "definicion": "1. luna. 2. mes"
+    },
+    {
+        "id": 134,
+        "palabra": "kashi",
+        "definicion": "luna"
+    },
+    {
+        "id": 1039,
+        "palabra": "kashüülaa",
+        "definicion": "ser feo, fea; ser grosero, -ra; ser horrible"
+    },
+    {
+        "id": 1035,
+        "palabra": "kasipa",
+        "definicion": "ciempiés."
+    },
+    {
+        "id": 1036,
+        "palabra": "kaspolüin",
+        "definicion": "arco iris"
+    },
+    {
+        "id": 1037,
+        "palabra": "kasuwaa",
+        "definicion": "ser blanco, -ca; ser canoso, -sa."
+    },
+    {
+        "id": 1040,
+        "palabra": "kataa o'u",
+        "definicion": "estar vivo, -va; vivir. — n. vida"
+    },
+    {
+        "id": 1041,
+        "palabra": "katchinwaa",
+        "definicion": "katsüinwaa."
+    },
+    {
+        "id": 1042,
+        "palabra": "katipirüin",
+        "definicion": "ve atrapamoscas sangre de toro"
+    },
+    {
+        "id": 1043,
+        "palabra": "katkousü",
+        "definicion": "arma de fuego. V. a'apüla."
+    },
+    {
+        "id": 1044,
+        "palabra": "katsüinwaa, katsinwaa, katchinwaa",
+        "definicion": "ser fuerte"
+    },
+    {
+        "id": 1045,
+        "palabra": "katto'ui",
+        "definicion": "mochila."
+    },
+    {
+        "id": 1046,
+        "palabra": "katünaa",
+        "definicion": "tener alas. — v.i. nadar."
+    },
+    {
+        "id": 148,
+        "palabra": "katünashi shiroku wüin",
+        "definicion": "nadar"
+    },
+    {
+        "id": 1047,
+        "palabra": "katünasü",
+        "definicion": "avión."
+    },
+    {
+        "id": 62,
+        "palabra": "katünasü",
+        "definicion": "Avion"
+    },
+    {
+        "id": 121,
+        "palabra": "kaüsüshi",
+        "definicion": "gordo"
+    },
+    {
+        "id": 1048,
+        "palabra": "kaüsüü, kaüsii",
+        "definicion": "ser gordo, -da"
+    },
+    {
+        "id": 1049,
+        "palabra": "kawachiraa, kawatiraa",
+        "definicion": "ser veloz (corriendo). V. awachira"
+    },
+    {
+        "id": 1050,
+        "palabra": "keejuwaa",
+        "definicion": "heder. V. eejuu"
+    },
+    {
+        "id": 1051,
+        "palabra": "keemaa",
+        "definicion": "ser temible; ser aterrador, -dora"
+    },
+    {
+        "id": 1052,
+        "palabra": "keenaa",
+        "definicion": "1. derramarse. 2. gotear."
+    },
+    {
+        "id": 1053,
+        "palabra": "keesü",
+        "definicion": "queso."
+    },
+    {
+        "id": 215,
+        "palabra": "keires nain",
+        "definicion": "el quiere"
+    },
+    {
+        "id": 216,
+        "palabra": "keires Tai",
+        "definicion": "yo quiero"
+    },
+    {
+        "id": 1054,
+        "palabra": "kekiiwaa",
+        "definicion": "ser inteligente; ser sabio,"
+    },
+    {
+        "id": 23,
+        "palabra": "kekishi",
+        "definicion": "inteligente"
+    },
+    {
+        "id": 61,
+        "palabra": "kemion",
+        "definicion": "camion"
+    },
+    {
+        "id": 1055,
+        "palabra": "kepein",
+        "definicion": "café."
+    },
+    {
+        "id": 1056,
+        "palabra": "kepeshuuna",
+        "definicion": "pitshuushi."
+    },
+    {
+        "id": 1057,
+        "palabra": "kepiaa",
+        "definicion": "vivir (residir)."
+    },
+    {
+        "id": 1058,
+        "palabra": "kerawaa",
+        "definicion": "estar terminado, -da; estar acabado, -da; estar listo, -ta. V. ekeraajaa"
+    },
+    {
+        "id": 1059,
+        "palabra": "kettawaa",
+        "definicion": "estar terminado, -da; estar concluido, -da; estar listo, -ta."
+    },
+    {
+        "id": 1060,
+        "palabra": "kisaawaa",
+        "definicion": "estar guisado"
+    },
+    {
+        "id": 1067,
+        "palabra": "ko'oi",
+        "definicion": "avispa."
+    },
+    {
+        "id": 1068,
+        "palabra": "ko'oyowaa",
+        "definicion": "1. ser redondo, -da. 2. estar envuelto, -ta; estar enrollado, -da."
+    },
+    {
+        "id": 1069,
+        "palabra": "ko'utaa",
+        "definicion": "estar callado, -da."
+    },
+    {
+        "id": 1061,
+        "palabra": "kochiina",
+        "definicion": "cochino,"
+    },
+    {
+        "id": 1062,
+        "palabra": "kojee",
+        "definicion": "café."
+    },
+    {
+        "id": 1063,
+        "palabra": "kojoo",
+        "definicion": "ser espeso, -sa; ser denso"
+    },
+    {
+        "id": 1064,
+        "palabra": "kojutaa",
+        "definicion": "ser caro, -"
+    },
+    {
+        "id": 1065,
+        "palabra": "kojutaa atüma",
+        "definicion": "ser respetado, -da por; ser honrado, -da por"
+    },
+    {
+        "id": 1586,
+        "palabra": "kojutusü",
+        "definicion": "valor ,valorar"
+    },
+    {
+        "id": 1066,
+        "palabra": "kojuyaa",
+        "definicion": "ser varios, -rias; haber bastante."
+    },
+    {
+        "id": 1070,
+        "palabra": "koleejia",
+        "definicion": "colegio."
+    },
+    {
+        "id": 1071,
+        "palabra": "koojaa, koojoo",
+        "definicion": "pincharse."
+    },
+    {
+        "id": 1072,
+        "palabra": "kookooche'erü",
+        "definicion": "ratón, rata"
+    },
+    {
+        "id": 1073,
+        "palabra": "kootole'era",
+        "definicion": "gallo."
+    },
+    {
+        "id": 1074,
+        "palabra": "korolo",
+        "definicion": "cosa (pertenencia de alguien), pieza."
+    },
+    {
+        "id": 1075,
+        "palabra": "kosinapia",
+        "definicion": "cocina."
+    },
+    {
+        "id": 1076,
+        "palabra": "kotoorojüin",
+        "definicion": "verde (color de objeto). V. wüittüsü."
+    },
+    {
+        "id": 1077,
+        "palabra": "koucha",
+        "definicion": "1. caucho. 2. honda de caucho."
+    },
+    {
+        "id": 1078,
+        "palabra": "kousüla, kousülo'u",
+        "definicion": "bala"
+    },
+    {
+        "id": 185,
+        "palabra": "ksaichi pünülia?",
+        "definicion": "Cómo te llamas?"
+    },
+    {
+        "id": 1079,
+        "palabra": "ku'lupucho'u, ku'lupüchü'i, ka'lapücho'u",
+        "definicion": "ave cucarachero currucuchú."
+    },
+    {
+        "id": 1080,
+        "palabra": "kulaala",
+        "definicion": "corral. pos. akulaatse"
+    },
+    {
+        "id": 1081,
+        "palabra": "kuli'ichi",
+        "definicion": "vara."
+    },
+    {
+        "id": 1082,
+        "palabra": "kulira",
+        "definicion": "anzuelo."
+    },
+    {
+        "id": 1083,
+        "palabra": "kuluulu",
+        "definicion": "1. tela. 2. ropa"
+    },
+    {
+        "id": 1084,
+        "palabra": "kusu",
+        "definicion": "red de pescar."
+    },
+    {
+        "id": 1088,
+        "palabra": "la'walawaa",
+        "definicion": "ser flexible"
+    },
+    {
+        "id": 1085,
+        "palabra": "laa",
+        "definicion": "jagüey."
+    },
+    {
+        "id": 1086,
+        "palabra": "laapi",
+        "definicion": "lápiz."
+    },
+    {
+        "id": 1087,
+        "palabra": "lakayawaa",
+        "definicion": "ser redondo,"
+    },
+    {
+        "id": 1089,
+        "palabra": "lamuuna",
+        "definicion": "lago."
+    },
+    {
+        "id": 1090,
+        "palabra": "lania",
+        "definicion": "amuleto, contra"
+    },
+    {
+        "id": 1091,
+        "palabra": "lapü",
+        "definicion": "sueño."
+    },
+    {
+        "id": 1092,
+        "palabra": "laüktaa",
+        "definicion": "ser grueso, -sa (de objetos cilíndricos)."
+    },
+    {
+        "id": 1093,
+        "palabra": "laülaa",
+        "definicion": "viejo, -ja; anciano, -na. — n. 1. viejo, -ja; anciano, -na. 2. jefe, -fa. 3. dueño, -ña. pl. laülaayuu. V. alaülashi"
+    },
+    {
+        "id": 1589,
+        "palabra": "laülawa",
+        "definicion": "autoridad"
+    },
+    {
+        "id": 1094,
+        "palabra": "leechi",
+        "definicion": "leche."
+    },
+    {
+        "id": 1095,
+        "palabra": "leeyataa",
+        "definicion": "dar vueltas"
+    },
+    {
+        "id": 1096,
+        "palabra": "lemtaa, lemütaa",
+        "definicion": "arrastrarse, gatear."
+    },
+    {
+        "id": 1097,
+        "palabra": "lotaa",
+        "definicion": "1. ser recto, -ta. 2. ser ordenado, -da. 3. ser correcto, -ta."
+    },
+    {
+        "id": 114,
+        "palabra": "lotusü takuwa'ipa",
+        "definicion": "honrado"
+    },
+    {
+        "id": 1098,
+        "palabra": "luma",
+        "definicion": "enramada (estructura abierta por todos lados con techo que protege del sol)."
+    },
+    {
+        "id": 1099,
+        "palabra": "luta",
+        "definicion": "piedra de afilar"
+    },
+    {
+        "id": 1100,
+        "palabra": "luusa",
+        "definicion": "luz."
+    },
+    {
+        "id": 1101,
+        "palabra": "luwopu",
+        "definicion": "arroyo."
+    },
+    {
+        "id": 1120,
+        "palabra": "ma'i",
+        "definicion": "muy, mucho."
+    },
+    {
+        "id": 1121,
+        "palabra": "ma'uwa",
+        "definicion": "mo'uwa"
+    },
+    {
+        "id": 1107,
+        "palabra": "maa'ala",
+        "definicion": "culebra cascabel"
+    },
+    {
+        "id": 1108,
+        "palabra": "maa'awaa",
+        "definicion": "estar desorientado, -da. — v.e., v.i. extraviarse, confundirse"
+    },
+    {
+        "id": 1109,
+        "palabra": "maa'inwaa",
+        "definicion": "1. ser necio, -cia. 2. ser prostituta."
+    },
+    {
+        "id": 1110,
+        "palabra": "maa'ulu yaa",
+        "definicion": "hoy en día, en este tiemp"
+    },
+    {
+        "id": 1104,
+        "palabra": "maa aka",
+        "definicion": "adv. como. — conj. como. — v.e. ser como."
+    },
+    {
+        "id": 1105,
+        "palabra": "maa aka aa'in",
+        "definicion": "ser como, parecerse a. gram. El sujeto del verbo maa corresponde al sujeto del verbo ‘parecerse’ y el poseedor de aa'in, ‘corazón’, corresponde al complemento de ‘parecerse’. Por ejemplo, müshi aka nia saa'in püliiki equivale a ‘él se parece a un burro’"
+    },
+    {
+        "id": 1102,
+        "palabra": "maa1",
+        "definicion": "decir."
+    },
+    {
+        "id": 1103,
+        "palabra": "maa2",
+        "definicion": "ser así"
+    },
+    {
+        "id": 1106,
+        "palabra": "maachon",
+        "definicion": "mamá, abuela."
+    },
+    {
+        "id": 53,
+        "palabra": "maʼaka saaʼin",
+        "definicion": "así como/ Tal como"
+    },
+    {
+        "id": 1111,
+        "palabra": "maalü",
+        "definicion": "1. ya. 2. pronto"
+    },
+    {
+        "id": 1112,
+        "palabra": "maasü, maasi",
+        "definicion": "flauta."
+    },
+    {
+        "id": 1113,
+        "palabra": "maawüi",
+        "definicion": "algodón."
+    },
+    {
+        "id": 1114,
+        "palabra": "mache'ewaa",
+        "definicion": "1. ser sordo, -da. 2. ser terco, -"
+    },
+    {
+        "id": 135,
+        "palabra": "maiki",
+        "definicion": "maiz"
+    },
+    {
+        "id": 1115,
+        "palabra": "maikki, maikkü",
+        "definicion": "maíz"
+    },
+    {
+        "id": 1116,
+        "palabra": "mainma",
+        "definicion": "wainma."
+    },
+    {
+        "id": 1117,
+        "palabra": "maittaa",
+        "definicion": "estar en calma el tiempo"
+    },
+    {
+        "id": 1118,
+        "palabra": "majayülü",
+        "definicion": "señorita, joven (mujer)"
+    },
+    {
+        "id": 17,
+        "palabra": "makalaka",
+        "definicion": "Por eso, en vista de esto"
+    },
+    {
+        "id": 1119,
+        "palabra": "makataa",
+        "definicion": "quedarse."
+    },
+    {
+        "id": 1122,
+        "palabra": "malaa",
+        "definicion": "ser tonto, -ta; ser bobo,"
+    },
+    {
+        "id": 1123,
+        "palabra": "mamainnaa",
+        "definicion": "1. ser loco, -ca. 2. estar enfermo, -ma de rabia"
+    },
+    {
+        "id": 1124,
+        "palabra": "mannuuya",
+        "definicion": "neblina."
+    },
+    {
+        "id": 1125,
+        "palabra": "manteeka",
+        "definicion": "aceite comestible"
+    },
+    {
+        "id": 1126,
+        "palabra": "mapa1",
+        "definicion": "después."
+    },
+    {
+        "id": 1127,
+        "palabra": "mapa2",
+        "definicion": "miel de abeja"
+    },
+    {
+        "id": 1128,
+        "palabra": "mapase",
+        "definicion": "cera de abeja"
+    },
+    {
+        "id": 210,
+        "palabra": "mapeena",
+        "definicion": "futuro"
+    },
+    {
+        "id": 1129,
+        "palabra": "mapüi",
+        "definicion": "piojo."
+    },
+    {
+        "id": 1130,
+        "palabra": "mapülewaa",
+        "definicion": "ser fácil. V. kapülewaa."
+    },
+    {
+        "id": 1131,
+        "palabra": "mapüsaa",
+        "definicion": "estar cansado,"
+    },
+    {
+        "id": 1132,
+        "palabra": "maraaja",
+        "definicion": "1. vidrio. 2. botella"
+    },
+    {
+        "id": 1133,
+        "palabra": "maralüü",
+        "definicion": "ser estéril."
+    },
+    {
+        "id": 1134,
+        "palabra": "mariiyaa",
+        "definicion": "ser amarillo"
+    },
+    {
+        "id": 1135,
+        "palabra": "mashale'e",
+        "definicion": "ave caricare"
+    },
+    {
+        "id": 1136,
+        "palabra": "matsüinwaa",
+        "definicion": "estar sin fuerza"
+    },
+    {
+        "id": 1137,
+        "palabra": "matsüinwaa aa'in",
+        "definicion": "ser débil."
+    },
+    {
+        "id": 1138,
+        "palabra": "maüna",
+        "definicion": "cobro por daño a una persona"
+    },
+    {
+        "id": 44,
+        "palabra": "mayaainjeʼe nnojoluin",
+        "definicion": "Aunque no...."
+    },
+    {
+        "id": 1139,
+        "palabra": "mayeinwaa",
+        "definicion": "estar grave (de enfermedad)"
+    },
+    {
+        "id": 1140,
+        "palabra": "mee'era",
+        "definicion": "broma"
+    },
+    {
+        "id": 1141,
+        "palabra": "mei",
+        "definicion": "zancudo."
+    },
+    {
+        "id": 1142,
+        "palabra": "meinshi, weinshi",
+        "definicion": "siempre."
+    },
+    {
+        "id": 1143,
+        "palabra": "mekeerüü",
+        "definicion": "buscar ganado, rodear ganado."
+    },
+    {
+        "id": 1144,
+        "palabra": "mekietsalü",
+        "definicion": "nueve."
+    },
+    {
+        "id": 1145,
+        "palabra": "mekiisalü",
+        "definicion": "ocho."
+    },
+    {
+        "id": 1146,
+        "palabra": "meruuna",
+        "definicion": "melón."
+    },
+    {
+        "id": 1147,
+        "palabra": "metkaalü",
+        "definicion": "mercado."
+    },
+    {
+        "id": 1150,
+        "palabra": "mi'iraa",
+        "definicion": "fiesta."
+    },
+    {
+        "id": 1148,
+        "palabra": "miicho'u, piicho'u",
+        "definicion": "puerta (la entrada)"
+    },
+    {
+        "id": 1149,
+        "palabra": "miiroku, miiruku",
+        "definicion": "sitio donde hay agua"
+    },
+    {
+        "id": 1151,
+        "palabra": "miyaasüü, munyaasüü, wunyaasüü",
+        "definicion": "tener sed"
+    },
+    {
+        "id": 1152,
+        "palabra": "miyo'u, müle'u, mülo'u",
+        "definicion": "1. grande. 2. largo, -ga. 3. mayor"
+    },
+    {
+        "id": 73,
+        "palabra": "miyo'usenuu, jütpünaa",
+        "definicion": "alto"
+    },
+    {
+        "id": 1153,
+        "palabra": "mma",
+        "definicion": "1. tierra, polvo, suelo. 2. lugar. 3. terreno. 4. país"
+    },
+    {
+        "id": 1154,
+        "palabra": "mmolu'u",
+        "definicion": "en el suelo, abajo"
+    },
+    {
+        "id": 1156,
+        "palabra": "mmoluu eema",
+        "definicion": "temer."
+    },
+    {
+        "id": 1155,
+        "palabra": "mmoluu, momoluu",
+        "definicion": "tener miedo"
+    },
+    {
+        "id": 1161,
+        "palabra": "mo'uu",
+        "definicion": "ser ciego,"
+    },
+    {
+        "id": 1162,
+        "palabra": "mo'uwa, ma'uwa",
+        "definicion": "paloma (silvestre)"
+    },
+    {
+        "id": 1157,
+        "palabra": "mojulawaa",
+        "definicion": "ser malo, -la (de comportamiento); ser travieso"
+    },
+    {
+        "id": 1159,
+        "palabra": "mojuu aa'in, mujuu aa'in",
+        "definicion": "estar triste"
+    },
+    {
+        "id": 1158,
+        "palabra": "mojuu, mujuu",
+        "definicion": "1. ser o estar malo, -la. 2. estar dañado, -da. 3. estar desgastado, -da. 4. ser dañino, -na. 5. ser pobre"
+    },
+    {
+        "id": 1160,
+        "palabra": "mojuui",
+        "definicion": "monte (vegetación"
+    },
+    {
+        "id": 1163,
+        "palabra": "moliina",
+        "definicion": "1. molino (de moler). 2. molino (de viento)."
+    },
+    {
+        "id": 1164,
+        "palabra": "molokoono",
+        "definicion": "tortuga de tierra."
+    },
+    {
+        "id": 1165,
+        "palabra": "momoluu",
+        "definicion": "mmoluu."
+    },
+    {
+        "id": 1166,
+        "palabra": "monku",
+        "definicion": "mango (fruta)."
+    },
+    {
+        "id": 1167,
+        "palabra": "monkulonseerü",
+        "definicion": "búho."
+    },
+    {
+        "id": 1168,
+        "palabra": "motoo aa'in",
+        "definicion": "olvidar, olvidarse. gram. El sujeto del verbo motoo corresponde al complemento del verbo ‘olvidar’ y el poseedor de aa'in, ‘corazón’, corresponde al sujeto de ‘olvidar’. Por ejemplo, motüsü waa'in tü pankat equivale a ‘olvidamos el pan’."
+    },
+    {
+        "id": 1169,
+        "palabra": "motso'o",
+        "definicion": "1. por poco tiempo, brevemente. 2. inmediatamente."
+    },
+    {
+        "id": 1170,
+        "palabra": "motsoo",
+        "definicion": "1. ser pequeño, -ña. 2. ser poco, -ca."
+    },
+    {
+        "id": 1171,
+        "palabra": "moulii",
+        "definicion": "ser angosto, -ta; ser estrecho, -cha"
+    },
+    {
+        "id": 1172,
+        "palabra": "mujuu",
+        "definicion": "mojuu."
+    },
+    {
+        "id": 1173,
+        "palabra": "mujuu aa'in",
+        "definicion": "mojuu aa'in"
+    },
+    {
+        "id": 1184,
+        "palabra": "müle'u",
+        "definicion": "miyo'u"
+    },
+    {
+        "id": 28,
+        "palabra": "müle shia",
+        "definicion": "Si es así"
+    },
+    {
+        "id": 29,
+        "palabra": "müle shia watuma",
+        "definicion": "Si así lo hacemos"
+    },
+    {
+        "id": 1183,
+        "palabra": "müleka",
+        "definicion": "si, en caso de que"
+    },
+    {
+        "id": 214,
+        "palabra": "mulia",
+        "definicion": "sufrimiento"
+    },
+    {
+        "id": 1185,
+        "palabra": "müliaa",
+        "definicion": "sufrir. — v.e. ser pobre"
+    },
+    {
+        "id": 1186,
+        "palabra": "müliashii",
+        "definicion": "difunto, -ta"
+    },
+    {
+        "id": 1187,
+        "palabra": "mülo'u",
+        "definicion": "miyo'u."
+    },
+    {
+        "id": 1174,
+        "palabra": "munyaasüü",
+        "definicion": "miyaasüü."
+    },
+    {
+        "id": 1188,
+        "palabra": "mürülü",
+        "definicion": "1. animal doméstico. 2. mascota. pos. amü'ünüin"
+    },
+    {
+        "id": 225,
+        "palabra": "musa",
+        "definicion": "gato"
+    },
+    {
+        "id": 55,
+        "palabra": "müsia ne'e",
+        "definicion": "También"
+    },
+    {
+        "id": 25,
+        "palabra": "müsü",
+        "definicion": "Dice"
+    },
+    {
+        "id": 27,
+        "palabra": "müsü shia",
+        "definicion": "Ella dice/ Dice así"
+    },
+    {
+        "id": 26,
+        "palabra": "müsü sünüiki",
+        "definicion": "Dice así"
+    },
+    {
+        "id": 24,
+        "palabra": "müsüjese'e",
+        "definicion": "Por eso, por lo dicho."
+    },
+    {
+        "id": 1189,
+        "palabra": "mütsiiya",
+        "definicion": "negro, -gra"
+    },
+    {
+        "id": 1190,
+        "palabra": "mütsiiyaa",
+        "definicion": "ser negro, -gra"
+    },
+    {
+        "id": 150,
+        "palabra": "mütsiyatai",
+        "definicion": "negro"
+    },
+    {
+        "id": 1175,
+        "palabra": "muula",
+        "definicion": "mulo,"
+    },
+    {
+        "id": 1176,
+        "palabra": "muusa",
+        "definicion": "gato, -ta"
+    },
+    {
+        "id": 119,
+        "palabra": "muusa",
+        "definicion": "gato"
+    },
+    {
+        "id": 1178,
+        "palabra": "na",
+        "definicion": "estos."
+    },
+    {
+        "id": 1177,
+        "palabra": "na",
+        "definicion": "tómelo."
+    },
+    {
+        "id": 60,
+        "palabra": "na aneekuushiikana",
+        "definicion": "Los ungidos"
+    },
+    {
+        "id": 136,
+        "palabra": "na nnojoliijkana anain süpüla wa'aleewain",
+        "definicion": "malas compañias"
+    },
+    {
+        "id": 173,
+        "palabra": "na waneinnua",
+        "definicion": "los demas o los otros"
+    },
+    {
+        "id": 1179,
+        "palabra": "naa",
+        "definicion": "éstos. — adj. estos. gram. Esta forma del adjetivo se usa después del nombre"
+    },
+    {
+        "id": 172,
+        "palabra": "naalin",
+        "definicion": "su amor o aprecio"
+    },
+    {
+        "id": 1180,
+        "palabra": "naataa",
+        "definicion": "1. ser ajeno, -na; ser extraño, -ña. 2. ser diferente"
+    },
+    {
+        "id": 1181,
+        "palabra": "nala",
+        "definicion": "esos."
+    },
+    {
+        "id": 1182,
+        "palabra": "namüna, naumna",
+        "definicion": "loma, cerro."
+    },
+    {
+        "id": 1191,
+        "palabra": "nasa",
+        "definicion": "aquellos."
+    },
+    {
+        "id": 1192,
+        "palabra": "naya",
+        "definicion": "ellos, ellas; los, las"
+    },
+    {
+        "id": 180,
+        "palabra": "nayá",
+        "definicion": "ellos"
+    },
+    {
+        "id": 1194,
+        "palabra": "ne'e",
+        "definicion": "justamente, solamente"
+    },
+    {
+        "id": 1193,
+        "palabra": "neerü, nneerü",
+        "definicion": "dinero"
+    },
+    {
+        "id": 1195,
+        "palabra": "nia",
+        "definicion": "él, lo."
+    },
+    {
+        "id": 176,
+        "palabra": "niá",
+        "definicion": "él"
+    },
+    {
+        "id": 92,
+        "palabra": "nikirüin",
+        "definicion": "alimentar"
+    },
+    {
+        "id": 1196,
+        "palabra": "nnojo",
+        "definicion": "no."
+    },
+    {
+        "id": 1197,
+        "palabra": "nnojolaa, nnojoloo",
+        "definicion": "no haber, no estar, no ser"
+    },
+    {
+        "id": 1598,
+        "palabra": "nnojotka",
+        "definicion": "no"
+    },
+    {
+        "id": 117,
+        "palabra": "nü'luwajiraain",
+        "definicion": "nukuwa'ipa"
+    },
+    {
+        "id": 128,
+        "palabra": "nüchon maleiwa",
+        "definicion": "hijo de dios"
+    },
+    {
+        "id": 120,
+        "palabra": "nuluwataaya maleiwa",
+        "definicion": "gobierno de dios"
+    },
+    {
+        "id": 1590,
+        "palabra": "nümüin",
+        "definicion": "para el"
+    },
+    {
+        "id": 1225,
+        "palabra": "o'ktaa",
+        "definicion": "o'utaa."
+    },
+    {
+        "id": 1226,
+        "palabra": "o'lojoo",
+        "definicion": "lavar."
+    },
+    {
+        "id": 1227,
+        "palabra": "o'onowaa",
+        "definicion": "mudarse (temporalmente con el rebaño"
+    },
+    {
+        "id": 1228,
+        "palabra": "o'oojoo",
+        "definicion": "bañarse."
+    },
+    {
+        "id": 1229,
+        "palabra": "o'otojowaa",
+        "definicion": "sacudir."
+    },
+    {
+        "id": 1230,
+        "palabra": "o'otoo",
+        "definicion": "1. llegar. 2. suceder. — v.t. 1. montar. 2. cargar. 3. imponer."
+    },
+    {
+        "id": 1231,
+        "palabra": "o'otowaa",
+        "definicion": "1. montar. 2. subir"
+    },
+    {
+        "id": 1232,
+        "palabra": "o'tchejaa",
+        "definicion": "fallar (no dar en el blanco)."
+    },
+    {
+        "id": 1233,
+        "palabra": "o'tchejawaa amaa",
+        "definicion": "equivocarse con, equivocarse de."
+    },
+    {
+        "id": 1234,
+        "palabra": "o'tta",
+        "definicion": "y."
+    },
+    {
+        "id": 1235,
+        "palabra": "o'ttaa1",
+        "definicion": "comenzar, empezar."
+    },
+    {
+        "id": 1236,
+        "palabra": "o'ttaa2",
+        "definicion": "1. aterrizar. 2. posarse."
+    },
+    {
+        "id": 1237,
+        "palabra": "o'ttaa3",
+        "definicion": "o'utaa"
+    },
+    {
+        "id": 1238,
+        "palabra": "o'ttawaa",
+        "definicion": "1. pasar. 2. salvarse"
+    },
+    {
+        "id": 1239,
+        "palabra": "o'tte'eraa",
+        "definicion": "1. hacer pasar. 2. salvar"
+    },
+    {
+        "id": 1240,
+        "palabra": "o'u1",
+        "definicion": "1. ojo. 2. puerta. 3. abertura, agujero. 4. faro. 5. grano. 6. color."
+    },
+    {
+        "id": 1241,
+        "palabra": "o'u2",
+        "definicion": "1. en (el fuego, la luz, la oscuridad). 2. en (una fecha). — n.pos. vez."
+    },
+    {
+        "id": 1242,
+        "palabra": "o'ula",
+        "definicion": "1. lecho, hamaca. 2. telaraña. 3. placenta."
+    },
+    {
+        "id": 1243,
+        "palabra": "o'ulejaa",
+        "definicion": "maldecir."
+    },
+    {
+        "id": 1244,
+        "palabra": "o'ulijaa",
+        "definicion": "cargar (a un niño)."
+    },
+    {
+        "id": 1245,
+        "palabra": "o'uluku, o'utku",
+        "definicion": "miembro, parte"
+    },
+    {
+        "id": 1246,
+        "palabra": "o'unaa",
+        "definicion": "salir. — n. viaje"
+    },
+    {
+        "id": 1247,
+        "palabra": "o'uniraa",
+        "definicion": "llevar."
+    },
+    {
+        "id": 1248,
+        "palabra": "o'unnaa",
+        "definicion": "o'utpünaa."
+    },
+    {
+        "id": 222,
+        "palabra": "o'unushi",
+        "definicion": "vamos"
+    },
+    {
+        "id": 1249,
+        "palabra": "o'upala",
+        "definicion": "delante de (a la vista de)."
+    },
+    {
+        "id": 1250,
+        "palabra": "o'upünaa",
+        "definicion": "cara, rostro."
+    },
+    {
+        "id": 1251,
+        "palabra": "o'use",
+        "definicion": "gafas."
+    },
+    {
+        "id": 1252,
+        "palabra": "o'uta",
+        "definicion": "pestaña."
+    },
+    {
+        "id": 1254,
+        "palabra": "o'utaa aa'in",
+        "definicion": "matar."
+    },
+    {
+        "id": 1253,
+        "palabra": "o'utaa, o'ktaa, o'ttaa3",
+        "definicion": "ser profundo, -da"
+    },
+    {
+        "id": 1255,
+        "palabra": "o'utala",
+        "definicion": "cáscara."
+    },
+    {
+        "id": 1256,
+        "palabra": "o'utku",
+        "definicion": "o'uluku."
+    },
+    {
+        "id": 1257,
+        "palabra": "o'utpünaa, o'unnaa",
+        "definicion": "durante, en medio de. — conj.rel. mientras"
+    },
+    {
+        "id": 1258,
+        "palabra": "o'uwa",
+        "definicion": "cuerno."
+    },
+    {
+        "id": 1259,
+        "palabra": "o'uwajaa",
+        "definicion": "a'luwajaa."
+    },
+    {
+        "id": 1260,
+        "palabra": "o'uwatawaa",
+        "definicion": "a'luwatawaa."
+    },
+    {
+        "id": 1261,
+        "palabra": "o'uyaajana",
+        "definicion": "acompañante. V. amaajachi"
+    },
+    {
+        "id": 1262,
+        "palabra": "o'uyaakua",
+        "definicion": "ayaakua."
+    },
+    {
+        "id": 1263,
+        "palabra": "o'yotoo",
+        "definicion": "1. verter (un líquido). 2. echar (un líquido)."
+    },
+    {
+        "id": 1264,
+        "palabra": "o'yotowaa",
+        "definicion": "cortar (con cuchillo, tijeras)."
+    },
+    {
+        "id": 1198,
+        "palabra": "oi",
+        "definicion": "1. vello. 2. lana. 3. escama"
+    },
+    {
+        "id": 1199,
+        "palabra": "oikkaa, aikkaa",
+        "definicion": "vender."
+    },
+    {
+        "id": 1200,
+        "palabra": "ojoitaa",
+        "definicion": "enterrar."
+    },
+    {
+        "id": 1201,
+        "palabra": "ojotaa",
+        "definicion": "botar (un grupo o montón de cosas)."
+    },
+    {
+        "id": 1202,
+        "palabra": "ojottaa",
+        "definicion": "1. morder. 2. picar (de insectos)."
+    },
+    {
+        "id": 1203,
+        "palabra": "ojuichajaa, ojuichijaa, ajuichajaa",
+        "definicion": "romperse. — v.t. 1. borrar. 2. destruir"
+    },
+    {
+        "id": 1204,
+        "palabra": "ojuittaa",
+        "definicion": "ajuittaa."
+    },
+    {
+        "id": 1205,
+        "palabra": "ojuittiraa",
+        "definicion": "ajuittiraa."
+    },
+    {
+        "id": 1206,
+        "palabra": "ojujawaa",
+        "definicion": "ajujawaa."
+    },
+    {
+        "id": 1207,
+        "palabra": "ojulejaa",
+        "definicion": "ajulijaa."
+    },
+    {
+        "id": 1208,
+        "palabra": "ojuntaa, ajuntaa",
+        "definicion": "virar, desviarse."
+    },
+    {
+        "id": 1209,
+        "palabra": "ojununtawaa, ajununtawaa",
+        "definicion": "volverse (darse la vuelta)"
+    },
+    {
+        "id": 1210,
+        "palabra": "ojurulajaa",
+        "definicion": "ajurulajaa."
+    },
+    {
+        "id": 1211,
+        "palabra": "ojutaa",
+        "definicion": "ajutaa."
+    },
+    {
+        "id": 1212,
+        "palabra": "ojutalaa",
+        "definicion": "ajutalaa."
+    },
+    {
+        "id": 68,
+        "palabra": "ojutiraa jo'uu",
+        "definicion": "aborto"
+    },
+    {
+        "id": 1213,
+        "palabra": "ojuttaa, ajuttaa",
+        "definicion": "caer, derrumbarse."
+    },
+    {
+        "id": 1214,
+        "palabra": "ojuttiraa, ajuttiraa",
+        "definicion": "derribar, destruir."
+    },
+    {
+        "id": 1215,
+        "palabra": "ojutu",
+        "definicion": "ajutu."
+    },
+    {
+        "id": 1216,
+        "palabra": "ojutuwaa",
+        "definicion": "ajutuwaa."
+    },
+    {
+        "id": 1217,
+        "palabra": "ojuuna, ajuuna",
+        "definicion": "a escondidas de, sin que se dé cuenta."
+    },
+    {
+        "id": 1218,
+        "palabra": "ojuyaajaa",
+        "definicion": "ajuyaajaa."
+    },
+    {
+        "id": 1219,
+        "palabra": "ojuyaala",
+        "definicion": "ajuyaala."
+    },
+    {
+        "id": 1220,
+        "palabra": "oko'oloo",
+        "definicion": "1. envolver. 2. enrollar."
+    },
+    {
+        "id": 1221,
+        "palabra": "okolojoo",
+        "definicion": "llevar regalo."
+    },
+    {
+        "id": 1222,
+        "palabra": "okolojowaa",
+        "definicion": "mudarse."
+    },
+    {
+        "id": 1223,
+        "palabra": "okotchojoo",
+        "definicion": "akotchajaa."
+    },
+    {
+        "id": 1224,
+        "palabra": "okotchojowaa",
+        "definicion": "akotchajawaa."
+    },
+    {
+        "id": 1265,
+        "palabra": "olojoo",
+        "definicion": "cazar."
+    },
+    {
+        "id": 1266,
+        "palabra": "olu",
+        "definicion": "1. borde. 2. orilla"
+    },
+    {
+        "id": 1267,
+        "palabra": "omocho",
+        "definicion": "ombligo."
+    },
+    {
+        "id": 1268,
+        "palabra": "omokoin",
+        "definicion": "espuma."
+    },
+    {
+        "id": 1271,
+        "palabra": "oo'omüin",
+        "definicion": "adj.rel., pron.rel. más. — posp. contra."
+    },
+    {
+        "id": 1272,
+        "palabra": "oo'opünaa",
+        "definicion": "1. por. 2. por encima de. 3. en cuanto a"
+    },
+    {
+        "id": 1273,
+        "palabra": "oo'ui",
+        "definicion": "1. pie. 2. pata. 3. huella, rastro. 4. llanta"
+    },
+    {
+        "id": 1274,
+        "palabra": "oo'ulaka",
+        "definicion": "y"
+    },
+    {
+        "id": 1275,
+        "palabra": "oo'ulakaa",
+        "definicion": "1. intentar, probar. 2. practicar, realizar. 3. adivinar (por medios sobrenaturales)"
+    },
+    {
+        "id": 1276,
+        "palabra": "oo'ulawaa",
+        "definicion": "1. dejar. 2. abandonar. 3. permitir."
+    },
+    {
+        "id": 1277,
+        "palabra": "oo'ulia",
+        "definicion": "mata."
+    },
+    {
+        "id": 1278,
+        "palabra": "oo'uliwo'u",
+        "definicion": "descendiente."
+    },
+    {
+        "id": 1269,
+        "palabra": "oojoo",
+        "definicion": "raspar."
+    },
+    {
+        "id": 1270,
+        "palabra": "ookotuushi",
+        "definicion": "mazamorra. pos. ookotüin."
+    },
+    {
+        "id": 223,
+        "palabra": "oonojoo",
+        "definicion": "toser"
+    },
+    {
+        "id": 1279,
+        "palabra": "oonojoo",
+        "definicion": "toser."
+    },
+    {
+        "id": 1280,
+        "palabra": "oonowaa amaa",
+        "definicion": "1. obedecer, hacer caso de. 2. estar de acuerdo, apoyar. 3. creer."
+    },
+    {
+        "id": 1281,
+        "palabra": "oora",
+        "definicion": "hora."
+    },
+    {
+        "id": 1282,
+        "palabra": "ooro",
+        "definicion": "oro"
+    },
+    {
+        "id": 1283,
+        "palabra": "ooroloo",
+        "definicion": "estar hinchado (el abdomen)"
+    },
+    {
+        "id": 1284,
+        "palabra": "oosojowaa",
+        "definicion": "secarse."
+    },
+    {
+        "id": 1285,
+        "palabra": "ootojoo",
+        "definicion": "perforar."
+    },
+    {
+        "id": 1286,
+        "palabra": "ootoo",
+        "definicion": "ladrar. — v.t. 1. estimular, animar. 2. autorizar."
+    },
+    {
+        "id": 1287,
+        "palabra": "oponoo, aponoo",
+        "definicion": "cavar."
+    },
+    {
+        "id": 1288,
+        "palabra": "opoolojoo",
+        "definicion": "hervir."
+    },
+    {
+        "id": 169,
+        "palabra": "opoolojoo",
+        "definicion": "hervir (poner a hervir, cocer (a'lakajawaa), por ejemplo caf'e, opolotoo (estar hirviendo)"
+    },
+    {
+        "id": 1289,
+        "palabra": "opootaa",
+        "definicion": "atascarse (en el barro o en la arena)."
+    },
+    {
+        "id": 1296,
+        "palabra": "osho'o",
+        "definicion": "nudo."
+    },
+    {
+        "id": 170,
+        "palabra": "oshojoo",
+        "definicion": "Pelar (Desollar, destazar)"
+    },
+    {
+        "id": 1295,
+        "palabra": "oshojoo",
+        "definicion": "desollar, pelar, desvainar."
+    },
+    {
+        "id": 1297,
+        "palabra": "oshottoo",
+        "definicion": "ashottaa."
+    },
+    {
+        "id": 1290,
+        "palabra": "oso'iraa aa'in, aso'iraa aa'in",
+        "definicion": "1. recordar, hacer recordar. 2. resucitar. V. sotoo aa'in"
+    },
+    {
+        "id": 1291,
+        "palabra": "oso'irawaa aa'in, aso'irawaa aa'in",
+        "definicion": "1. recobrar el conocimiento, volver en sí. 2. resucitar"
+    },
+    {
+        "id": 1292,
+        "palabra": "ososo",
+        "definicion": "pulmón."
+    },
+    {
+        "id": 1293,
+        "palabra": "osotaa",
+        "definicion": "asotaa."
+    },
+    {
+        "id": 1294,
+        "palabra": "osottaa",
+        "definicion": "asottaa."
+    },
+    {
+        "id": 1298,
+        "palabra": "otse",
+        "definicion": "1. olla. 2. lo cocinado por. V. wushu."
+    },
+    {
         "id": 15,
         "palabra": "otta",
         "definicion": "y"
+    },
+    {
+        "id": 1299,
+        "palabra": "oukaa achiki",
+        "definicion": "impedir."
+    },
+    {
+        "id": 1300,
+        "palabra": "oukajaa",
+        "definicion": "esperar (una llegada)."
+    },
+    {
+        "id": 145,
+        "palabra": "ouktaa",
+        "definicion": "muerte"
+    },
+    {
+        "id": 1301,
+        "palabra": "ouktaa",
+        "definicion": "morir. — v.e. estar muerto, -ta. — n. muerte."
+    },
+    {
+        "id": 1302,
+        "palabra": "ouktapünawaa",
+        "definicion": "perder el conocimiento, desmayarse"
+    },
+    {
+        "id": 1303,
+        "palabra": "ouktasiro'ulu",
+        "definicion": "mortal (que causa la muerte)."
+    },
+    {
+        "id": 1304,
+        "palabra": "oulia",
+        "definicion": "de, más que, en vez de, contra. — conj.rel. para que no."
+    },
+    {
+        "id": 1305,
+        "palabra": "ounekaa",
+        "definicion": "eenakaa."
+    },
+    {
+        "id": 1306,
+        "palabra": "ounjulaa, anujulaa",
+        "definicion": "esconder."
+    },
+    {
+        "id": 1307,
+        "palabra": "ounjulawaa, anujulawaa",
+        "definicion": "esconderse."
+    },
+    {
+        "id": 1308,
+        "palabra": "ountaa",
+        "definicion": "poder."
+    },
+    {
+        "id": 1309,
+        "palabra": "oupünaa",
+        "definicion": "debajo de."
+    },
+    {
+        "id": 1310,
+        "palabra": "ourala",
+        "definicion": "raíz."
+    },
+    {
+        "id": 1311,
+        "palabra": "ourulaa",
+        "definicion": "estar hinchado, -da. V. ooroloo"
+    },
+    {
+        "id": 1312,
+        "palabra": "ousaa",
+        "definicion": "deshierbar, arar, rozar (un terreno)"
+    },
+    {
+        "id": 1313,
+        "palabra": "oushikawaa achiirua",
+        "definicion": "seguir."
+    },
+    {
+        "id": 1314,
+        "palabra": "oushu, oushi",
+        "definicion": "abuela."
+    },
+    {
+        "id": 1315,
+        "palabra": "oushuwaa",
+        "definicion": "tener fiebre"
+    },
+    {
+        "id": 1316,
+        "palabra": "outkajaa",
+        "definicion": "1. reunir, juntar. 2. rodear (ganado)."
+    },
+    {
+        "id": 94,
+        "palabra": "outkajaalee",
+        "definicion": "congregacion"
+    },
+    {
+        "id": 1317,
+        "palabra": "outkajawaa",
+        "definicion": "reunirse. V. jutkataa."
+    },
+    {
+        "id": 79,
+        "palabra": "outkajawaa miyo'u",
+        "definicion": "asamblea"
+    },
+    {
+        "id": 1318,
+        "palabra": "outshi, -sü",
+        "definicion": "curandero, -ra. pos. outsia."
+    },
+    {
+        "id": 1319,
+        "palabra": "ouyantaa",
+        "definicion": "volver. — v.t. hacer volver."
+    },
+    {
+        "id": 1320,
+        "palabra": "ouyase",
+        "definicion": "edad (años). V. juya"
+    },
+    {
+        "id": 1321,
+        "palabra": "owoutisaajaa, awoutisaajaa",
+        "definicion": "bautizar."
+    },
+    {
+        "id": 1322,
+        "palabra": "oyokojowaa",
+        "definicion": "apagarse. — v.t. apagar. V. yokutaa"
+    },
+    {
+        "id": 1323,
+        "palabra": "oyonnajaa, oyonnojoo",
+        "definicion": "bailar. V. yonna."
+    },
+    {
+        "id": 1324,
+        "palabra": "paa'a",
+        "definicion": "vaca, ganado (vacuno). paa'ata V. asachiralü"
+    },
+    {
+        "id": 1325,
+        "palabra": "paa'ata",
+        "definicion": "cuero. pos. -in."
+    },
+    {
+        "id": 1326,
+        "palabra": "paa'inwaa",
+        "definicion": "estar de acuerdo."
+    },
+    {
+        "id": 1327,
+        "palabra": "paala",
+        "definicion": "1. antes. 2. ahora mismo"
+    },
+    {
+        "id": 211,
+        "palabra": "páala",
+        "definicion": "pasado"
     },
     {
         "id": 12,
@@ -20,9 +6210,379 @@
         "definicion": "da"
     },
     {
+        "id": 203,
+        "palabra": "paapuiru",
+        "definicion": "escuchar"
+    },
+    {
+        "id": 1328,
+        "palabra": "paarü",
+        "definicion": "pala. pos. -in"
+    },
+    {
+        "id": 1329,
+        "palabra": "paasta",
+        "definicion": "plástico."
+    },
+    {
+        "id": 1330,
+        "palabra": "paatia",
+        "definicion": "patio."
+    },
+    {
+        "id": 1331,
+        "palabra": "palaa",
+        "definicion": "mar."
+    },
+    {
+        "id": 1332,
+        "palabra": "palaapünaa",
+        "definicion": "por el norte"
+    },
+    {
+        "id": 1333,
+        "palabra": "palajachi, -tü",
+        "definicion": "primero, -ra. — n.m., n.no m. primero, -ra. pl. palajana"
+    },
+    {
+        "id": 1334,
+        "palabra": "palajana",
+        "definicion": "primero."
+    },
+    {
+        "id": 1335,
+        "palabra": "palastaa",
+        "definicion": "estar acostado, -da; estar tendido, -da"
+    },
+    {
+        "id": 1336,
+        "palabra": "palawaa",
+        "definicion": "ser salado"
+    },
+    {
+        "id": 1337,
+        "palabra": "pali'i",
+        "definicion": "ceniza."
+    },
+    {
+        "id": 219,
+        "palabra": "palicho",
+        "definicion": "poquito"
+    },
+    {
+        "id": 1338,
+        "palabra": "palirawaa",
+        "definicion": "estar mezclado, -da"
+    },
+    {
+        "id": 1339,
+        "palabra": "palitchon",
+        "definicion": "poco, -ca; poquito, -ta. V. yootchon."
+    },
+    {
+        "id": 1340,
+        "palabra": "palousa",
+        "definicion": "tijeras. pos. -in"
+    },
+    {
+        "id": 65,
+        "palabra": "palousa",
+        "definicion": "tijera"
+    },
+    {
+        "id": 1341,
+        "palabra": "pan",
+        "definicion": "pan."
+    },
+    {
+        "id": 1342,
+        "palabra": "pansawaa",
+        "definicion": "1. estar derecho, -cha. 2. ser seguro, -ra (confiable). 3. ser recto, -ta. 4. ser justo,"
+    },
+    {
+        "id": 161,
+        "palabra": "pasalawa atuma",
+        "definicion": "vengar (castigar, cobrar una ofensa, amaünajaa)"
+    },
+    {
+        "id": 1343,
+        "palabra": "pasalawaa atüma",
+        "definicion": "ser vengado por."
+    },
+    {
+        "id": 1344,
+        "palabra": "pasanain anain",
+        "definicion": "en medio de, entre."
+    },
+    {
+        "id": 1345,
+        "palabra": "pasanuaa",
+        "definicion": "ser delgado, -da (de objetos cilíndricos)."
+    },
+    {
+        "id": 1346,
+        "palabra": "paülü'ü",
+        "definicion": "adentro (de la casa)."
+    },
+    {
+        "id": 126,
+        "palabra": "pawallawajiraashi",
+        "definicion": "hermandad"
+    },
+    {
+        "id": 1348,
+        "palabra": "peerü",
+        "definicion": "perdiz."
+    },
+    {
+        "id": 1347,
+        "palabra": "peerü",
+        "definicion": "perdiz."
+    },
+    {
+        "id": 1349,
+        "palabra": "peesü'ülü",
+        "definicion": "detrás de una casa."
+    },
+    {
+        "id": 1350,
+        "palabra": "pejee",
+        "definicion": "estar cerca."
+    },
+    {
+        "id": 1351,
+        "palabra": "pejeewa",
+        "definicion": "a cada rato"
+    },
+    {
+        "id": 1352,
+        "palabra": "pentaana, wentaana",
+        "definicion": "ventana."
+    },
+    {
+        "id": 1353,
+        "palabra": "peraa",
+        "definicion": "ser mocho, -cha"
+    },
+    {
+        "id": 1354,
+        "palabra": "perulaa",
+        "definicion": "chisme. pos. eperulain."
+    },
+    {
+        "id": 1355,
+        "palabra": "pia",
+        "definicion": "tú; te; usted; lo, la."
+    },
+    {
+        "id": 175,
+        "palabra": "piá",
+        "definicion": "tu"
+    },
+    {
+        "id": 189,
+        "palabra": "pía",
+        "definicion": "tu"
+    },
+    {
+        "id": 1356,
+        "palabra": "piama",
+        "definicion": "dos."
+    },
+    {
+        "id": 1357,
+        "palabra": "piama shikii",
+        "definicion": "veinte."
+    },
+    {
+        "id": 1358,
+        "palabra": "piamale",
+        "definicion": "ambos, -bas; los dos."
+    },
+    {
+        "id": 1359,
+        "palabra": "piantua",
+        "definicion": "dos veces."
+    },
+    {
+        "id": 67,
+        "palabra": "pichi, michi, tepia",
+        "definicion": "Casa"
+    },
+    {
+        "id": 1360,
+        "palabra": "pienchi",
+        "definicion": "cuatro."
+    },
+    {
+        "id": 1361,
+        "palabra": "piichi, pinchi",
+        "definicion": "miichi."
+    },
+    {
+        "id": 1362,
+        "palabra": "pirataa",
+        "definicion": "estar lleno, -na."
+    },
+    {
+        "id": 1363,
+        "palabra": "pirijirü, jirijirü",
+        "definicion": "periquito."
+    },
+    {
+        "id": 1364,
+        "palabra": "pisaalü",
+        "definicion": "bozal. pos. episaatse"
+    },
+    {
+        "id": 1365,
+        "palabra": "pitshuushi, pitchuushi, kepeshuuna",
+        "definicion": "fríjol."
+    },
+    {
+        "id": 1366,
+        "palabra": "piuuna",
+        "definicion": "1. sirviente, -ta. 2. esclavo"
+    },
+    {
+        "id": 1367,
+        "palabra": "piyulu, piyula",
+        "definicion": "bolsa de malla"
+    },
+    {
+        "id": 1368,
+        "palabra": "piyuushi",
+        "definicion": "oscuridad."
+    },
+    {
+        "id": 1369,
+        "palabra": "poloo",
+        "definicion": "diez."
+    },
+    {
+        "id": 124,
+        "palabra": "polu",
+        "definicion": "hacha"
+    },
+    {
+        "id": 1370,
+        "palabra": "polu",
+        "definicion": "hacha."
+    },
+    {
+        "id": 1371,
+        "palabra": "ponoo aa'in",
+        "definicion": "1. maravillar, asombrar. 2. fascinar."
+    },
+    {
+        "id": 1372,
+        "palabra": "pooporo",
+        "definicion": "fósforo."
+    },
+    {
+        "id": 1373,
+        "palabra": "pootshi",
+        "definicion": "barro."
+    },
+    {
+        "id": 1374,
+        "palabra": "potshonoi, wotshonoi",
+        "definicion": "libélula"
+    },
+    {
+        "id": 1375,
+        "palabra": "puatto'u, puetto'u",
+        "definicion": "puerta."
+    },
+    {
+        "id": 1593,
+        "palabra": "püchajaa",
+        "definicion": "buscar,veamos"
+    },
+    {
+        "id": 1376,
+        "palabra": "pueulo",
+        "definicion": "pueblo (aldea), ciudad"
+    },
+    {
+        "id": 199,
+        "palabra": "puikala",
+        "definicion": "siéntate"
+    },
+    {
+        "id": 1381,
+        "palabra": "püla'ana",
+        "definicion": "plátano."
+    },
+    {
+        "id": 1377,
+        "palabra": "pülaa",
+        "definicion": "1. ser poderoso, -sa. 2. ser dañino, -na. 3. ser sagrado, -da"
+    },
+    {
+        "id": 1378,
+        "palabra": "pülaa aa'in",
+        "definicion": "ser arrogante"
+    },
+    {
+        "id": 1379,
+        "palabra": "pülaasa",
+        "definicion": "plaza."
+    },
+    {
+        "id": 1380,
+        "palabra": "pülaata",
+        "definicion": "1. plato. 2. plata (el metal)."
+    },
+    {
+        "id": 1382,
+        "palabra": "püliiki, püliikü",
+        "definicion": "burro,"
+    },
+    {
+        "id": 226,
+        "palabra": "puliikü",
+        "definicion": "burro"
+    },
+    {
         "id": 5,
         "palabra": "pumuin",
         "definicion": "a ti"
+    },
+    {
+        "id": 1383,
+        "palabra": "pünajüt",
+        "definicion": "lo sembrado, cultivo. pos. apünajüin"
+    },
+    {
+        "id": 1384,
+        "palabra": "püreesaa",
+        "definicion": "estar preso, -sa. püreesaapüle püreesaapüle n. cárcel."
+    },
+    {
+        "id": 1385,
+        "palabra": "püsiaa",
+        "definicion": "ser dulce."
+    },
+    {
+        "id": 1386,
+        "palabra": "püsichi",
+        "definicion": "murciélago."
+    },
+    {
+        "id": 1387,
+        "palabra": "pütche'ejachi, -tü",
+        "definicion": "palabrero, -ra (intermediario, -ria)."
+    },
+    {
+        "id": 1388,
+        "palabra": "pütchi",
+        "definicion": "1. palabra. 2. discurso. 3. lengua (idioma). 4. voz"
+    },
+    {
+        "id": 1389,
+        "palabra": "pütchipü'ü",
+        "definicion": "1. palabrero, -ra. 2. intermediario, -ria. 3. abogado"
     },
     {
         "id": 8,
@@ -30,9 +6590,364 @@
         "definicion": "por ti"
     },
     {
+        "id": 89,
+        "palabra": "püülukü",
+        "definicion": "cochino"
+    },
+    {
+        "id": 1390,
+        "palabra": "püülükü",
+        "definicion": "cerdo; marrano"
+    },
+    {
+        "id": 1391,
+        "palabra": "raawia",
+        "definicion": "radio."
+    },
+    {
+        "id": 1392,
+        "palabra": "rampara",
+        "definicion": "lámpara."
+    },
+    {
+        "id": 1393,
+        "palabra": "riwoolü",
+        "definicion": "revólver."
+    },
+    {
+        "id": 1394,
+        "palabra": "roo",
+        "definicion": "arroz."
+    },
+    {
+        "id": 1395,
+        "palabra": "rouya",
+        "definicion": "1. espejo. 2. ventana de vidrio, puerta de vidrio."
+    },
+    {
+        "id": 99,
+        "palabra": "rüi",
+        "definicion": "cuchillo"
+    },
+    {
+        "id": 1397,
+        "palabra": "rüi",
+        "definicion": "cuchillo"
+    },
+    {
+        "id": 1398,
+        "palabra": "rülipi",
+        "definicion": "sábila, áloe."
+    },
+    {
+        "id": 1396,
+        "palabra": "ruluma",
+        "definicion": "comején (termes)."
+    },
+    {
+        "id": 1400,
+        "palabra": "sa'aya",
+        "definicion": "allá."
+    },
+    {
+        "id": 1401,
+        "palabra": "sa'wai",
+        "definicion": "de noche."
+    },
+    {
+        "id": 1402,
+        "palabra": "sa'wainrü, sa'waina",
+        "definicion": "tortuga de mar."
+    },
+    {
+        "id": 204,
+        "palabra": "saa'u",
+        "definicion": "por"
+    },
+    {
+        "id": 36,
+        "palabra": "Saa'ujee",
+        "definicion": "Porque"
+    },
+    {
+        "id": 1399,
+        "palabra": "saamataa",
+        "definicion": "estar frío, fría; estar fresco,"
+    },
+    {
+        "id": 64,
+        "palabra": "sallil",
+        "definicion": "Dolor"
+    },
+    {
+        "id": 1403,
+        "palabra": "samulu",
+        "definicion": "buitre, zamuro. V. waluuseechi."
+    },
+    {
+        "id": 1404,
+        "palabra": "sapaata",
+        "definicion": "zapato. pos. asapaatse, asapaas"
+    },
+    {
+        "id": 1405,
+        "palabra": "sarulu",
+        "definicion": "boa."
+    },
+    {
         "id": 7,
         "palabra": "sau kotuin wou",
         "definicion": "por estar vivos"
+    },
+    {
+        "id": 63,
+        "palabra": "se'ejena jo'uu",
+        "definicion": "Coche de bebe"
+    },
+    {
+        "id": 1406,
+        "palabra": "seepü",
+        "definicion": "grasa, sebo"
+    },
+    {
+        "id": 1407,
+        "palabra": "seita, seite",
+        "definicion": "aceite."
+    },
+    {
+        "id": 1408,
+        "palabra": "sekurulu",
+        "definicion": "sikirulu."
+    },
+    {
+        "id": 1409,
+        "palabra": "semaana",
+        "definicion": "semana."
+    },
+    {
+        "id": 1410,
+        "palabra": "senkeyuu",
+        "definicion": "mellizo, -za; gemelo"
+    },
+    {
+        "id": 1411,
+        "palabra": "seruma, sirumaachi",
+        "definicion": "ave chirito"
+    },
+    {
+        "id": 1442,
+        "palabra": "sha'wataa",
+        "definicion": "estar parado, -da; estar de pie."
+    },
+    {
+        "id": 1441,
+        "palabra": "shaakuma",
+        "definicion": "cabestro."
+    },
+    {
+        "id": 1443,
+        "palabra": "shale",
+        "definicion": "último hijo, última hija"
+    },
+    {
+        "id": 177,
+        "palabra": "shiá",
+        "definicion": "ella"
+    },
+    {
+        "id": 30,
+        "palabra": "shia tü",
+        "definicion": "Es la..."
+    },
+    {
+        "id": 1444,
+        "palabra": "shia, jia",
+        "definicion": "ella, la, lo."
+    },
+    {
+        "id": 1445,
+        "palabra": "shiale",
+        "definicion": "o ella. gram. Es la forma de tercera persona singular no masculino. La palabra se compone uniendo cualquiera de los pronombres personales con -le según el contexto."
+    },
+    {
+        "id": 37,
+        "palabra": "shiasa'a sünainjee",
+        "definicion": "Es por medio de..."
+    },
+    {
+        "id": 1446,
+        "palabra": "shiatapünaa",
+        "definicion": "medio, -dia. — n. mitad."
+    },
+    {
+        "id": 1447,
+        "palabra": "shiimüin, shiimain",
+        "definicion": "verdadero, -ra. — n. verdad."
+    },
+    {
+        "id": 205,
+        "palabra": "shimain",
+        "definicion": "verdad"
+    },
+    {
+        "id": 1448,
+        "palabra": "shitaa",
+        "definicion": "estar hinchado, -da"
+    },
+    {
+        "id": 1449,
+        "palabra": "shokotaa",
+        "definicion": "1. ser curvo, -va. 2. estar torcido, -da"
+    },
+    {
+        "id": 1450,
+        "palabra": "shokulaa, shukulaa",
+        "definicion": "ser perezoso, -sa."
+    },
+    {
+        "id": 1451,
+        "palabra": "shottaa",
+        "definicion": "gotear."
+    },
+    {
+        "id": 1452,
+        "palabra": "shunui",
+        "definicion": "gripe, catarro."
+    },
+    {
+        "id": 1453,
+        "palabra": "shunulii",
+        "definicion": "tener gripe, tener catarro."
+    },
+    {
+        "id": 1416,
+        "palabra": "si'ira",
+        "definicion": "cinturón (del varón)."
+    },
+    {
+        "id": 1417,
+        "palabra": "si'warai",
+        "definicion": "caldero."
+    },
+    {
+        "id": 1418,
+        "palabra": "si'ya",
+        "definicion": "gonzalito, toche."
+    },
+    {
+        "id": 1412,
+        "palabra": "siimaraalü, süinmaraalü",
+        "definicion": "marca cortada en la oreja del ganado menor. pos. asiimaraatse."
+    },
+    {
+        "id": 1413,
+        "palabra": "siiya",
+        "definicion": "silla de montar, silla"
+    },
+    {
+        "id": 1414,
+        "palabra": "siki",
+        "definicion": "1. fuego. 2. leña"
+    },
+    {
+        "id": 1415,
+        "palabra": "sikirulu, sekurulu",
+        "definicion": "ave carpintero habado"
+    },
+    {
+        "id": 1419,
+        "palabra": "sinataa",
+        "definicion": "sirataa."
+    },
+    {
+        "id": 1420,
+        "palabra": "sipuulu",
+        "definicion": "espuela. pos. asipuutse"
+    },
+    {
+        "id": 1421,
+        "palabra": "sirapü",
+        "definicion": "cinturón (de la mujer)"
+    },
+    {
+        "id": 1422,
+        "palabra": "sirasiraa",
+        "definicion": "1. ser liso, -sa. 2. ser resbaloso,"
+    },
+    {
+        "id": 165,
+        "palabra": "sirasiraa",
+        "definicion": "Resbaloso (escurridizo, deslizadizo)"
+    },
+    {
+        "id": 1423,
+        "palabra": "sirataa, sinataa",
+        "definicion": "1. ser liso, -sa. 2. ser parejo, -ja. 3. ser plano, -na; ser llano,"
+    },
+    {
+        "id": 1424,
+        "palabra": "siruma",
+        "definicion": "nube, cielo."
+    },
+    {
+        "id": 1425,
+        "palabra": "sirumaachi",
+        "definicion": "seruma."
+    },
+    {
+        "id": 88,
+        "palabra": "sirumatu'u, iipünaa",
+        "definicion": "cielo"
+    },
+    {
+        "id": 1426,
+        "palabra": "sittiija, sittiiya",
+        "definicion": "süttiija."
+    },
+    {
+        "id": 1427,
+        "palabra": "so'uka'i",
+        "definicion": "1. hoy. 2. de día"
+    },
+    {
+        "id": 1428,
+        "palabra": "so'ukalinka",
+        "definicion": "ayer."
+    },
+    {
+        "id": 1429,
+        "palabra": "sotoo aa'in",
+        "definicion": "recordar, acordarse de. gram. El sujeto del verbo sotoo corresponde al complemento del verbo ‘recordar’ y el poseedor de aa'in, ‘corazón’, corresponde al sujeto de ‘recordar’. Por ejemplo, sotüsü waa'in tü nümakat equivale a ‘recordamos lo que él dijo’. V"
+    },
+    {
+        "id": 1430,
+        "palabra": "sotsoluu",
+        "definicion": "1. tener dormido un miembro del cuerpo. 2. dar calambre."
+    },
+    {
+        "id": 1435,
+        "palabra": "süchi",
+        "definicion": "río."
+    },
+    {
+        "id": 209,
+        "palabra": "suchiki",
+        "definicion": "sobre"
+    },
+    {
+        "id": 1436,
+        "palabra": "süi",
+        "definicion": "chinchorro, hamaca"
+    },
+    {
+        "id": 1437,
+        "palabra": "süinmaraalü",
+        "definicion": "siimaraalü."
+    },
+    {
+        "id": 1588,
+        "palabra": "süka saapünüim",
+        "definicion": "porque le dieron"
     },
     {
         "id": 9,
@@ -40,9 +6955,99 @@
         "definicion": "por estar aqui"
     },
     {
+        "id": 59,
+        "palabra": "sükajee",
+        "definicion": "Mediante..."
+    },
+    {
+        "id": 48,
+        "palabra": "sulu'u jamüin?:",
+        "definicion": "Y por qué?"
+    },
+    {
+        "id": 1587,
+        "palabra": "sulu'uka",
+        "definicion": "dentro"
+    },
+    {
         "id": 10,
         "palabra": "sulut tu outkajaleekat",
         "definicion": "en la congregacion"
+    },
+    {
+        "id": 1595,
+        "palabra": "suluʼu",
+        "definicion": "de"
+    },
+    {
+        "id": 1591,
+        "palabra": "sümüin",
+        "definicion": "para ella"
+    },
+    {
+        "id": 40,
+        "palabra": "sünain",
+        "definicion": "Sobre/En..."
+    },
+    {
+        "id": 41,
+        "palabra": "sünain ekirajayakat tüü",
+        "definicion": "En ésta lección."
+    },
+    {
+        "id": 186,
+        "palabra": "sünülia Carmen (femenino)",
+        "definicion": "Ella se llama Carmen"
+    },
+    {
+        "id": 129,
+        "palabra": "süpana wünüü",
+        "definicion": "hoja de arbol"
+    },
+    {
+        "id": 31,
+        "palabra": "süpüla",
+        "definicion": "Para"
+    },
+    {
+        "id": 1431,
+        "palabra": "surulaalü",
+        "definicion": "soldado. pos. asurulaatse"
+    },
+    {
+        "id": 116,
+        "palabra": "süsii wunuú",
+        "definicion": "flor"
+    },
+    {
+        "id": 1432,
+        "palabra": "susu",
+        "definicion": "mochila fina"
+    },
+    {
+        "id": 1438,
+        "palabra": "sütaa",
+        "definicion": "dar comezón."
+    },
+    {
+        "id": 1433,
+        "palabra": "sutta",
+        "definicion": "huso."
+    },
+    {
+        "id": 1439,
+        "palabra": "süttaa",
+        "definicion": "estar cerrado, -da. V. asürülaa"
+    },
+    {
+        "id": 419,
+        "palabra": "suʼttiainjatka",
+        "definicion": "Comenzando, al principio"
+    },
+    {
+        "id": 1440,
+        "palabra": "süttiija, süttiiya, sittiija, sittiiya",
+        "definicion": "anillo, sortija"
     },
     {
         "id": 11,
@@ -50,19 +7055,923 @@
         "definicion": "empieza"
     },
     {
+        "id": 18,
+        "palabra": "sutuma tia",
+        "definicion": "Por eso, Por esta razon"
+    },
+    {
+        "id": 1434,
+        "palabra": "suukala",
+        "definicion": "azúcar."
+    },
+    {
+        "id": 38,
+        "palabra": "suulia",
+        "definicion": "Para que no...."
+    },
+    {
+        "id": 39,
+        "palabra": "suulia sülatüin tia Wamüin",
+        "definicion": "Para que esto no nos ocurra"
+    },
+    {
+        "id": 229,
+        "palabra": "ta uwon",
+        "definicion": "mi sombrero"
+    },
+    {
+        "id": 72,
+        "palabra": "taa'in",
+        "definicion": "alma"
+    },
+    {
+        "id": 66,
+        "palabra": "taa'in",
+        "definicion": "Corazon"
+    },
+    {
+        "id": 103,
+        "palabra": "taapaa taa'in nümüim je'waa",
+        "definicion": "dedicacion"
+    },
+    {
+        "id": 1454,
+        "palabra": "taapüla",
+        "definicion": "tabla."
+    },
+    {
+        "id": 1455,
+        "palabra": "taashii",
+        "definicion": "estar libre; estar suelto, -ta; estar disponible."
+    },
+    {
+        "id": 1456,
+        "palabra": "taata",
+        "definicion": "papá, abuelo"
+    },
+    {
+        "id": 1457,
+        "palabra": "taataai",
+        "definicion": "rana."
+    },
+    {
+        "id": 127,
+        "palabra": "tachon",
+        "definicion": "hijo"
+    },
+    {
+        "id": 138,
+        "palabra": "tajapü",
+        "definicion": "mano"
+    },
+    {
+        "id": 1458,
+        "palabra": "talataa",
+        "definicion": "1. estar alegre; estar contento, -ta; estar feliz. 2. estar complacido, -da"
+    },
+    {
+        "id": 113,
+        "palabra": "talatüsü taa'in",
+        "definicion": "feliz"
+    },
+    {
+        "id": 184,
+        "palabra": "tanülia maria",
+        "definicion": "mi nombre es maría"
+    },
+    {
+        "id": 105,
+        "palabra": "tapachera",
+        "definicion": "dedos(pies)"
+    },
+    {
+        "id": 112,
+        "palabra": "tapüshi",
+        "definicion": "familia"
+    },
+    {
+        "id": 101,
+        "palabra": "tatapa'a; te'iruku",
+        "definicion": "cuerpo"
+    },
+    {
+        "id": 142,
+        "palabra": "tatünajutü, ta'alewain",
+        "definicion": "mi amigo"
+    },
+    {
+        "id": 125,
+        "palabra": "tawala sünain anoula",
+        "definicion": "hermano espiritual"
+    },
+    {
+        "id": 1459,
+        "palabra": "taya",
+        "definicion": "yo, me."
+    },
+    {
+        "id": 174,
+        "palabra": "tayá",
+        "definicion": "yo"
+    },
+    {
+        "id": 137,
+        "palabra": "tei",
+        "definicion": "mama"
+    },
+    {
+        "id": 1460,
+        "palabra": "teitei, teuteu",
+        "definicion": "alcaraván."
+    },
+    {
+        "id": 104,
+        "palabra": "tejepira",
+        "definicion": "dedos(manos)"
+    },
+    {
+        "id": 87,
+        "palabra": "tekiisholoin",
+        "definicion": "cerebro"
+    },
+    {
+        "id": 151,
+        "palabra": "tepichi",
+        "definicion": "muchacho"
+    },
+    {
+        "id": 1461,
+        "palabra": "tepichi",
+        "definicion": "muchacho, -cha; niño, -ña"
+    },
+    {
+        "id": 85,
+        "palabra": "to'upünaa",
+        "definicion": "cara"
+    },
+    {
+        "id": 1462,
+        "palabra": "toleeka",
+        "definicion": "saco, costal"
+    },
+    {
+        "id": 1463,
+        "palabra": "toolo",
+        "definicion": "macho. — n. hombre, varón. pl. tooloyuu."
+    },
+    {
+        "id": 1464,
+        "palabra": "toolo aa'in",
+        "definicion": "ser valiente, ser macho. gram. Normalmente al formar este predicado nominal, el adjetivo toolo queda invariable y en vez de añadirle el prefijo personal al nombre aa'in, se le añade un sufijo de género-número que concuerda con el sujeto, que suele ser mas"
+    },
+    {
+        "id": 1465,
+        "palabra": "toolü",
+        "definicion": "ave aguaitacamino, ave chotacabras."
+    },
+    {
+        "id": 1466,
+        "palabra": "toomasü",
+        "definicion": "paloma (doméstica). V. mo'uwa."
+    },
+    {
+        "id": 1467,
+        "palabra": "tottoolu",
+        "definicion": "médico,"
+    },
+    {
+        "id": 141,
+        "palabra": "tottoolü",
+        "definicion": "doctor"
+    },
+    {
+        "id": 1470,
+        "palabra": "tü",
+        "definicion": "esta."
+    },
+    {
+        "id": 1596,
+        "palabra": "tü",
+        "definicion": "la"
+    },
+    {
+        "id": 1468,
+        "palabra": "tu'uma",
+        "definicion": "piedra preciosa."
+    },
+    {
+        "id": 107,
+        "palabra": "tü naa'inrakat na outshiikana",
+        "definicion": "espiritismo"
+    },
+    {
+        "id": 193,
+        "palabra": "tü wkirajaainjatkalü anain",
+        "definicion": "lo que veremos"
+    },
+    {
+        "id": 1471,
+        "palabra": "tüitüi",
+        "definicion": "halcón."
+    },
+    {
+        "id": 1472,
+        "palabra": "tüntaa aa'in",
+        "definicion": "1. pulsar (corazón). 2. palpitar (corazón). gram. El sujeto del verbo tüntaa es el mismo aa'in, ‘corazón’, así como ‘corazón’ sería el sujeto de los verbos ‘pulsar’ y ‘palpitar’. Por ejemplo, tüntüsü taa'in (literamente, ‘pulsa mi-corazón’) equivale a ‘me"
+    },
+    {
+        "id": 1473,
+        "palabra": "türa",
+        "definicion": "esa. — pron. ésa, eso"
+    },
+    {
+        "id": 1474,
+        "palabra": "türiiya",
+        "definicion": "1. junco. 2. silla de junco (para montar o cargar"
+    },
+    {
+        "id": 1475,
+        "palabra": "tüsa",
+        "definicion": "aquella."
+    },
+    {
+        "id": 1476,
+        "palabra": "tütaa",
+        "definicion": "ser trabajador, -dora; ser diligente."
+    },
+    {
+        "id": 1469,
+        "palabra": "tuttaa",
+        "definicion": "1. tener fiebre. 2. tener calor."
+    },
+    {
+        "id": 1477,
+        "palabra": "tüü",
+        "definicion": "ésta, esto. — adj. esta. gram. Esta forma del adjetivo se usa después del nombre"
+    },
+    {
+        "id": 1478,
+        "palabra": "ulee, wulee",
+        "definicion": "1. estar limpio, -pia. uleiyeuuna 2. ser puro, -ra"
+    },
+    {
+        "id": 1479,
+        "palabra": "uliyuuna",
+        "definicion": "wuliyuuna."
+    },
+    {
+        "id": 1480,
+        "palabra": "ului",
+        "definicion": "turpial común"
+    },
+    {
+        "id": 1481,
+        "palabra": "una'ainküin",
+        "definicion": "wuna'ainküin."
+    },
+    {
+        "id": 1482,
+        "palabra": "una'apü",
+        "definicion": "wuna'apü."
+    },
+    {
+        "id": 1483,
+        "palabra": "unapümüin",
+        "definicion": "hacia abajo"
+    },
+    {
+        "id": 1484,
+        "palabra": "uraichi, wuraichi",
+        "definicion": "1. especie de árbol que florece de amarillo en la primavera, cuya madera se usa para fabricar arcos. 2. arco. pos. o'uraichin."
+    },
+    {
+        "id": 1485,
+        "palabra": "utia",
+        "definicion": "wutia."
+    },
+    {
+        "id": 1492,
+        "palabra": "üttaa aa'in",
+        "definicion": "sentir rabia"
+    },
+    {
+        "id": 1486,
+        "palabra": "uuchi",
+        "definicion": "serranía, montaña, cerro"
+    },
+    {
+        "id": 144,
+        "palabra": "uuchi",
+        "definicion": "montaña"
+    },
+    {
+        "id": 1487,
+        "palabra": "uuchipünaa",
+        "definicion": "por el sur."
+    },
+    {
+        "id": 1488,
+        "palabra": "uujolu",
+        "definicion": "chicha de maíz sin alcohol"
+    },
+    {
+        "id": 1489,
+        "palabra": "uwatua",
+        "definicion": "una vez."
+    },
+    {
+        "id": 1490,
+        "palabra": "uwomuyuwaa, uwonyuwaa",
+        "definicion": "1. herir, perjudicar. 2. asesinar"
+    },
+    {
+        "id": 228,
+        "palabra": "uwon",
+        "definicion": "sombrero"
+    },
+    {
+        "id": 1491,
+        "palabra": "uwon",
+        "definicion": "sombrero"
+    },
+    {
+        "id": 1500,
+        "palabra": "wa'lee",
+        "definicion": "amigo (para llamar o saludar un hombre a otro)."
+    },
+    {
+        "id": 35,
+        "palabra": "waainjüle tia",
+        "definicion": "Si lo hacemos..."
+    },
+    {
+        "id": 45,
+        "palabra": "waaʼinrüle tia",
+        "definicion": "Si hacemos eso."
+    },
+    {
+        "id": 1493,
+        "palabra": "waana",
+        "definicion": "millo, mijo"
+    },
+    {
+        "id": 1494,
+        "palabra": "waapünaa",
+        "definicion": "por el occidente"
+    },
+    {
+        "id": 1495,
+        "palabra": "waataa ekii",
+        "definicion": "dolerle la cabeza"
+    },
+    {
+        "id": 1496,
+        "palabra": "waawataa",
+        "definicion": "1. soplar (el viento). 2. moverse por el viento."
+    },
+    {
+        "id": 198,
+        "palabra": "wachajaain",
+        "definicion": "buscar"
+    },
+    {
+        "id": 218,
+        "palabra": "wainma",
+        "definicion": "muchos"
+    },
+    {
+        "id": 1497,
+        "palabra": "wainma, mainma",
+        "definicion": "mucho,"
+    },
+    {
+        "id": 1498,
+        "palabra": "wainpirai",
+        "definicion": "ave paraulata llanera, sinsonte"
+    },
+    {
+        "id": 1499,
+        "palabra": "wairiina",
+        "definicion": "guaireña (calzado), cotiza (calzado)"
+    },
+    {
+        "id": 171,
+        "palabra": "wakoo'omüinra",
+        "definicion": "aumentemos"
+    },
+    {
+        "id": 1502,
+        "palabra": "wala'ayuu",
+        "definicion": "pelusa de la tuna."
+    },
+    {
+        "id": 1501,
+        "palabra": "walaashi",
+        "definicion": "pago."
+    },
+    {
+        "id": 1503,
+        "palabra": "walashi",
+        "definicion": "pelo."
+    },
+    {
+        "id": 1504,
+        "palabra": "walatshi",
+        "definicion": "calor atmosférico"
+    },
+    {
+        "id": 1505,
+        "palabra": "walawaa",
+        "definicion": "estar pagado, -da."
+    },
+    {
+        "id": 1506,
+        "palabra": "walekerü",
+        "definicion": "araña."
+    },
+    {
+        "id": 1507,
+        "palabra": "walirü",
+        "definicion": "zorro, -rra"
+    },
+    {
+        "id": 1508,
+        "palabra": "waluuseechi",
+        "definicion": "buitre, cataneja, oripopo"
+    },
+    {
         "id": 13,
         "palabra": "wamuin",
         "definicion": "a nosotros"
+    },
+    {
+        "id": 1509,
+        "palabra": "wanaa amaa",
+        "definicion": "cuando. gram. El prefijo personal que corresponde al referente se le añade a la palabra amaa."
+    },
+    {
+        "id": 1510,
+        "palabra": "wanaawaa",
+        "definicion": "ser lo mismo, ser igual."
+    },
+    {
+        "id": 1511,
+        "palabra": "wane",
+        "definicion": "un, una"
+    },
+    {
+        "id": 1515,
+        "palabra": "wane'e",
+        "definicion": "wane'eya"
+    },
+    {
+        "id": 1516,
+        "palabra": "wane'ere'eya",
+        "definicion": "no hasta que."
+    },
+    {
+        "id": 1517,
+        "palabra": "wane'ewai akua, wane'ewaire akua",
+        "definicion": "cada uno, una. gram. El prefijo personal que corresponde al referente se le añade a akua"
+    },
+    {
+        "id": 1518,
+        "palabra": "wane'eya, wane'e",
+        "definicion": "otro, otra."
+    },
+    {
+        "id": 57,
+        "palabra": "wanee sukuwaʼipa süpüla",
+        "definicion": "Una forma de/ Una manera de..."
+    },
+    {
+        "id": 1512,
+        "palabra": "waneepia",
+        "definicion": "siempre (continuamente), continuamente"
+    },
+    {
+        "id": 1513,
+        "palabra": "waneepiaa",
+        "definicion": "ser entero, -ra; ser completo, -ta. — v.i. perseverar."
+    },
+    {
+        "id": 1514,
+        "palabra": "waneeshia, -sia",
+        "definicion": "un, una. — pron. uno, una."
+    },
+    {
+        "id": 1519,
+        "palabra": "wanülüü",
+        "definicion": "1. demonio, espíritu maligno. 2. enfermedad"
     },
     {
         "id": 4,
         "palabra": "wapuin",
         "definicion": "te damos"
     },
-    
+    {
+        "id": 1520,
+        "palabra": "waraittaa",
+        "definicion": "andar, caminar"
+    },
+    {
+        "id": 82,
+        "palabra": "waraittüshi",
+        "definicion": "caminar"
+    },
+    {
+        "id": 232,
+        "palabra": "warapa",
+        "definicion": "refresco"
+    },
+    {
+        "id": 1521,
+        "palabra": "waratshii",
+        "definicion": "luz."
+    },
+    {
+        "id": 1522,
+        "palabra": "warulapai",
+        "definicion": "gavilán."
+    },
+    {
+        "id": 1523,
+        "palabra": "warutta",
+        "definicion": "caracol."
+    },
+    {
+        "id": 52,
+        "palabra": "wasakira waaʼin sünain tüü",
+        "definicion": "Preguntémonos esto/Hagámosnos éstas preguntas"
+    },
     {
         "id": 1,
         "palabra": "washikai",
         "definicion": "nuestro padre"
+    },
+    {
+        "id": 1524,
+        "palabra": "washirü",
+        "definicion": "rico, -ca. — n. rico"
+    },
+    {
+        "id": 1527,
+        "palabra": "watta'a",
+        "definicion": "mañana."
+    },
+    {
+        "id": 1528,
+        "palabra": "watta'a maalü",
+        "definicion": "por la mañana."
+    },
+    {
+        "id": 1529,
+        "palabra": "watta'apa",
+        "definicion": "esta mañana (ya pasada)."
+    },
+    {
+        "id": 1525,
+        "palabra": "wattaa",
+        "definicion": "estar lejos"
+    },
+    {
+        "id": 1526,
+        "palabra": "wattaa aalin",
+        "definicion": "ser mucho, -cha. gram. El prefijo personal que corresponde al sujeto se le añade a aalin"
+    },
+    {
+        "id": 1530,
+        "palabra": "wattapia",
+        "definicion": "pasado mañana"
+    },
+    {
+        "id": 43,
+        "palabra": "watüjaa aaʼu",
+        "definicion": "Sabemos..."
+    },
+    {
+        "id": 1531,
+        "palabra": "wawaachi",
+        "definicion": "tortolita."
+    },
+    {
+        "id": 1532,
+        "palabra": "wawai",
+        "definicion": "viento (de tempestad)."
+    },
+    {
+        "id": 1533,
+        "palabra": "waya",
+        "definicion": "nosotros, -tras; nos"
+    },
+    {
+        "id": 178,
+        "palabra": "wayá",
+        "definicion": "nosotros"
+    },
+    {
+        "id": 1534,
+        "palabra": "wayeeta",
+        "definicion": "olla."
+    },
+    {
+        "id": 1535,
+        "palabra": "wayunkeera",
+        "definicion": "muñeca (figura de persona)"
+    },
+    {
+        "id": 1536,
+        "palabra": "wayuu",
+        "definicion": "1. persona. 2. gente, pueblo. 3. indígena wayuu"
+    },
+    {
+        "id": 122,
+        "palabra": "wayuu watta ma'in saalii",
+        "definicion": "gran muchedumbre"
+    },
+    {
+        "id": 1537,
+        "palabra": "wayuunaiki",
+        "definicion": "idioma de los wayuu."
+    },
+    {
+        "id": 1538,
+        "palabra": "weinshi",
+        "definicion": "meinshi."
+    },
+    {
+        "id": 46,
+        "palabra": "wekirajaajeerü anain",
+        "definicion": "Aprenderemos sobre...."
+    },
+    {
+        "id": 1539,
+        "palabra": "wentaana",
+        "definicion": "pentaana."
+    },
+    {
+        "id": 1540,
+        "palabra": "wiinnaa",
+        "definicion": "por el oriente"
+    },
+    {
+        "id": 80,
+        "palabra": "wirü",
+        "definicion": "auyama"
+    },
+    {
+        "id": 1541,
+        "palabra": "wo'olu",
+        "definicion": "mochila para el cinturón del hombre."
+    },
+    {
+        "id": 1542,
+        "palabra": "woola",
+        "definicion": "balón."
+    },
+    {
+        "id": 1543,
+        "palabra": "woowira",
+        "definicion": "bóveda."
+    },
+    {
+        "id": 1544,
+        "palabra": "wopu",
+        "definicion": "camino, sendero"
+    },
+    {
+        "id": 1545,
+        "palabra": "wotoo",
+        "definicion": "estar lleno, -na (de sólidos)."
+    },
+    {
+        "id": 1546,
+        "palabra": "wotshonoi",
+        "definicion": "potshonoi."
+    },
+    {
+        "id": 1547,
+        "palabra": "wuchii",
+        "definicion": "1. pájaro. 2. insecto."
+    },
+    {
+        "id": 1556,
+        "palabra": "wüi",
+        "definicion": "culebra."
+    },
+    {
+        "id": 70,
+        "palabra": "wüin",
+        "definicion": "agua"
+    },
+    {
+        "id": 1557,
+        "palabra": "wüinsiraa",
+        "definicion": "ahogarse"
+    },
+    {
+        "id": 71,
+        "palabra": "wüinsitshii",
+        "definicion": "ahogarse"
+    },
+    {
+        "id": 1558,
+        "palabra": "wüitshii",
+        "definicion": "hierba."
+    },
+    {
+        "id": 1559,
+        "palabra": "wüittaa",
+        "definicion": "ser azul, ser verde"
+    },
+    {
+        "id": 1560,
+        "palabra": "wüittüsü",
+        "definicion": "azul, verde (color de mata)."
+    },
+    {
+        "id": 1548,
+        "palabra": "wulee",
+        "definicion": "ulee."
+    },
+    {
+        "id": 1549,
+        "palabra": "wuliyuuna, uliyuuna",
+        "definicion": "lombriz."
+    },
+    {
+        "id": 1550,
+        "palabra": "wuna'ainküin, una'ainküin",
+        "definicion": "por el bosque, por el monte"
+    },
+    {
+        "id": 1551,
+        "palabra": "wuna'apü, una'apü",
+        "definicion": "selva, bosque, monte."
+    },
+    {
+        "id": 76,
+        "palabra": "wunu'u",
+        "definicion": "arbol"
+    },
+    {
+        "id": 1552,
+        "palabra": "wunyaasüü",
+        "definicion": "miyaasüü."
+    },
+    {
+        "id": 1553,
+        "palabra": "wuraichi",
+        "definicion": "uraichi."
+    },
+    {
+        "id": 1554,
+        "palabra": "wushu",
+        "definicion": "olla de barro cocido."
+    },
+    {
+        "id": 1555,
+        "palabra": "wutia, utia",
+        "definicion": "aguja."
+    },
+    {
+        "id": 1561,
+        "palabra": "yaajeeru'u",
+        "definicion": "en este lado"
+    },
+    {
+        "id": 1562,
+        "palabra": "yaaulerü",
+        "definicion": "un rato"
+    },
+    {
+        "id": 1563,
+        "palabra": "yaawala",
+        "definicion": "al instante, inmediatamente."
+    },
+    {
+        "id": 1564,
+        "palabra": "yaawe",
+        "definicion": "llave"
+    },
+    {
+        "id": 1565,
+        "palabra": "yaaya",
+        "definicion": "aquí."
+    },
+    {
+        "id": 1566,
+        "palabra": "yajaaushi",
+        "definicion": "mazamorra con leche"
+    },
+    {
+        "id": 1567,
+        "palabra": "yala",
+        "definicion": "allí."
+    },
+    {
+        "id": 1568,
+        "palabra": "yalayalaa",
+        "definicion": "1. ser áspero, -ra. 2. ser valiente. 3. ser hábil; ser listo, -ta; ser inteligente."
+    },
+    {
+        "id": 1569,
+        "palabra": "yalejeeru'u",
+        "definicion": "en el otro lado"
+    },
+    {
+        "id": 1570,
+        "palabra": "yaletaa",
+        "definicion": "1. ser alto, -ta. 2. ser importante"
+    },
+    {
+        "id": 1571,
+        "palabra": "yaletaa aa'in",
+        "definicion": "ser altivo, -va."
+    },
+    {
+        "id": 1572,
+        "palabra": "yapaa",
+        "definicion": "estar listo, -ta; estar preparado, -da. — v.i. alistarse, prepararse"
+    },
+    {
+        "id": 1573,
+        "palabra": "yarüttaa, yerüttaa",
+        "definicion": "estar sucio, -cia."
+    },
+    {
+        "id": 96,
+        "palabra": "yarüttüsü",
+        "definicion": "contaminado"
+    },
+    {
+        "id": 1574,
+        "palabra": "yokutaa",
+        "definicion": "star apagado, -da. V. oyokojowaa"
+    },
+    {
+        "id": 106,
+        "palabra": "yolujaa",
+        "definicion": "demonio"
+    },
+    {
+        "id": 1575,
+        "palabra": "yolujaa",
+        "definicion": "1. diablo, demonio. 2. espíritu."
+    },
+    {
+        "id": 1576,
+        "palabra": "yonna",
+        "definicion": "baile."
+    },
+    {
+        "id": 1577,
+        "palabra": "yooi",
+        "definicion": "llaga, infección."
+    },
+    {
+        "id": 1578,
+        "palabra": "yootchon",
+        "definicion": "poquito, -ta (de líquidos)"
+    },
+    {
+        "id": 213,
+        "palabra": "yooto",
+        "definicion": "hablar"
+    },
+    {
+        "id": 1579,
+        "palabra": "yootoo",
+        "definicion": "conversar, charlar"
+    },
+    {
+        "id": 1580,
+        "palabra": "yosu",
+        "definicion": "cardón (especie de cactus)."
+    },
+    {
+        "id": 1582,
+        "palabra": "yüi",
+        "definicion": "tabaco."
+    },
+    {
+        "id": 1583,
+        "palabra": "yülaa",
+        "definicion": "estar roto, -ta; estar quebrado, -da; estar partido, -da."
+    },
+    {
+        "id": 1584,
+        "palabra": "yüüja",
+        "definicion": "huerta, roza"
+    },
+    {
+        "id": 1581,
+        "palabra": "yuulii",
+        "definicion": "ser negro, -gra"
+    },
+    {
+        "id": 1585,
+        "palabra": "yüütüwaa",
+        "definicion": "estar deshabitado, -da; ser solitario, -ria."
     }
 ]
