@@ -375,14 +375,14 @@
         "definicion": "1. tomar, coger. 2. aceptar."
     },
     {
-        "id": 259,
-        "palabra": "aapiee",
-        "definicion": "mensajero, -ra."
-    },
-    {
         "id": 74,
         "palabra": "aapiee",
         "definicion": "angel"
+    },
+    {
+        "id": 259,
+        "palabra": "aapiee",
+        "definicion": "mensajero, -ra."
     },
     {
         "id": 260,
@@ -435,14 +435,14 @@
         "definicion": "1. aflojar. 2. soltar"
     },
     {
-        "id": 162,
-        "palabra": "aawalawaa",
-        "definicion": "mejorarse (recuperarse de una enfermedad o padecimiento, ponerse bien de salud)"
-    },
-    {
         "id": 270,
         "palabra": "aawalawaa",
         "definicion": "aliviarse, mejorarse de una aflicción"
+    },
+    {
+        "id": 162,
+        "palabra": "aawalawaa",
+        "definicion": "mejorarse (recuperarse de una enfermedad o padecimiento, ponerse bien de salud)"
     },
     {
         "id": 272,
@@ -710,6 +710,26 @@
         "definicion": "V. achisa"
     },
     {
+        "id": 1609,
+        "palabra": "aishiikana",
+        "definicion": "amar"
+    },
+    {
+        "id": 1610,
+        "palabra": "aishikana tapula",
+        "definicion": "a quienes quiero mucho"
+    },
+    {
+        "id": 1603,
+        "palabra": "aisü",
+        "definicion": "dolor"
+    },
+    {
+        "id": 1604,
+        "palabra": "aisü tain",
+        "definicion": "me duele mi corazon"
+    },
+    {
         "id": 322,
         "palabra": "aiwaa apüla, alii apüla",
         "definicion": "v.i. ser amado por."
@@ -955,14 +975,14 @@
         "definicion": "sueldo, ganancia"
     },
     {
-        "id": 367,
-        "palabra": "akanajaa",
-        "definicion": "1. ganar. 2. vencer."
-    },
-    {
         "id": 157,
         "palabra": "akanajaa",
         "definicion": "vencer (adaptacion del castellano de ganar)"
+    },
+    {
+        "id": 367,
+        "palabra": "akanajaa",
+        "definicion": "1. ganar. 2. vencer."
     },
     {
         "id": 368,
@@ -1328,6 +1348,11 @@
         "id": 471,
         "palabra": "amaiwa",
         "definicion": "en aquel tiempo de"
+    },
+    {
+        "id": 1608,
+        "palabra": "amalajeʼerüinjanain",
+        "definicion": "que los haga debilitar"
     },
     {
         "id": 476,
@@ -2350,14 +2375,14 @@
         "definicion": "recolectar (alimento)."
     },
     {
-        "id": 665,
-        "palabra": "atpanaa",
-        "definicion": "conejo, -ja. pos. a'atpanaase."
-    },
-    {
         "id": 93,
         "palabra": "atpanaa",
         "definicion": "conejo"
+    },
+    {
+        "id": 665,
+        "palabra": "atpanaa",
+        "definicion": "conejo, -ja. pos. a'atpanaase."
     },
     {
         "id": 666,
@@ -2625,9 +2650,14 @@
         "definicion": "ayounjaa."
     },
     {
+        "id": 1599,
+        "palabra": "ayata",
+        "definicion": "seguir"
+    },
+    {
         "id": 717,
         "palabra": "ayataa",
-        "definicion": "seguir."
+        "definicion": "trabajar."
     },
     {
         "id": 197,
@@ -2998,6 +3028,11 @@
         "id": 743,
         "palabra": "eechin",
         "definicion": "marido, esposo."
+    },
+    {
+        "id": 1614,
+        "palabra": "eeja waaʼin",
+        "definicion": "estar pendiente o alerta"
     },
     {
         "id": 744,
@@ -3665,14 +3700,14 @@
         "definicion": "aunque, no importa que. gram. Son las formas masculina, no masculina, y plural. La conjunción concuerda con el complemento del verbo transitivo o con el sujeto si el verbo no es transitivo"
     },
     {
-        "id": 195,
-        "palabra": "ja'itainna",
-        "definicion": "sin importar"
-    },
-    {
         "id": 33,
         "palabra": "ja'itainna",
         "definicion": "Aunque (refiriéndose a varias personas)"
+    },
+    {
+        "id": 195,
+        "palabra": "ja'itainna",
+        "definicion": "sin importar"
     },
     {
         "id": 32,
@@ -3723,6 +3758,11 @@
         "id": 914,
         "palabra": "ja'yumuu, ja'nyuwaa",
         "definicion": "estar bien cocido, -da; estar maduro, -ra"
+    },
+    {
+        "id": 1602,
+        "palabra": "jaain",
+        "definicion": "corazón, pero siempre va acompañada"
     },
     {
         "id": 903,
@@ -3810,9 +3850,19 @@
         "definicion": "1. tener vergüenza. 2. ser tímido, -"
     },
     {
+        "id": 1620,
+        "palabra": "jarai chi paala",
+        "definicion": "acércate(hombre)"
+    },
+    {
         "id": 924,
         "palabra": "jarai, jaralü, jaralii",
         "definicion": "pron. quién, cuál. — adj. cuál. gram. Son las formas masculina, no masculina, y plural."
+    },
+    {
+        "id": 1622,
+        "palabra": "jarair paala",
+        "definicion": "acércate (mujer )"
     },
     {
         "id": 925,
@@ -4025,14 +4075,14 @@
         "definicion": "muchacha.pl. jimo'onnuu."
     },
     {
-        "id": 963,
-        "palabra": "jintüi",
-        "definicion": "niño, muchacho"
-    },
-    {
         "id": 152,
         "palabra": "jintüi",
         "definicion": "niño"
+    },
+    {
+        "id": 963,
+        "palabra": "jintüi",
+        "definicion": "niño, muchacho"
     },
     {
         "id": 962,
@@ -4290,14 +4340,14 @@
         "definicion": "oiga!"
     },
     {
-        "id": 1000,
-        "palabra": "kaatset",
-        "definicion": "cárcel."
-    },
-    {
         "id": 154,
         "palabra": "kaatset",
         "definicion": "carcel (adaptacion del español)"
+    },
+    {
+        "id": 1000,
+        "palabra": "kaatset",
+        "definicion": "cárcel."
     },
     {
         "id": 1594,
@@ -4450,14 +4500,14 @@
         "definicion": "carretilla."
     },
     {
-        "id": 207,
-        "palabra": "kasa",
-        "definicion": "cosa"
-    },
-    {
         "id": 1030,
         "palabra": "kasa",
         "definicion": "pron. qué. — n. cosa."
+    },
+    {
+        "id": 207,
+        "palabra": "kasa",
+        "definicion": "cosa"
     },
     {
         "id": 1031,
@@ -4473,6 +4523,11 @@
         "id": 1033,
         "palabra": "kasachiki",
         "definicion": "1. noticia. 2. desgracia. 3. guerra"
+    },
+    {
+        "id": 1607,
+        "palabra": "kasain",
+        "definicion": "es una palabra que siempre va acompañada"
     },
     {
         "id": 140,
@@ -4520,6 +4575,16 @@
         "definicion": "estar vivo, -va; vivir. — n. vida"
     },
     {
+        "id": 1601,
+        "palabra": "katchin",
+        "definicion": "fuerza"
+    },
+    {
+        "id": 1600,
+        "palabra": "katchin jaain",
+        "definicion": "sigan teniendo fuerza"
+    },
+    {
         "id": 1041,
         "palabra": "katchinwaa",
         "definicion": "katsüinwaa."
@@ -4555,14 +4620,14 @@
         "definicion": "nadar"
     },
     {
-        "id": 1047,
-        "palabra": "katünasü",
-        "definicion": "avión."
-    },
-    {
         "id": 62,
         "palabra": "katünasü",
         "definicion": "Avion"
+    },
+    {
+        "id": 1047,
+        "palabra": "katünasü",
+        "definicion": "avión."
     },
     {
         "id": 121,
@@ -5250,6 +5315,11 @@
         "definicion": "1. por poco tiempo, brevemente. 2. inmediatamente."
     },
     {
+        "id": 1621,
+        "palabra": "motso muin",
+        "definicion": "un momento"
+    },
+    {
         "id": 1170,
         "palabra": "motsoo",
         "definicion": "1. ser pequeño, -ña. 2. ser poco, -ca."
@@ -5485,6 +5555,16 @@
         "definicion": "no"
     },
     {
+        "id": 1606,
+        "palabra": "nnojotsü kasain",
+        "definicion": "no hay que"
+    },
+    {
+        "id": 1619,
+        "palabra": "nootuin",
+        "definicion": "promover o invitar a hacer algo(normalmente algo malo)"
+    },
+    {
         "id": 117,
         "palabra": "nü'luwajiraain",
         "definicion": "nukuwa'ipa"
@@ -5493,6 +5573,11 @@
         "id": 128,
         "palabra": "nüchon maleiwa",
         "definicion": "hijo de dios"
+    },
+    {
+        "id": 1618,
+        "palabra": "nükalia",
+        "definicion": "de su tiempo o de su momento"
     },
     {
         "id": 120,
@@ -6280,14 +6365,14 @@
         "definicion": "poco, -ca; poquito, -ta. V. yootchon."
     },
     {
-        "id": 1340,
-        "palabra": "palousa",
-        "definicion": "tijeras. pos. -in"
-    },
-    {
         "id": 65,
         "palabra": "palousa",
         "definicion": "tijera"
+    },
+    {
+        "id": 1340,
+        "palabra": "palousa",
+        "definicion": "tijeras. pos. -in"
     },
     {
         "id": 1341,
@@ -6330,12 +6415,12 @@
         "definicion": "hermandad"
     },
     {
-        "id": 1348,
+        "id": 1347,
         "palabra": "peerü",
         "definicion": "perdiz."
     },
     {
-        "id": 1347,
+        "id": 1348,
         "palabra": "peerü",
         "definicion": "perdiz."
     },
@@ -6460,14 +6545,14 @@
         "definicion": "diez."
     },
     {
-        "id": 124,
-        "palabra": "polu",
-        "definicion": "hacha"
-    },
-    {
         "id": 1370,
         "palabra": "polu",
         "definicion": "hacha."
+    },
+    {
+        "id": 124,
+        "palabra": "polu",
+        "definicion": "hacha"
     },
     {
         "id": 1371,
@@ -6558,6 +6643,11 @@
         "id": 1384,
         "palabra": "püreesaa",
         "definicion": "estar preso, -sa. püreesaapüle püreesaapüle n. cárcel."
+    },
+    {
+        "id": 1623,
+        "palabra": "purutkat motso muin",
+        "definicion": "acércate (cualquiera) un momento"
     },
     {
         "id": 1385,
@@ -6925,6 +7015,11 @@
         "definicion": "1. tener dormido un miembro del cuerpo. 2. dar calambre."
     },
     {
+        "id": 1617,
+        "palabra": "soʼujeʼereeya",
+        "definicion": "desde"
+    },
+    {
         "id": 1435,
         "palabra": "süchi",
         "definicion": "río."
@@ -6932,6 +7027,11 @@
     {
         "id": 209,
         "palabra": "suchiki",
+        "definicion": "sobre"
+    },
+    {
+        "id": 1612,
+        "palabra": "süchiki",
         "definicion": "sobre"
     },
     {
@@ -6978,6 +7078,11 @@
         "id": 1595,
         "palabra": "suluʼu",
         "definicion": "de"
+    },
+    {
+        "id": 1615,
+        "palabra": "sümaa",
+        "definicion": "con"
     },
     {
         "id": 1591,
@@ -7090,6 +7195,11 @@
         "definicion": "Corazon"
     },
     {
+        "id": 1605,
+        "palabra": "taain",
+        "definicion": "mi corazon"
+    },
+    {
         "id": 103,
         "palabra": "taapaa taa'in nümüim je'waa",
         "definicion": "dedicacion"
@@ -7143,6 +7253,11 @@
         "id": 105,
         "palabra": "tapachera",
         "definicion": "dedos(pies)"
+    },
+    {
+        "id": 1611,
+        "palabra": "tapüla",
+        "definicion": "indicativo de mi"
     },
     {
         "id": 112,
@@ -7245,14 +7360,14 @@
         "definicion": "doctor"
     },
     {
-        "id": 1470,
-        "palabra": "tü",
-        "definicion": "esta."
-    },
-    {
         "id": 1596,
         "palabra": "tü",
         "definicion": "la"
+    },
+    {
+        "id": 1470,
+        "palabra": "tü",
+        "definicion": "esta."
     },
     {
         "id": 1468,
@@ -7355,14 +7470,14 @@
         "definicion": "sentir rabia"
     },
     {
-        "id": 1486,
-        "palabra": "uuchi",
-        "definicion": "serranía, montaña, cerro"
-    },
-    {
         "id": 144,
         "palabra": "uuchi",
         "definicion": "montaña"
+    },
+    {
+        "id": 1486,
+        "palabra": "uuchi",
+        "definicion": "serranía, montaña, cerro"
     },
     {
         "id": 1487,
@@ -7385,12 +7500,12 @@
         "definicion": "1. herir, perjudicar. 2. asesinar"
     },
     {
-        "id": 228,
+        "id": 1491,
         "palabra": "uwon",
         "definicion": "sombrero"
     },
     {
-        "id": 1491,
+        "id": 228,
         "palabra": "uwon",
         "definicion": "sombrero"
     },
@@ -7560,6 +7675,11 @@
         "definicion": "un, una. — pron. uno, una."
     },
     {
+        "id": 1616,
+        "palabra": "wanoula",
+        "definicion": "nuestra fe"
+    },
+    {
         "id": 1519,
         "palabra": "wanülüü",
         "definicion": "1. demonio, espíritu maligno. 2. enfermedad"
@@ -7698,6 +7818,11 @@
         "id": 1538,
         "palabra": "weinshi",
         "definicion": "meinshi."
+    },
+    {
+        "id": 1613,
+        "palabra": "wekirajaainjatkalü",
+        "definicion": "lo que vamos a estudiar"
     },
     {
         "id": 46,
