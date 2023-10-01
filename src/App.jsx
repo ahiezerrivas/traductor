@@ -72,18 +72,28 @@ function App() {
     const terminoBusqueda = e.target.value;
     setBusqueda(terminoBusqueda);
     filtrar(terminoBusqueda);
-    console.log(terminoBusqueda);
+   
   };
 
   const filtrar = (terminoBusqueda) => {
-    const resultadoBusqueda = tablaPalabra.filter((elemento) =>
-      elemento.palabra.toLowerCase().includes(terminoBusqueda.toLowerCase())
-    );
-
+    const resultadoBusqueda = tablaPalabra.filter((elemento) => {
+      if (languaje) {
+        return elemento.definicion.toLowerCase().includes(terminoBusqueda.toLowerCase());
+      } else {
+        return elemento.palabra.toLowerCase().includes(terminoBusqueda.toLowerCase());
+      }
+    });
+  
+  
     setPalabra(resultadoBusqueda);
   };
+  
 
- 
+
+  const [languaje, setlanguaje] = useState(false)
+ const handleChangeLanguaje = () =>{
+  setlanguaje(!languaje)
+ }
 
   return (
     <>
@@ -96,6 +106,13 @@ function App() {
             onChange={handleChange}
             style={{ textTransform: "lowercase" }}
           />
+
+          <button
+          
+          onClick={handleChangeLanguaje}
+          >
+            {languaje? "Wayu":"Español"}
+          </button>
         </div>
 
         {/* <div style={{ width: '100%', height: '100vh' }}>
@@ -127,7 +144,8 @@ function App() {
                   <Popup
                     trigger={
                       <button key={palabra.id} className="btn-medidas">
-                        {palabra.palabra}
+
+                        {languaje ? palabra.definicion : palabra.palabra}
                       </button>
                     }
                     modal
@@ -144,7 +162,7 @@ function App() {
                           &times;
                         </button>
                         </Row>
-                        <div className="header">Definicion : {palabra.definicion}</div>
+                        <div className="header">Definicion :   {languaje ? palabra.palabra : palabra.definicion}</div>
                        
                       </div>
                     )}
